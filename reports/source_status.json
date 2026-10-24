@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23",
+  "generated_at": "2026-10-24",
   "sources": [
     {
       "id": "eurlex-cellar",
@@ -9,7 +9,7 @@
       "last_verified_at": "2026-10-22",
       "verified_scope": "Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos atos referidos pela legislação portuguesa; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos.",
       "reuse_status": "permitted_with_conditions",
-      "documents_in_repository": 7798
+      "documents_in_repository": 7806
     },
     {
       "id": "dre",
