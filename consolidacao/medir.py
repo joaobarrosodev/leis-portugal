@@ -18,6 +18,16 @@ from texto import RAIZ
 PASTA = RAIZ / "consolidacao"
 
 
+def _sessao() -> dict:
+    """As respostas da sessão do Claude: o `--importar` e o que o `juntar.py` juntou."""
+    respostas = [json.loads(f.read_text(encoding="utf-8")) for f in sorted((PASTA / "llm").glob("pt_*.json"))]
+    juntados = PASTA / "llm" / "juntados.jsonl"
+    return {
+        "importar": dict(Counter("com problemas" if r["problemas"] else "não aplicável" if not r.get("artigos") else "aprovada" for r in respostas)),
+        "juntar": dict(Counter(j["estado"] for j in map(json.loads, juntados.read_text(encoding="utf-8").splitlines()))) if juntados.exists() else {},
+    }
+
+
 def main() -> int:
     resultados = [json.loads(l) for l in (PASTA / "resultados.jsonl").read_text(encoding="utf-8").splitlines()]
     pendentes = [json.loads(l) for l in (PASTA / "pendentes.jsonl").read_text(encoding="utf-8").splitlines()]
@@ -44,8 +54,9 @@ def main() -> int:
         "comparacao_com_republicacoes": republicacoes,
         "titulos_pelo_parser_da_fase_3": dict(Counter(r["estado"] for r in resultados if r.get("titulos_normalizados"))),
         "llm": {"pedidos_feitos": 0, "tokens_usados": 0,
-                "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto; a entrada para uma sessão do Claude está em llm/entrada-sessao.jsonl",
-                "estimativa_para_os_pendentes": estimar(pendentes, selecao)},
+                "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto; os pendentes foram feitos numa sessão do Claude (llm/entrada-sessao.jsonl)",
+                "estimativa_para_os_pendentes": estimar(pendentes, selecao),
+                "sessao": _sessao()},
     }
     (PASTA / "medicao.json").write_text(json.dumps(medicao, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for estado, dados in medicao["por_estado"].items():
