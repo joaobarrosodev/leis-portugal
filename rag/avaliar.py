@@ -77,6 +77,14 @@ def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_
     avisa_revogacao = bool(topo and topo.revogado_por) or bool(topo and any("revogad" in a.lower() for a in topo.avisos))
     revogado_por_certo = bool(topo and p.get("revogado_por") and p["revogado_por"]["documento"] in topo.revogado_por)
 
+    # O primeiro resultado está certo (artigo e redação; nas revogadas, diploma e aviso), responda ou não.
+    if p["tipo"] == "sem_resposta":
+        acerta_topo = False
+    elif p["tipo"] == "revogada":
+        acerta_topo = bool(topo and topo.documento == fonte["documento"] and revogado_por_certo)
+    else:
+        acerta_topo = pos_texto == 1
+
     if p["tipo"] == "sem_resposta":
         certa = not resposta.responde
     elif not resposta.responde:
@@ -87,10 +95,8 @@ def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_
             certa = citado and "revogad" in resposta.texto.lower() and p["revogado_por"]["titulo"].split("n.º")[-1].strip() in resposta.texto
         else:
             certa = citado and _mesmo_sentido()(p["resposta"], resposta.texto)
-    elif p["tipo"] == "revogada":
-        certa = bool(topo and topo.documento == fonte["documento"] and revogado_por_certo)
     else:
-        certa = pos_texto == 1
+        certa = acerta_topo
 
     return {
         "id": p["id"],
@@ -112,6 +118,7 @@ def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_
         "motivo": resposta.motivo,
         "resposta": resposta.texto[:500] if resposta.com_llm else None,
         "certa": certa,
+        "acerta_topo": acerta_topo,
     }
 
 
@@ -139,6 +146,24 @@ def resumir(linhas: list[dict]) -> dict[str, dict]:
             r["revogado_por_certo@1"] = sum(x["revogado_por_certo"] for x in rev)
         resumo[tipo] = r
     return resumo
+
+
+def curva(linhas: list[dict], limiares: list[float]) -> str:
+    """"Não sei" e fiabilidade sem LLM se se recusar quando o reranker dá ao melhor artigo menos do que o limiar."""
+    texto = ["| Limiar | \"não sei\" nas que têm resposta | \"não sei\" nas sem resposta | fiabilidade (certas/respondidas) |",
+             "|--:|--:|--:|--:|"]
+    com = [x for x in linhas if x["tipo"] != "sem_resposta"]
+    sem = [x for x in linhas if x["tipo"] == "sem_resposta"]
+    def responde(x: dict, limiar: float) -> bool:
+        return x["responde"] and (x["topo_reranker"] is None or x["topo_reranker"] >= limiar)
+
+    for limiar in limiares:
+        respondidas = [x for x in linhas if responde(x, limiar)]
+        certas = sum(x["acerta_topo"] for x in respondidas)
+        texto.append(f"| {limiar:g} | {100 * sum(not responde(x, limiar) for x in com) / len(com):.0f}% | "
+                     f"{100 * sum(not responde(x, limiar) for x in sem) / max(len(sem), 1):.0f}% | "
+                     f"{100 * certas / max(len(respondidas), 1):.0f}% ({certas}/{len(respondidas)}) |")
+    return "\n".join(texto)
 
 
 def tabela(resumo: dict[str, dict]) -> str:
@@ -202,6 +227,8 @@ def main(argv: list[str] | None = None) -> int:
         if r:
             print(f"\nRevogadas: avisa da revogação no 1.º resultado {r['avisa_revogacao@1']}/{r['n']}, "
                   f"com o diploma revogatório certo {r['revogado_por_certo@1']}/{r['n']}")
+    if reranker is not None and reranker.tipo == "cruzado" and not usar_llm:
+        print("\n" + curva(linhas, [-6, -4, -2, -1, 0, 1, 2, 3, 4]))
     print(f"\n{time.time() - inicio:.0f} s", file=sys.stderr)
     return 0
 

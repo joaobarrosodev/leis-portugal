@@ -17,24 +17,26 @@ from rag.fontes import PASTA_INDICE
 
 MODELO_CRUZADO = "BAAI/bge-reranker-v2-m3-int8"
 MODELO_DENSO = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-CARACTERES = 2000
+CARACTERES = 1200
 
 
 class Reranker:
-    def __init__(self, tipo: str = "cruzado", *, maximo: int = 40):
+    def __init__(self, tipo: str = "cruzado", *, maximo: int = 30):
         os.environ.setdefault("HF_HOME", str(PASTA_INDICE / "hf"))
         os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
         pasta = str(PASTA_INDICE / "modelos")
+        # Depois da primeira descarga, carrega só da cache: sem rede, o fastembed fica preso a tentar o Hugging Face.
+        local = any((PASTA_INDICE / "modelos").glob("models--*"))
         self.tipo = tipo
         self.maximo = maximo
         if tipo == "cruzado":
             from fastembed.rerank.cross_encoder import TextCrossEncoder
 
-            self.modelo = TextCrossEncoder(MODELO_CRUZADO, cache_dir=pasta)
+            self.modelo = TextCrossEncoder(MODELO_CRUZADO, cache_dir=pasta, local_files_only=local)
         elif tipo == "denso":
             from fastembed import TextEmbedding
 
-            self.modelo = TextEmbedding(MODELO_DENSO, cache_dir=pasta)
+            self.modelo = TextEmbedding(MODELO_DENSO, cache_dir=pasta, local_files_only=local)
         else:
             raise ValueError(f"reranker desconhecido: {tipo}")
 

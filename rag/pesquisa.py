@@ -28,6 +28,9 @@ from rag.fontes import PASTA_INDICE
 
 PESOS_BM25 = (2.0, 1.0)  # cabeçalho (diploma, sumário, anexo, epígrafe), texto
 MAX_TERMOS = 24
+PRIOR_CONSOLIDADO = 1.25
+PRIOR_ESTADO = {"repealed": 0.6, "not_in_force": 0.6, "unknown": 0.85}
+PRIOR_REPUBLICACAO = 0.6
 REVOGADO = ("repealed", "not_in_force")
 
 
@@ -174,15 +177,27 @@ class Pesquisa:
             linhas.sort(key=lambda x: x[1])
         else:
             linhas = self.con.execute(sql + " ORDER BY s LIMIT ?", (consulta, limite * 10)).fetchall()
-        datas = self._datas([i for i, _ in linhas])
-        return [(i, -s) for i, s in linhas if self._em_vigor(*datas[i], data)][:limite]
+        info = self._info([i for i, _ in linhas])
+        pontuacoes = [(i, -s * (1.0 if documentos else self._prior(*info[i][2:]))) for i, s in linhas if self._em_vigor(*info[i][:2], data)]
+        return sorted(pontuacoes, key=lambda x: -x[1])[:limite]
 
-    def _datas(self, ids: list[int]) -> dict[int, tuple[str | None, str | None]]:
-        resultado: dict[int, tuple[str | None, str | None]] = {}
+    def _prior(self, documento: str, parte: str) -> float:
+        """Peso da "lei atual" na pesquisa em todo o acervo: o texto consolidado pelo DRE à frente, os
+        diplomas revogados, de vigência desconhecida e os anexos de republicação (texto de outra data) atrás."""
+        doc = self.documento(documento) or {}
+        peso = PRIOR_CONSOLIDADO if doc.get("com_historico") else 1.0
+        peso *= PRIOR_ESTADO.get(doc.get("legal_status"), 1.0)
+        if "republica" in parte.lower():
+            peso *= PRIOR_REPUBLICACAO
+        return peso
+
+    def _info(self, ids: list[int]) -> dict[int, tuple[str | None, str | None, str, str]]:
+        """(desde, ate, documento, parte) de cada pedaço."""
+        resultado = {}
         for n in range(0, len(ids), 900):
             lote = ids[n : n + 900]
-            for i, desde, ate in self.con.execute(f"SELECT id, desde, ate FROM pedacos WHERE id IN ({','.join('?' * len(lote))})", lote):
-                resultado[i] = (desde, ate)
+            for i, *resto in self.con.execute(f"SELECT id, desde, ate, documento, parte FROM pedacos WHERE id IN ({','.join('?' * len(lote))})", lote):
+                resultado[i] = tuple(resto)
         return resultado
 
     # ------------------------------------------------------------------ pesquisa
