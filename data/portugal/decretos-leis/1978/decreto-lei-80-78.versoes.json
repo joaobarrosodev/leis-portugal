@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:425556:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "719162591e18f336"
+   ]
+  },
+  {
+   "date": "1979-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382059:por",
+     "title": "Decreto-Lei n.º 219/79",
+     "published": "1979-07-17",
+     "dre_path": "/dr/detalhe/decreto-lei/219-1979-382059"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "2a3fabb5ad206795",
+    "53d69dce04d1427f",
+    "b10b7a236b7ec0b7",
+    "2d76e2c00c9c6afc"
+   ]
+  }
+ ],
+ "fragments": {
+  "719162591e18f336": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Abril\n\nConsiderando que as modificações introduzidas no ensino secundário tornaram manifestamente obsoleta a distinção entre liceus e escolas do ensino técnico secundário:\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Todos os estabelecimentos do ensino secundário passam a ter a designação genérica de escolas secundárias.\n\nArt. 2.º As escolas secundárias mantêm as designações dos antigos liceus e das antigas escolas técnicas industriais, comerciais e industriais e comerciais.\n\nArt. 3.º O Ministro da Educação e Cultura procederá, mediante portaria, às alterações de designação das escolas secundárias tornadas necessárias por força do disposto no presente decreto-lei.\n\nMário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 14 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "2a3fabb5ad206795": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Abril\n\nConsiderando que as modificações introduzidas no ensino secundário tornaram manifestamente obsoleta a distinção entre liceus e escolas do ensino técnico secundário:\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "53d69dce04d1427f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nTodos os estabelecimentos do ensino secundário passam a ter a designação genérica de escolas secundárias."
+  },
+  "b10b7a236b7ec0b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1979-07-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17."
+  },
+  "2d76e2c00c9c6afc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1979-07-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17.\n\nMário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 14 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

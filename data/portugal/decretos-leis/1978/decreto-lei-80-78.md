@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-07-17'
+version_history:
+  file: decreto-lei-80-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-07-17'
+    amending: pt:dre:382059:por
+    amending_title: Decreto-Lei n.º 219/79
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:16:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 219/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-80-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,11 +119,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Todos os estabelecimentos do ensino secundário passam a ter a designação genérica de escolas secundárias.
+###### Artigo 1.º
 
-Art. 2.º As escolas secundárias mantêm as designações dos antigos liceus e das antigas escolas técnicas industriais, comerciais e industriais e comerciais.
+Todos os estabelecimentos do ensino secundário passam a ter a designação genérica de escolas secundárias.
 
-Art. 3.º O Ministro da Educação e Cultura procederá, mediante portaria, às alterações de designação das escolas secundárias tornadas necessárias por força do disposto no presente decreto-lei.
+###### Artigo 2.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17.
+
+###### Artigo 3.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17.
 
 Mário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.
 

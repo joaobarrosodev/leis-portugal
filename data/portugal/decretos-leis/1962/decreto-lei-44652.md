@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-08-20'
+version_history:
+  file: decreto-lei-44652.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-08-20'
+    amending: pt:dre:419603:por
+    amending_title: Decreto-Lei n.º 412/73
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:42:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/73. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44652.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,11 +212,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Do desenvolvimento económico e dos planos e programas de fomento
 
-Artigo 1.º Na prossecução da sua política de desenvolvimento económico, o Governo procurará fomentar o crescimento económico e social dos territórios e regiões menos desenvolvidos do espaço português, facilitando uma sã concorrência nos diversos mercados nacionais, sem prejuízo de protecção adequada e pelo prazo necessário aos novos sectores de actividade, quando ela não colida com as obrigações internacionais assumidas pelo País e se conforme com o disposto no § único do artigo 5.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961.
+###### Artigo 1.º
 
-Art. 2.º Com vista a garantir o equilíbrio do desenvolvimento económico nacional e o seu ritmo óptimo nos limites da melhor utilização dos factores de ordem económica e política, da manutenção da estabilidade interna e da solvabilidade externa da moeda nacional, o Estado prestará todo o apoio possível à iniciativa privada, orientando-a, completando-a, ou, mesmo, suprindo-a pela sua própria acção, quando isso se mostre essencial à realização de interesses superiores e gerais.
+Na prossecução da sua política de desenvolvimento económico, o Governo procurará fomentar o crescimento económico e social dos territórios e regiões menos desenvolvidos do espaço português, facilitando uma sã concorrência nos diversos mercados nacionais, sem prejuízo de protecção adequada e pelo prazo necessário aos novos sectores de actividade, quando ela não colida com as obrigações internacionais assumidas pelo País e se conforme com o disposto no § único do artigo 5.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961.
 
-Art. 3.º O Governo, tendo em conta as alterações verificadas na situação político-económica do País e considerando, muito especialmente, os problemas decorrentes do processo de unificação progressiva dos diversos mercados compreendidos no espaço português, determinará até 31 de Março de 1963 as revisões aconselháveis no II Plano de Fomento, cabendo ao Conselho de Ministros para os Assuntos Económicos as providências que evitem qualquer interrupção inconveniente no andamento dos empreendimentos em curso durante o 1.º trimestre de 1963.
+###### Artigo 2.º
+
+Com vista a garantir o equilíbrio do desenvolvimento económico nacional e o seu ritmo óptimo nos limites da melhor utilização dos factores de ordem económica e política, da manutenção da estabilidade interna e da solvabilidade externa da moeda nacional, o Estado prestará todo o apoio possível à iniciativa privada, orientando-a, completando-a, ou, mesmo, suprindo-a pela sua própria acção, quando isso se mostre essencial à realização de interesses superiores e gerais.
+
+###### Artigo 3.º
+
+O Governo, tendo em conta as alterações verificadas na situação político-económica do País e considerando, muito especialmente, os problemas decorrentes do processo de unificação progressiva dos diversos mercados compreendidos no espaço português, determinará até 31 de Março de 1963 as revisões aconselháveis no II Plano de Fomento, cabendo ao Conselho de Ministros para os Assuntos Económicos as providências que evitem qualquer interrupção inconveniente no andamento dos empreendimentos em curso durante o 1.º trimestre de 1963.
 
 § 1.º Na decisão a adoptar nos termos deste artigo serão tidos em particular atenção as necessidades das áreas menos desenvolvidas e a reprodutividade, maior e mais rápida, dos empreendimentos inscritos ou a inscrever no Plano, bem como o respectivo interesse social, designadamente em matéria de emprego e mão-de-obra.
 
@@ -208,7 +230,9 @@ Art. 3.º O Governo, tendo em conta as alterações verificadas na situação po
 
 § 3.º Quando proceder à revisão prevista neste artigo, o Governo promoverá a inscrição no Plano de Fomento da generalidade dos programas sectoriais de fomento económico já aprovados, seja qual for a sua natureza, na parte desses programas que se executar até ao termo do Plano de Fomento em curso.
 
-Art. 4.º Para a elaboração dos futuros planos de fomento e, eventualmente, de um plano de transição entre o plano actualmente em curso e o que se lhe seguirá no encadeamento de uma política de desenvolvimento económico a longo prazo, o competente serviço de planeamento, previsto no artigo 33.º do presente diploma, submeterá à aprovação do Conselho de Ministros para os Assuntos Económicos, nas datas a fixar por este, o projecto de cada plano elaborado a partir dos estudos e mais trabalhos preliminares preparados pelos serviços dos Ministérios interessados e da colaboração obtida dos organismos corporativos, das instituições, de carácter económico e das empresas privadas, através de sugestões, pareceres, relatórios sobre a estrutura dos sectores e outros elementos apropriados.
+###### Artigo 4.º
+
+Para a elaboração dos futuros planos de fomento e, eventualmente, de um plano de transição entre o plano actualmente em curso e o que se lhe seguirá no encadeamento de uma política de desenvolvimento económico a longo prazo, o competente serviço de planeamento, previsto no artigo 33.º do presente diploma, submeterá à aprovação do Conselho de Ministros para os Assuntos Económicos, nas datas a fixar por este, o projecto de cada plano elaborado a partir dos estudos e mais trabalhos preliminares preparados pelos serviços dos Ministérios interessados e da colaboração obtida dos organismos corporativos, das instituições, de carácter económico e das empresas privadas, através de sugestões, pareceres, relatórios sobre a estrutura dos sectores e outros elementos apropriados.
 
 § 1.º Os planos de fomento serão concebidos como programas globais coordenadores dos vários planos elaborados para cada uma das parcelas integrantes da Nação Portuguesa, procurando-se o aumento da eficiência dos capitais e o equilíbrio sectorial e regional dos investimentos com vista ao desenrolar de um processo de crescimento harmónico em economia de mercado que evite concentrações geográficas excessivas e active o desenvolvimento das áreas menos desenvolvidas, desde que a disseminação territorial dos empreendimentos se processe à luz dos melhores critérios de localização das actividades económicas.
 
@@ -218,9 +242,13 @@ Para tanto, o serviço de planeamento promoverá, por si e em colaboração com 
 
 § 3.º Os estudos preparatórios dos planos de fomento serão oportunamente publicados.
 
-Art. 5.º A fim de incentivar o aforro privado e orientá-lo para o investimento mais conveniente ao processo de desenvolvimento económico nacional e assegurar a concretização dos programas das empresas que ofereçam particular interesse para a prossecução dos objectivos propostos, o Ministério das Finanças, no continente e ilhas adjacentes, e o Ministério do Ultramar, nas províncias ultramarinas, conjuntamente com os outros Ministérios interessados, precedendo decisão do Conselho de Ministros para os Assuntos Económicos, poderão celebrar com essas empresas contratos, nos quais se estabelecem as condições de prestação, pelo Estado, de auxílio financeiro, de aval a operações de crédito, de isenções ou reduções fiscais, de assistência técnica ao fabrico e à comercialização dos produtos, bem como as penalidades em que as empresas incorram pela não efectivação dos investimentos a que se obrigaram no prazo, valor e forma acordada.
+###### Artigo 5.º
 
-Art. 6.º Segundo a hierarquia dos objectivos estabelecidos nos planos de fomento ou em resoluções do Conselho de Ministros para os Assuntos Económicos, instituído no presente diploma, e tendo em conta a capacidade de financiamento existente, o Estado reforçará o seu apoio às iniciativas privadas cujo interesse económico reconheça, quando elas não consigam, por si sós, obter nos mercados financeiros os meios necessários à sua concretização.
+A fim de incentivar o aforro privado e orientá-lo para o investimento mais conveniente ao processo de desenvolvimento económico nacional e assegurar a concretização dos programas das empresas que ofereçam particular interesse para a prossecução dos objectivos propostos, o Ministério das Finanças, no continente e ilhas adjacentes, e o Ministério do Ultramar, nas províncias ultramarinas, conjuntamente com os outros Ministérios interessados, precedendo decisão do Conselho de Ministros para os Assuntos Económicos, poderão celebrar com essas empresas contratos, nos quais se estabelecem as condições de prestação, pelo Estado, de auxílio financeiro, de aval a operações de crédito, de isenções ou reduções fiscais, de assistência técnica ao fabrico e à comercialização dos produtos, bem como as penalidades em que as empresas incorram pela não efectivação dos investimentos a que se obrigaram no prazo, valor e forma acordada.
+
+###### Artigo 6.º
+
+Segundo a hierarquia dos objectivos estabelecidos nos planos de fomento ou em resoluções do Conselho de Ministros para os Assuntos Económicos, instituído no presente diploma, e tendo em conta a capacidade de financiamento existente, o Estado reforçará o seu apoio às iniciativas privadas cujo interesse económico reconheça, quando elas não consigam, por si sós, obter nos mercados financeiros os meios necessários à sua concretização.
 
 § 1.º Para a realização de empreendimentos declarados de reconhecido interesse para a economia nacional e em relação aos quais a iniciativa privada se mostre insuficiente ou hesitante o Estado poderá promover a constituição de empresas de economia mista.
 
@@ -228,7 +256,9 @@ Art. 6.º Segundo a hierarquia dos objectivos estabelecidos nos planos de foment
 
 ### CAPÍTULO II — Do ordenamento agrícola e do condicionamento industrial
 
-Art. 7.º Até 30 de Junho de 1963, o Governo procederá à revisão das disposições legais em vigor no continente, ilhas adjacentes e províncias ultramarinas sobre o condicionamento industrial e, tão cedo quanto possível, sobre o ordenamento agrícola.
+###### Artigo 7.º
+
+Até 30 de Junho de 1963, o Governo procederá à revisão das disposições legais em vigor no continente, ilhas adjacentes e províncias ultramarinas sobre o condicionamento industrial e, tão cedo quanto possível, sobre o ordenamento agrícola.
 
 A revisão visará a simplificar o sistema e, bem assim, a assegurar unidade de critério, tendo em conta os interesses do espaço económico nacional, as necessidades particulares das áreas menos desenvolvidas, o aperfeiçoamento da divisão inter-regional do trabalho, o processo de unificação dos mercados portugueses e, ainda, as condições criadas pelo alargamento da cooperação económica internacional.
 
@@ -238,19 +268,25 @@ A revisão visará a simplificar o sistema e, bem assim, a assegurar unidade de 
 
 ### CAPÍTULO III — Dos incentivos e apoio do Estado à iniciativa privada
 
-Art. 8.º Proceder-se-á à revisão das disposições legais relativas ao fomento industrial e agrícola no continente, ilhas adjacentes e províncias ultramarinas, tendo em vista completar e melhorar o regime de incentivo e apoio do Estado à industrialização dos territórios e ao progresso das respectivas actividades agrárias.
+###### Artigo 8.º
+
+Proceder-se-á à revisão das disposições legais relativas ao fomento industrial e agrícola no continente, ilhas adjacentes e províncias ultramarinas, tendo em vista completar e melhorar o regime de incentivo e apoio do Estado à industrialização dos territórios e ao progresso das respectivas actividades agrárias.
 
 § único. Nos termos deste artigo, serão revistas as disposições legais em vigor relativas à concessão de isenções fiscais e outras formas de estímulos directos à iniciativa privada para a instalação de novas actividades produtivas ou modernização das já existentes.
 
 As disposições deverão aplicar-se a todos os territórios, sem prejuízo de as formas de apoio do Estado ao desenvolvimento da actividade privada poderem variar consoante o grau de desenvolvimento de cada um deles.
 
-Art. 9.º Com vista a proporcionar os meios adequados ao alargamento e à melhor coordenação da assistência financeira do Estado à iniciativa privada ou mesmo à participação directa do Estado no lançamento e execução de empreendimentos declarados essenciais para a prossecução dos objectivos definidos nos planos de fomento globais e territoriais, nomeadamente os que se refiram ao ordenamento agrícola e à reorganização industrial, o Governo procederá à criação, no Ministério das Finanças, de um Fundo de Fomento Económico, de âmbito nacional, cujo regulamento será publicado até 31 de Dezembro de 1963.
+###### Artigo 9.º
+
+Com vista a proporcionar os meios adequados ao alargamento e à melhor coordenação da assistência financeira do Estado à iniciativa privada ou mesmo à participação directa do Estado no lançamento e execução de empreendimentos declarados essenciais para a prossecução dos objectivos definidos nos planos de fomento globais e territoriais, nomeadamente os que se refiram ao ordenamento agrícola e à reorganização industrial, o Governo procederá à criação, no Ministério das Finanças, de um Fundo de Fomento Económico, de âmbito nacional, cujo regulamento será publicado até 31 de Dezembro de 1963.
 
 § 1.º O Governo, por intermédio do Ministério das Finanças, articulará, pela forma mais conveniente, as actividades do Fundo de Fomento Económico, da Caixa Nacional de Crédito e do Banco de Fomento Nacional, podendo tanto este como aquela beneficiar por parte do Fundo de empréstimos e outros créditos a médio e longo prazo para fins específicos e determinados.
 
 § 2.º A aprovação do plano geral da actividade do Fundo de Fomento Económico é da competência do Conselho de Ministros para os Assuntos Económicos, devendo as condições especiais de cada caso ser estabelecidas posteriormente pelo Ministério das Finanças, com audiência do Ministério interessado.
 
-Art. 10.º Constituirão receita do Fundo de Fomento Económico, designadamente:
+###### Artigo 10.º
+
+Constituirão receita do Fundo de Fomento Económico, designadamente:
 
 a) As receitas dos Fundos de apoio à indústria e à agricultura, actualmente existentes, e que o Governo entenda incorporar no novo Fundo;
 
@@ -264,57 +300,87 @@ e) Parte do empréstimo autorizado pelo [Decreto-Lei n.º 44250](https://diariod
 
 f) O produto de empréstimos para fins de fomento a colocar nos mercados nacionais ou estrangeiros.
 
-Art. 11.º A criação do Fundo de Fomento Económico não impedirá que subsistam ou se constituam no ultramar fundos de fomento por intermédio dos quais os governos das províncias realizem o apoio financeiro às actividades privadas para os fins previstos nos planos de fomento territoriais.
+###### Artigo 11.º
+
+A criação do Fundo de Fomento Económico não impedirá que subsistam ou se constituam no ultramar fundos de fomento por intermédio dos quais os governos das províncias realizem o apoio financeiro às actividades privadas para os fins previstos nos planos de fomento territoriais.
 
 § único. Os regulamentos dos fundos de fomento das províncias ultramarinas serão promulgados por portaria do Ministério do Ultramar, mediante proposta dos governos das mesmas províncias.
 
 ### CAPÍTULO IV — Da formação e mobilização dos capitais
 
-Art. 12.º Dependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos as emissões de acções ou obrigações de quaisquer empresas privadas cujo valor exceda, no período de um ano, a importância de 10 milhões de escudos.
+###### Artigo 12.º
 
-Art. 13.º Fica sujeita a prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos a constituição de quaisquer empresas cujo capital social seja igual ou superior a 50 milhões de escudos.
+Dependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos as emissões de acções ou obrigações de quaisquer empresas privadas no ultramar cujo valor exceda, no período de um ano, a importância de 50 milhões de escudos.
 
-Na apreciação dos pedidos serão tidas em conta, além da viabilidade e interesse económico geral do empreendimento, as condições do território onde a empresa se destina a exercer as suas principais actividades.
+> Alterado pelo/a [Decreto-Lei n.º 412/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1973-419603), publicado em 1973-08-20.
 
-Art. 14.º Tendo presente o condicionalismo decorrente do processo de integração económica dos territórios nacionais, o Governo procederá à reorganização do sistema de crédito e da estrutura bancária nas províncias ultramarinas, adoptando, sempre que possível, os princípios que informam os Decretos-Leis n.os 41403, de 27 de Novembro de 1957, e 42641, de 12 de Novembro de 1959.
+###### Artigo 13.º
+
+Fica sujeita a prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos a constituição de quaisquer empresas no ultramar cujo capital seja superior a 100 milhões de escudos; na apreciação dos pedidos serão tidas em conta, além da viabilidade e interesse económico geral do empreendimento, as condições do território onde a empresa se destina a exercer as suas principais actividades.
+
+> Alterado pelo/a [Decreto-Lei n.º 412/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1973-419603), publicado em 1973-08-20.
+
+###### Artigo 14.º
+
+Tendo presente o condicionalismo decorrente do processo de integração económica dos territórios nacionais, o Governo procederá à reorganização do sistema de crédito e da estrutura bancária nas províncias ultramarinas, adoptando, sempre que possível, os princípios que informam os Decretos-Leis n.os 41403, de 27 de Novembro de 1957, e 42641, de 12 de Novembro de 1959.
 
 § único. Com vista à coordenação dos mercados monetário e financeiro da metrópole e das províncias ultramarinas, a Inspecção-Geral de Crédito e Seguros poderá exercer nas províncias ultramarinas, através
 
 do Ministério do Ultramar, a sua competência técnica, nos termos a fixar neste diploma regulamentar.
 
-Art. 15.º Serão oportunamente criadas bolsas de fundos, primeiramente em Luanda e em Lourenço Marques e, posteriormente, em outras cidades das províncias ultramarinas sempre que a necessidade se justifique. A regulamentação das referidas bolsas basear-se-á no que se encontrar estabelecido para as instituições idênticas do continente e ilhas.
+###### Artigo 15.º
 
-Art. 16.º Proceder-se-á, até 30 de Junho de 1963, à revisão das disposições que regulam a aplicação de capitais estrangeiros no continente, ilhas adjacentes e províncias ultramarinas, tendo em vista favorecer a máxima participação desses capitais nos processos do crescimento económico e social do País.
+Serão oportunamente criadas bolsas de fundos, primeiramente em Luanda e em Lourenço Marques e, posteriormente, em outras cidades das províncias ultramarinas sempre que a necessidade se justifique. A regulamentação das referidas bolsas basear-se-á no que se encontrar estabelecido para as instituições idênticas do continente e ilhas.
+
+###### Artigo 16.º
+
+Proceder-se-á, até 30 de Junho de 1963, à revisão das disposições que regulam a aplicação de capitais estrangeiros no continente, ilhas adjacentes e províncias ultramarinas, tendo em vista favorecer a máxima participação desses capitais nos processos do crescimento económico e social do País.
 
 § único. Serão adoptadas as providências necessárias ao conhecimento, por parte dos principais mercados financeiros internacionais, não só da legislação portuguesa que, directa ou indirectamente, respeita à aplicação de capitais estrangeiros nos territórios portugueses, como também das possibilidades gerais de investimentos reprodutivos que esses territórios oferecem.
 
 ### CAPÍTULO V — Das operações de crédito
 
-Art. 17.º Tendo em atenção o conjunto da economia nacional e ponderando as condições particulares dos diferentes territórios, designadamente a extensão da rede de instituições de crédito, será promulgado até 1 de Julho de 1963 o regime legal a que deverão obedecer as operações de crédito a médio e longo prazo.
+###### Artigo 17.º
+
+Tendo em atenção o conjunto da economia nacional e ponderando as condições particulares dos diferentes territórios, designadamente a extensão da rede de instituições de crédito, será promulgado até 1 de Julho de 1963 o regime legal a que deverão obedecer as operações de crédito a médio e longo prazo.
 
 § único. O exercício de funções de crédito por pessoas singulares ou colectivas não compreendidas na especificação do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) será igualmente regulamentado até à data fixada neste artigo.
 
 ### CAPÍTULO VI — Da assistência técnica
 
-Art. 18.º A assistência técnica do Estado às funções de produção e de comercialização das empresas privadas, tanto na fase do pré-investimento como na da própria formação do capital fixo, será alargada, na medida do possível, quer pelo melhor apetrechamento dos serviços públicos adequados à prestação dessa assistência, quer pelo recurso a instituições especializadas estrangeiras ou internacionais.
+###### Artigo 18.º
 
-Art. 19.º Por diploma regulamentar serão estabelecidas as condições gerais da concessão de assistência técnica pelo Estado à actividade privada, aperfeiçoando-se e completando-se os métodos de acção já instituídos, por forma a abranger todos os principais sectores da economia nacional e a atender especialmente às necessidades das áreas menos desenvolvidas.
+A assistência técnica do Estado às funções de produção e de comercialização das empresas privadas, tanto na fase do pré-investimento como na da própria formação do capital fixo, será alargada, na medida do possível, quer pelo melhor apetrechamento dos serviços públicos adequados à prestação dessa assistência, quer pelo recurso a instituições especializadas estrangeiras ou internacionais.
 
-Art. 20.º Será criado até 31 de Dezembro de 1963, anexo ao Instituto Nacional de Investigação Industrial, o Centro Nacional de Produtividade, tendo por objectivo principal o fomento do emprego racional dos capitais fixos e do trabalho nos diversos sectores de actividade, sendo a sua orgânica e condições de funcionamento definidas por diploma regulamentar.
+###### Artigo 19.º
+
+Por diploma regulamentar serão estabelecidas as condições gerais da concessão de assistência técnica pelo Estado à actividade privada, aperfeiçoando-se e completando-se os métodos de acção já instituídos, por forma a abranger todos os principais sectores da economia nacional e a atender especialmente às necessidades das áreas menos desenvolvidas.
+
+###### Artigo 20.º
+
+Será criado até 31 de Dezembro de 1963, anexo ao Instituto Nacional de Investigação Industrial, o Centro Nacional de Produtividade, tendo por objectivo principal o fomento do emprego racional dos capitais fixos e do trabalho nos diversos sectores de actividade, sendo a sua orgânica e condições de funcionamento definidas por diploma regulamentar.
 
 § único. O Governo promoverá a indispensável articulação entre o Centro Nacional de Produtividade e os organismos, centros, instituições ou serviços do Estado que tenham por objectivo exclusivo ou principal a investigação científica fundamental ou aplicada, nomeadamente o Instituto Nacional de Investigação Industrial, o Laboratório Nacional de Engenharia Civil, a Junta de Investigações do Ultramar e os laboratórios e centros de estudo existentes em departamentos do Estado e organismos de coordenação económica e corporativos da metrópole e das províncias ultramarinas.
 
 ### CAPÍTULO VII — Do Estatuto da Função Pública, da formação profissional da mão-de-obra e dos quadros técnicos
 
-Art. 21.º No quadro de revisão mais ampla da orgânica e dos métodos da administração pública, visando a sua maior eficiência e rapidez de acção, será promulgado, até 31 de Dezembro de 1963, o Estatuto da Função Pública.
+###### Artigo 21.º
 
-Art. 22.º O Governo adoptará, através dos órgãos de coordenação adequados, as providências necessárias à intensificação da formação profissional de mão-de-obra e ao desenvolvimento dos quadros técnicos, bem como ao concurso a prestar pelo Estado para o mesmo fim às actividades privadas.
+No quadro de revisão mais ampla da orgânica e dos métodos da administração pública, visando a sua maior eficiência e rapidez de acção, será promulgado, até 31 de Dezembro de 1963, o Estatuto da Função Pública.
 
-Art. 23.º O Estado procurará auxiliar as deslocações entre territórios ou entre regiões nacionais de mão-de-obra e de técnicos, quando essas transferências se mostrem necessárias ao crescimento do conjunto da economia portuguesa.
+###### Artigo 22.º
+
+O Governo adoptará, através dos órgãos de coordenação adequados, as providências necessárias à intensificação da formação profissional de mão-de-obra e ao desenvolvimento dos quadros técnicos, bem como ao concurso a prestar pelo Estado para o mesmo fim às actividades privadas.
+
+###### Artigo 23.º
+
+O Estado procurará auxiliar as deslocações entre territórios ou entre regiões nacionais de mão-de-obra e de técnicos, quando essas transferências se mostrem necessárias ao crescimento do conjunto da economia portuguesa.
 
 ### CAPÍTULO VIII — Disposições orgânicas
 
-Art. 24.º É criado o Conselho de Ministros para os Assuntos Económicos, que, sob a presidência do Presidente do Conselho, será constituído pelo Ministro de Estado adjunto do Presidente do Conselho e pelos Ministros das Finanças, da Marinha, dos Negócios Estrangeiros, das Obras Públicas, do Ultramar, da Economia, das Comunicações e das Corporações e Previdência Social.
+###### Artigo 24.º
+
+É criado o Conselho de Ministros para os Assuntos Económicos, que, sob a presidência do Presidente do Conselho, será constituído pelo Ministro de Estado adjunto do Presidente do Conselho e pelos Ministros das Finanças, da Marinha, dos Negócios Estrangeiros, das Obras Públicas, do Ultramar, da Economia, das Comunicações e das Corporações e Previdência Social.
 
 § 1.º Ao Conselho de Ministros para os Assuntos Económicos competirá, em especial, definir, em função da conjuntura interna e internacional e das características das estruturas económicas e sociais do País, a política coordenada conducente ao desenvolvimento harmónico e à integração progressiva de todos os territórios abrangidos no espaço português.
 
@@ -324,15 +390,25 @@ Art. 24.º É criado o Conselho de Ministros para os Assuntos Económicos, que, 
 
 § 4.º Quando a natureza dos assuntos o justificar, poderá o Presidente do Conselho convocar para as reuniões do mesmo os Secretários de Estado da Agricultura, do Comércio e da Indústria.
 
-Art. 25.º Como órgãos de estudo, informação e execução das decisões do Conselho de Ministros para os Assuntos Económicos são criados, na Presidência do Conselho, a Comissão Consultiva de Política Económica e o Secretariado Técnico da Presidência do Conselho.
+###### Artigo 25.º
 
-Art. 26.º A Comissão Consultiva de Política Económica destina-se a assegurar a audiência efectiva dos interesses dos sectores de actividade dos diferentes territórios para a definição das grandes linhas da política económica nacional.
+Como órgãos de estudo, informação e execução das decisões do Conselho de Ministros para os Assuntos Económicos são criados, na Presidência do Conselho, a Comissão Consultiva de Política Económica e o Secretariado Técnico da Presidência do Conselho.
 
-Art. 27.º A Comissão Consultiva de Política Económica será constituída por individualidades de relevo nos quadros da administração pública, da organização corporativa, da banca, das instituições de carácter económico e das empresas privadas.
+###### Artigo 26.º
 
-Art. 28.º A Comissão Consultiva de Política Económica será presidida pelo Presidente do Conselho de Ministros, que, para cada sessão, designará um 1.º vice-presidente, de entre os Ministros membros daquele Conselho, e um 2.º vice-presidente, de entre os governadores das províncias ultramarinas ou dos vogais da Comissão.
+A Comissão Consultiva de Política Económica destina-se a assegurar a audiência efectiva dos interesses dos sectores de actividade dos diferentes territórios para a definição das grandes linhas da política económica nacional.
 
-Art. 29.º Os vogais da Comissão Consultiva de Política Económica serão designados pelo Conselho de Ministros para os Assuntos Económicos, por proposta dos Ministros membros do Conselho.
+###### Artigo 27.º
+
+A Comissão Consultiva de Política Económica será constituída por individualidades de relevo nos quadros da administração pública, da organização corporativa, da banca, das instituições de carácter económico e das empresas privadas.
+
+###### Artigo 28.º
+
+A Comissão Consultiva de Política Económica será presidida pelo Presidente do Conselho de Ministros, que, para cada sessão, designará um 1.º vice-presidente, de entre os Ministros membros daquele Conselho, e um 2.º vice-presidente, de entre os governadores das províncias ultramarinas ou dos vogais da Comissão.
+
+###### Artigo 29.º
+
+Os vogais da Comissão Consultiva de Política Económica serão designados pelo Conselho de Ministros para os Assuntos Económicos, por proposta dos Ministros membros do Conselho.
 
 § 1.º Na designação dos vogais da Comissão Consultiva procurar-se-á que na sua composição fique assegurada, de forma autêntica e equilibrada, a representação da actividade económica dos diferentes territórios e, ainda, que em cada um deles o número dos vogais representantes de serviços públicos não seja superior ao dos vogais representantes de entidades e empresas privadas.
 
@@ -340,7 +416,9 @@ Art. 29.º Os vogais da Comissão Consultiva de Política Económica serão desi
 
 § 3.º Os vogais da Comissão Consultiva participarão nos trabalhos da Comissão a título pessoal, e não como representantes dos serviços, organizações ou empresas a cujos quadros pertençam.
 
-Art. 30.º As reuniões da Comissão Consultiva de Política Económica não serão públicas e realizar-se-ão, pelo menos, uma vez em cada ano em local e data a fixar pelo Conselho de Ministros para os Assuntos Económicos.
+###### Artigo 30.º
+
+As reuniões da Comissão Consultiva de Política Económica não serão públicas e realizar-se-ão, pelo menos, uma vez em cada ano em local e data a fixar pelo Conselho de Ministros para os Assuntos Económicos.
 
 § 1.º A Comissão Consultiva poderá ser convocada para sessões extraordinárias pelo Presidente do Conselho, por sua iniciativa ou por proposta de algum dos Ministros membros do Conselho de Ministros para os Assuntos Económicos, a fim de emitir parecer sobre matérias que o Conselho entenda submeter à apreciação da Comissão.
 
@@ -348,13 +426,19 @@ Art. 30.º As reuniões da Comissão Consultiva de Política Económica não ser
 
 § 3.º O secretariado e expediente da Comissão Consultiva de Política Económica serão assegurados pelo Secretariado Técnico da Presidência do Conselho.
 
-Art. 31.º As conclusões dos trabalhos de cada sessão da Comissão Consultiva de Política Económica serão presentes à consideração do Conselho de Ministros para os Assuntos Económicos.
+###### Artigo 31.º
 
-Art. 32.º O Secretariado Técnico da Presidência do Conselho é o órgão destinado a prestar ao Conselho de Ministros para os Assuntos Económicos, pela coordenação e exame das informações dos serviços dos Ministérios competentes e pelos estudos próprios que realize, o conveniente apoio técnico para a fundamentação das decisões do Conselho e para a pronta e perfeita execução dessas decisões.
+As conclusões dos trabalhos de cada sessão da Comissão Consultiva de Política Económica serão presentes à consideração do Conselho de Ministros para os Assuntos Económicos.
+
+###### Artigo 32.º
+
+O Secretariado Técnico da Presidência do Conselho é o órgão destinado a prestar ao Conselho de Ministros para os Assuntos Económicos, pela coordenação e exame das informações dos serviços dos Ministérios competentes e pelos estudos próprios que realize, o conveniente apoio técnico para a fundamentação das decisões do Conselho e para a pronta e perfeita execução dessas decisões.
 
 § único. Para o cabal cumprimento das atribuições que ao Secretariado Técnico são cometidas, e sem prejuízo da sua directa dependência da Presidência do Conselho, os Gabinetes dos Ministros membros do Conselho de Ministros para os Assuntos Económicos poderão manter com o director-geral do Secretariado Técnico os contactos que considerem convenientes à pronta preparação e execução das deliberações do Conselho.
 
-Art. 33.º O Secretariado Técnico compreenderá:
+###### Artigo 33.º
+
+O Secretariado Técnico compreenderá:
 
 a) A Direcção de Serviços de Planeamento;
 
@@ -362,7 +446,9 @@ b) A Direcção de Serviços da Integração Económica Nacional;
 
 c) A secretaria.
 
-Art. 34.º Para o desempenho das atribuições definidas no artigo 32.º compete ao Secretariado Técnico, pela Direcção de Serviços de Planeamento, em colaboração com os serviços dos Ministérios competentes:
+###### Artigo 34.º
+
+Para o desempenho das atribuições definidas no artigo 32.º compete ao Secretariado Técnico, pela Direcção de Serviços de Planeamento, em colaboração com os serviços dos Ministérios competentes:
 
 1.º Promover a realização, segundo a orientação superiormente definida pelo Conselho de Ministros para os Assuntos Económicos, dos estudos respeitantes à determinação dos objectivos e instrumentos de uma política de desenvolvimento económico-social, tendo especialmente em conta o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232);
 
@@ -378,7 +464,9 @@ Art. 34.º Para o desempenho das atribuições definidas no artigo 32.º compete
 
 7.º Coordenar os programas da assistência técnica prestada por organismos internacionais a projectos que interessem ao desenvolvimento económico nacional e propor, ouvidos os serviços competentes, as modalidades a adoptar nesses programas.
 
-Art. 35.º Compete ao Secretariado Técnico da Presidência do Conselho, pela Direcção de Serviços de Integração Económica Nacional, em colaboração com os serviços dos Ministérios competentes:
+###### Artigo 35.º
+
+Compete ao Secretariado Técnico da Presidência do Conselho, pela Direcção de Serviços de Integração Económica Nacional, em colaboração com os serviços dos Ministérios competentes:
 
 1.º Propor ao Conselho de Ministros para os Assuntos Económicos as iniciativas destinadas a realizar a progressiva integração económica dos diversos territórios nacionais e a unificação dos mercados portugueses, elaborando os estudos e programas de acção que para esse fim se mostrem convenientes;
 
@@ -388,27 +476,45 @@ Art. 35.º Compete ao Secretariado Técnico da Presidência do Conselho, pela Di
 
 4.º Apresentar ao Conselho de Ministros para os Assuntos Económicos um relatório anual sobre as providências tomadas em matéria de integração económica e, em especial, sobre as que forem adoptadas em cumprimento do disposto no [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), informando sobre as dificuldades encontradas e os resultados conseguidos.
 
-Art. 36.º À secretaria incumbirão os serviços gerais de carácter administrativo e burocrático do Secretariado Técnico, designadamente os de expediente, pessoal, contabilidade e arquivo.
+###### Artigo 36.º
 
-Art. 37.º O Secretariado Técnico assegurará o expediente do Conselho de Ministros para os Assuntos Económicos.
+À secretaria incumbirão os serviços gerais de carácter administrativo e burocrático do Secretariado Técnico, designadamente os de expediente, pessoal, contabilidade e arquivo.
 
-Art. 38.º Para o cumprimento das atribuições que lhe são conferidas poderá o Secretariado Técnico solicitar dos serviços públicos, corpos administrativos, organismos corporativos e entidades privadas as informações necessárias.
+###### Artigo 37.º
 
-Art. 39.º O Secretariado Técnico será chefiado por um director-geral, que exercerá as funções de secretário sem voto do Conselho de Ministros para os Assuntos Económicos.
+O Secretariado Técnico assegurará o expediente do Conselho de Ministros para os Assuntos Económicos.
+
+###### Artigo 38.º
+
+Para o cumprimento das atribuições que lhe são conferidas poderá o Secretariado Técnico solicitar dos serviços públicos, corpos administrativos, organismos corporativos e entidades privadas as informações necessárias.
+
+###### Artigo 39.º
+
+O Secretariado Técnico será chefiado por um director-geral, que exercerá as funções de secretário sem voto do Conselho de Ministros para os Assuntos Económicos.
 
 § 1.º O director-geral do Secretariado Técnico será coadjuvado no exercício das suas funções por dois directores de serviço, cada um dos quais chefiará uma das direcções de serviço do Secretariado Técnico. O director-geral e os dois directores de serviço serão vogais natos da Comissão Consultiva de Política Económica.
 
 § 2.º Na sua ausência ou impedimento será o director-geral do Secretariado Técnico substituído pelo director de serviços mais antigo.
 
-Art. 40.º A Comissão Interministerial do Plano de Fomento, criada na Presidência do Conselho pelo [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, passa a designar-se por Comissão Interministerial de Planeamento e Integração Económica, com as atribuições e constituição definidas nos artigos seguintes.
+###### Artigo 40.º
 
-Art. 41.º A Comissão Interministerial é um órgão de estudo, coordenação e consulta destinado a assegurar em matéria de planeamento e integração a ligação permanente entre o Secretariado Técnico da Presidência do Conselho, os diversos Ministérios e, por intermédio do Ministério do Ultramar, as províncias ultramarinas. É constituída pelos representantes dos diversos departamentos ministeriais, serviços e entidades aos quais incumbe executar, financiar ou fiscalizar directamente os empreendimentos inscritos nos planos de fomento nacionais e regionais e as medidas de integração económica do espaço português.
+A Comissão Interministerial do Plano de Fomento, criada na Presidência do Conselho pelo [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, passa a designar-se por Comissão Interministerial de Planeamento e Integração Económica, com as atribuições e constituição definidas nos artigos seguintes.
 
-Art. 42.º A Comissão Interministerial é presidida pelo director-geral do Secretariado Técnico da Presidência do Conselho e, na sua falta ou impedimento, por quem o Conselho de Ministros para os Assuntos Económicos determinar.
+###### Artigo 41.º
 
-Art. 43.º A Comissão Interministerial compreende o plenário e os grupos de trabalho.
+A Comissão Interministerial é um órgão de estudo, coordenação e consulta destinado a assegurar em matéria de planeamento e integração a ligação permanente entre o Secretariado Técnico da Presidência do Conselho, os diversos Ministérios e, por intermédio do Ministério do Ultramar, as províncias ultramarinas. É constituída pelos representantes dos diversos departamentos ministeriais, serviços e entidades aos quais incumbe executar, financiar ou fiscalizar directamente os empreendimentos inscritos nos planos de fomento nacionais e regionais e as medidas de integração económica do espaço português.
 
-Art. 44.º O plenário da Comissão Interministerial, que pode funcionar em reuniões conjuntas ou reuniões restritas, terá a seguinte constituição:
+###### Artigo 42.º
+
+A Comissão Interministerial é presidida pelo director-geral do Secretariado Técnico da Presidência do Conselho e, na sua falta ou impedimento, por quem o Conselho de Ministros para os Assuntos Económicos determinar.
+
+###### Artigo 43.º
+
+A Comissão Interministerial compreende o plenário e os grupos de trabalho.
+
+###### Artigo 44.º
+
+O plenário da Comissão Interministerial, que pode funcionar em reuniões conjuntas ou reuniões restritas, terá a seguinte constituição:
 
 O director-geral do Secretariado Técnico da Presidência do Conselho.
 
@@ -448,15 +554,21 @@ Os directores dos Serviços de Planeamento e de Integração Económica Nacional
 
 § 4.º Na falta ou impedimento de qualquer dos vogais efectivos da Comissão Interministerial intervirá nas reuniões o seu suplente.
 
-Art. 45.º Compete especialmente aos vogais da Comissão Interministerial:
+###### Artigo 45.º
+
+Compete especialmente aos vogais da Comissão Interministerial:
 
 1.º Transmitir à Comissão os pareceres e as sugestões dos seus Ministérios, bem como dar conta aos Ministros que representam dos estudos e mais trabalhos em curso na Comissão e da orientação que a mesma se propõe seguir na realização desses estudos e trabalhos;
 
 2.º Assegurar a ligação administrativa permanente entre o Secretariado Técnico da Presidência do Conselho e os serviços que, nos respectivos Ministérios, tenham a seu cargo a promoção, a execução, o financiamento ou a fiscalização de empreendimentos inscritos nos planos de fomento e a observância das resoluções destinadas a realizar a progressiva integração económica dos territórios e a unificação dos mercados nacionais.
 
-Art. 46.º Os grupos de trabalho da Comissão Interministerial serão constituídos por representantes dos serviços e das entidades directamente interessadas e reunirão para estudo e informação dos problemas relativos às matérias de planeamento e de integração económica do respectivo âmbito, cuja apreciação compete ao Conselho de Ministros para os assuntos económicos.
+###### Artigo 46.º
 
-Art. 47.º Os grupos de trabalho permanentes serão desde já os seguintes:
+Os grupos de trabalho da Comissão Interministerial serão constituídos por representantes dos serviços e das entidades directamente interessadas e reunirão para estudo e informação dos problemas relativos às matérias de planeamento e de integração económica do respectivo âmbito, cuja apreciação compete ao Conselho de Ministros para os assuntos económicos.
+
+###### Artigo 47.º
+
+Os grupos de trabalho permanentes serão desde já os seguintes:
 
 A) Grupos de trabalho para o planeamento:
 
@@ -490,11 +602,15 @@ Grupo de trabalho n.º 11 (pagamentos inter-regionais).
 
 § 3.º Cada serviço ou entidade terá pelo menos um representante efectivo e um suplente. De preferência, a representação de um serviço em grupos de trabalho de que faça parte deve ser assegurada pelo mesmo funcionário, salvo quando se trate de serviço que oriente ou centralize diversos organismos corporativos ou de coordenação económica ligados a vários sectores de actividade, caso esse em que a sua representação em grupos de trabalho poderá variar consoante os problemas em estudo nas reuniões.
 
-Art. 48.º Por iniciativa do presidente da Comissão Interministerial ou de qualquer dos seus vogais poderão constituir-se para o estudo de problemas específicos grupos de trabalho ad hoc, os quais se dissolverão no termo da tarefa que lhe for incumbida.
+###### Artigo 48.º
+
+Por iniciativa do presidente da Comissão Interministerial ou de qualquer dos seus vogais poderão constituir-se para o estudo de problemas específicos grupos de trabalho ad hoc, os quais se dissolverão no termo da tarefa que lhe for incumbida.
 
 § único. Os presidentes dos grupos de trabalho ad hoc serão designados pelo presidente da Comissão Interministerial.
 
-Art. 49.º As reuniões dos grupos de trabalho poderão ser convocadas pelo presidente da Comissão Interministerial ou pelo presidente do respectivo grupo.
+###### Artigo 49.º
+
+As reuniões dos grupos de trabalho poderão ser convocadas pelo presidente da Comissão Interministerial ou pelo presidente do respectivo grupo.
 
 § 1.º Para as reuniões dos grupos de trabalho poderão ser convocados todos os membros permanentes ou apenas aqueles que o respectivo presidente considere interessados nas matérias a tratar.
 
@@ -502,11 +618,15 @@ Art. 49.º As reuniões dos grupos de trabalho poderão ser convocadas pelo pres
 
 § 3.º Cada grupo de trabalho será secretariado por um perito ou técnico do Secretariado Técnico.
 
-Art. 50.º O presidente da Comissão Interministerial e os presidentes dos grupos de trabalho poderão chamar a colaborar nos respectivos grupos, a título transitório, mais de um delegado dos serviços representados, bem como representantes de entidades públicas ou privadas que neles não estejam permanentemente representadas, sempre que a sua presença seja julgada útil para o estudo de determinados assuntos.
+###### Artigo 50.º
+
+O presidente da Comissão Interministerial e os presidentes dos grupos de trabalho poderão chamar a colaborar nos respectivos grupos, a título transitório, mais de um delegado dos serviços representados, bem como representantes de entidades públicas ou privadas que neles não estejam permanentemente representadas, sempre que a sua presença seja julgada útil para o estudo de determinados assuntos.
 
 § único. O Ministro do Ultramar, por sua iniciativa ou mediante proposta do presidente da Comissão Interministerial, poderá chamar a participar nas reuniões dos grupos de trabalho funcionários dos serviços provinciais de planeamento e integração económica e representantes dos serviços encarregados da promoção, execução ou financiamento de empreendimentos inscritos ou a inscrever nos planos de fomento e que sejam objecto de estudo nessas reuniões.
 
-Art. 51.º Será criado pelo Ministério do Ultramar em cada uma das províncias ultramarinas, sob a dependência directa do respectivo governador, um serviço ou comissão de planeamento e de integração económica, ao qual incumbirá, em colaboração com os serviços territoriais competentes:
+###### Artigo 51.º
+
+Será criado pelo Ministério do Ultramar em cada uma das províncias ultramarinas, sob a dependência directa do respectivo governador, um serviço ou comissão de planeamento e de integração económica, ao qual incumbirá, em colaboração com os serviços territoriais competentes:
 
 1.º Preparar os projectos dos planos de fomento territoriais de acordo com a orientação que vier a ser definida pelo Conselho de Ministros para os Assuntos Económicos;
 
@@ -516,7 +636,9 @@ Art. 51.º Será criado pelo Ministério do Ultramar em cada uma das províncias
 
 § único. A ligação entre o serviço de planeamento e de integração económica de cada província ultramarina e o Secretariado Técnico da Presidência do Conselho será assegurada pelos serviços competentes do Ministério do Ultramar.
 
-Art. 52.º Os quadros do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração e outras disposições relativas à orgânica e funcionamento deste serviço, a forma de remuneração do presidente, dos vogais e dos membros dos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica e, ainda, a forma de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica serão fixados em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
+###### Artigo 52.º
+
+Os quadros do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração e outras disposições relativas à orgânica e funcionamento deste serviço, a forma de remuneração do presidente, dos vogais e dos membros dos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica e, ainda, a forma de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica serão fixados em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
 
 § 1.º O diploma previsto no corpo deste artigo determinará igualmente a data em que entrarão em funcionamento os órgãos e serviços nele referidos e se considerará extinta a Inspecção Superior do Plano de Fomento, e indicará bem assim os lugares a suprimir no quadro da Secretaria-Geral da Presidência do Conselho por virtude dessa extinção.
 

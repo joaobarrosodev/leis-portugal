@@ -1,0 +1,203 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:233363:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6ca2409a03aa79a4"
+   ]
+  },
+  {
+   "date": "1979-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:380551:por",
+     "title": "Decreto-Lei n.º 211/79",
+     "published": "1979-07-12",
+     "dre_path": "/dr/detalhe/decreto-lei/211-1979-380551"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "654e13a7adc8ffcb",
+    "8fa55392607c31bc",
+    "eb014099f4809022",
+    "60c9c3d2baca0c36",
+    "d1b7224347ad8855",
+    "ff93bc9bce0fa339",
+    "27b546ed31cfd0fa",
+    "e72bd0cdb187e325",
+    "db2aa9f26a4fbe75",
+    "8ca113ee6715c8d5",
+    "2d8a739c4e2de551",
+    "28abbc18cd6a0330",
+    "3b0e5569f133f87c",
+    "8f0f56eecd5b4a0d"
+   ]
+  }
+ ],
+ "fragments": {
+  "6ca2409a03aa79a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. O [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, foi precedido de «aturado trabalho de investigação e coordenação», através do qual se procedeu «à revisão das condições em que os serviços do Estado podem realizar despesas com aquisições e obras, em ordem à simplificação da sua actividade e ao aumento da sua eficiência», conforme se diz no respectivo preâmbulo.\n\nNa senda dos objectivos prosseguidos por aquele diploma, julga-se oportuna a adopção de novas providências que actualizem as disposições em vigor, tendo em conta as actuais necessidades e condições de funcionamento dos serviços.\n\nProcede-se a essa actualização através do presente decreto, elevando para o dobro, na sua grande maioria, os quantitativos fixados no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833).\n\nNum caso, porém, entendeu-se que o limite estabelecido justificava correcção, para além do coeficiente geral adoptado. Trata-se das despesas da competência dos directores-gerais e funcionários equiparados, em que esse limite passa de 5000$00 para 40000$00.\n\nDiversamente, a importância que marca a competência inicial do Conselho de Ministros para autorizar a celebração de contratos de arrendamento é fixada aquém do índice genérico de aumento, pois sobe de 80000$00 para 120000$00 anuais. E afigurou-se aconselhável não alterar o montante de 2500$00, além do qual reveste carácter obrigatório a consulta que deverá preceder o ajuste directo.\n\nDe notar que a taxa de actualização genèricamente estabelecida excede de modo sensível a evolução geral dos preços registada nestes últimos dez anos. A diferença entre os dois valores deve ser imputada aos propósitos de melhor repartição de competências e de acrescida eficiência dos serviços que, numa óptica da Reforma Administrativa, foram explanados nos preâmbulos dos Decretos-Leis n.os 48058 e 48059, de 23 de Novembro de 1967.\n\nNa mesma ordem de ideias, julgou-se conveniente alargar à matéria contemplada no presente decreto-lei, com as necessárias adaptações, o regime geral de delegações e subdelegações de poderes estabelecido no último dos diplomas citados. Daí o disposto no artigo 8.º\n\n2. A revogação expressa do [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261), de 13 de Março de 1937, permite resolver as dúvidas que subsistiam em torno da classificação de despesas «eventuais» e «excepcionais». Pelo novo regime, perfilha-se esta última designação, sendo de notar duas importantes alterações ao sistema até agora em vigor: a possibilidade da autorização de despesas dessa natureza, dentro da certos limites, por parte dos órgãos, entidades e funcionários referidos nas alíneas a), b) e c) do artigo 3.º, e não apenas por parte dos Ministros, como anteriormente sucedia; e o definir que o carácter de «excepcional» é atribuível às despesas de qualquer natureza e classificação orçamental (n.º 3 do artigo 5.º).\n\n3. A conveniência de revogar, na sua totalidade, o [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261) levou ainda a incluir no presente diploma as disposições dos artigos 9.º, 10.º e 11.º, tendo-se aproveitado a oportunidade para estabelecer alterações de pormenor ao regime do «visto» do Tribunal de Contas.\n\n4. Embora o presente diploma não altere fundamentalmente o regime do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), espera-se que a sua vigência venha a servir, no respectivo domínio de aplicação, os objectivos da Reforma Administrativa, que estão na base dos Decretos-Leis n.os 48058 e 48059, de 23 de Novembro de 1967.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. As obras ou aquisições de material podem efectuar-se mediante concurso ou ajuste directo e com ou sem contrato escrito.\n\n2. O concurso pode ser público ou limitado. É público quando possam concorrer todos aqueles que se encontrem nas condições gerais estabelecidas por lei; é limitado quando o concurso se realiza apenas entre determinado número de entidades, o qual, em princípio, deverá ser superior a três.\n\n3. Sempre que possível, deverá o ajuste directo ser precedido de consulta a três entidades, pelo menos. A consulta é obrigatória para a realização de despesas superiores a 2500$00.\n\nArt. 2.º As obras ou aquisições de material de importância superior a 40000$00 estão sujeitas à realização de concurso, que será necessàriamente público se a despesa exceder 200000$00, e à celebração de contrato escrito, salvo o disposto no artigo 4.º\n\nArt. 3.º As despesas com obras ou com aquisições de material podem ser autorizadas:\n\na) Até 40000$00, pelos directores-gerais e funcionários equiparados, bem como pelos funcionários que tenham a seu cargo a direcção de explorações agrícolas ou industriais do Estado, de obras geridas por administração directa ou de brigadas de trabalho de campo;\n\nb) Até 400000$00, pelos órgãos dirigentes dos serviços dotados de autonomia administrativa;\n\nc) Até 800000$00, pelos órgãos dirigentes dos serviços dotados de autonomia financeira;\n\nd) Até 4000000$00, pelo Presidente do Conselho e pelos Ministros;\n\ne) Sem limitação, pelo Conselho de Ministros.\n\nArt. 4.º São competentes para autorizar despesas com dispensa de realização de concurso, público ou limitado, e da celebração de contrato escrito:\n\na) Até 200000$00, as entidades referidas na alínea b) do artigo anterior;\n\nb) Até 400000$00, os órgãos referidos na alínea c) do mesmo artigo;\n\nc) Até 2000000$00, o Presidente do Conselho e os Ministros;\n\nd) Sem limitação, o Conselho de Ministros.\n\nArt. 5.º - 1. Salvo preceito especial, só podem efectuar-se mediante autorização ministerial as despesas:\n\na) Com a realização de construções e obras novas, desde que não constem de planos anuais de aplicação das respectivas dotações orçamentais, aprovados pelo Ministro competente;\n\nb) Com a aquisição de móveis de carácter sumptuário, ornamentais ou de conforto;\n\nc) Com os seguros que, em casos excepcionais, seja considerado conveniente fazer;\n\nd) Que possam considerar-se excepcionais para o serviço que as tenha de realizar, quando excedam os seguintes limites:\n\n10000$00, para os funcionários referidos na alínea a) do artigo 3.º;\n\n200000$00, para as entidades referidas na alínea b) do mesmo artigo;\n\n400000$00, para os órgãos referidos na alínea c) do mesmo artigo.\n\n2. São dispensadas de autorização ministerial as despesas com os seguros que, por imposição das lei locais, tenham de efectuar-se no estrangeiro.\n\n3. O disposto na alínea d) do n.º 1 aplica-se às despesas de qualquer natureza e classificação orçamental.\n\nArt. 6.º - 1. Os contratos que dêem lugar a encargo orçamental em mais de um ano económico, ou em ano que não seja o da sua realização, não podem ser celebrados sem prévia autorização conferida em decreto referendado pelo Ministro das Finanças e pelo da pasta respectiva, salvo quando resultem da execução de planos plurianuais legalmente aprovados ou quando os encargos deles resultantes não excedam o limita anual de 250000$00 e o prazo de execução de três anos.\n\n2. Tanto os decretos que autorizem a celebração de contratos como os próprios contratos devem fixar o limite máximo do encargo correspondente a cada ano económico.\n\n3. Fica dispensada do cumprimento das disposições deste artigo a celebração de contratos relativos a trabalhos a mais ou imprevistos em empreitadas de obras públicas cujos contratos iniciais tenham sido precedidos de diploma publicado ao abrigo das mesmas disposições, desde que os novos encargos tenham cabimento no orçamento em vigor à data do adicional.\n\nArt. 7.º - 1. Os contratos de arrendamento de imóveis para instalação de serviços do Estado cuja prazo não seja superior a um ano ficam dispensados da autorização por decreto a que se refere o artigo anterior.\n\n2. Os contratos cuja renda anual não exceda 60000$00 carecem de autorização do Ministro da respectiva pasta.\n\n3. A celebração dos contratos cuja renda seja superior àquele limite fica sujeita ao disposto no [Decreto n.º 38202](https://diariodarepublica.pt/dr/detalhe/decreto/38202-1951-330842), de 13 de Março de 1951, dependendo, porém, de autorização do Conselho de Ministros os contratos em que a renda anual exceda 120000$00.\n\n4. Nos contratos a que se refere este artigo outorgará como inquilino o Estado, representado pela entidade que para isso estiver designada.\n\nArt. 8.º - 1. O Conselho de Ministros poderá delegar no Presidente do Conselho toda ou parte da competência que lhe é atribuída por este decreto-lei.\n\n2. As entidades mencionadas nas alíneas a) a c) do artigo 3.º poderão receber delegação dos Ministros quanto à competência que lhes é atribuída para autorizar despesas, bem como para dispensar a realização de concurso e a celebração de contrato escrito.\n\n3. Relativamente às mesmas matérias, poderão as mencionadas entidades delegar e, com permissão do delegante, subdelegar nos adjuntos, nos directores de serviços, nos chefes de repartição e nos dirigentes de serviços externos toda ou parte da respectiva competência.\n\n4. Às delegações e subdelegações de que tratam os n.os 2 e 3 é aplicável o disposto nos artigos 8.º e 9.º do [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1967.\n\nArt. 9.º Às vendas de quaisquer géneros e artigos que os serviços hajam de realizar é aplicável o regime do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), com as alterações introduzidas pelo presente diploma.\n\nArt. 10.º A alínea g) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, passa a ter a seguinte redacção:\n\ng) Todos os decretos, portarias, contratos, alvarás e despachos que importem abonos de qualquer espécie a pagar pela classe de «Pessoal», com excepção dos enumerados no § 1.º deste artigo e dos diplomas de transferência de que não resulte mudança de verba orçamental por onde se efectue o seu pagamento, bem como dos dispensados da formalidade do visto por lei especial.\n\nArt. 11.º Ao mesmo artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, é aditado o seguinte parágrafo:\n\n§ 3.º Os diplomas de nomeação para lugares ou funções que por lei possam ser remunerados, embora o quantitativo da remuneração dependa de acto posterior, serão submetidos a visto do Tribunal de Contas, podendo neste caso as remunerações que forem superiormente estabelecidas ser abonadas desde a data da entrada em exercício dos nomeados, mas o seu pagamento só deverá efectuar-se depois do visto e publicação no Diário do Governo do respectivo despacho.\n\nArt. 12.º Ficam revogados o [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261), de 13 de Março de 1937, e os artigos 5.º, 6.º, 7.º, 10.º, 11.º, 22.º e 23.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, bem como os §§ 1.º a 4.º do artigo 4.º deste último diploma.\n\nArt. 13.º Os regimes especiais sobre matérias versadas no presente diploma serão revistos ou estabelecidos, em atenção às condições particulares dos serviços a que digam respeito, por meio de decreto referendado pelo Ministro das Finanças e pelo da pasta respectiva.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 31 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "654e13a7adc8ffcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. O [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, foi precedido de «aturado trabalho de investigação e coordenação», através do qual se procedeu «à revisão das condições em que os serviços do Estado podem realizar despesas com aquisições e obras, em ordem à simplificação da sua actividade e ao aumento da sua eficiência», conforme se diz no respectivo preâmbulo.\n\nNa senda dos objectivos prosseguidos por aquele diploma, julga-se oportuna a adopção de novas providências que actualizem as disposições em vigor, tendo em conta as actuais necessidades e condições de funcionamento dos serviços.\n\nProcede-se a essa actualização através do presente decreto, elevando para o dobro, na sua grande maioria, os quantitativos fixados no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833).\n\nNum caso, porém, entendeu-se que o limite estabelecido justificava correcção, para além do coeficiente geral adoptado. Trata-se das despesas da competência dos directores-gerais e funcionários equiparados, em que esse limite passa de 5000$00 para 40000$00.\n\nDiversamente, a importância que marca a competência inicial do Conselho de Ministros para autorizar a celebração de contratos de arrendamento é fixada aquém do índice genérico de aumento, pois sobe de 80000$00 para 120000$00 anuais. E afigurou-se aconselhável não alterar o montante de 2500$00, além do qual reveste carácter obrigatório a consulta que deverá preceder o ajuste directo.\n\nDe notar que a taxa de actualização genèricamente estabelecida excede de modo sensível a evolução geral dos preços registada nestes últimos dez anos. A diferença entre os dois valores deve ser imputada aos propósitos de melhor repartição de competências e de acrescida eficiência dos serviços que, numa óptica da Reforma Administrativa, foram explanados nos preâmbulos dos Decretos-Leis n.os 48058 e 48059, de 23 de Novembro de 1967.\n\nNa mesma ordem de ideias, julgou-se conveniente alargar à matéria contemplada no presente decreto-lei, com as necessárias adaptações, o regime geral de delegações e subdelegações de poderes estabelecido no último dos diplomas citados. Daí o disposto no artigo 8.º\n\n2. A revogação expressa do [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261), de 13 de Março de 1937, permite resolver as dúvidas que subsistiam em torno da classificação de despesas «eventuais» e «excepcionais». Pelo novo regime, perfilha-se esta última designação, sendo de notar duas importantes alterações ao sistema até agora em vigor: a possibilidade da autorização de despesas dessa natureza, dentro da certos limites, por parte dos órgãos, entidades e funcionários referidos nas alíneas a), b) e c) do artigo 3.º, e não apenas por parte dos Ministros, como anteriormente sucedia; e o definir que o carácter de «excepcional» é atribuível às despesas de qualquer natureza e classificação orçamental (n.º 3 do artigo 5.º).\n\n3. A conveniência de revogar, na sua totalidade, o [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261) levou ainda a incluir no presente diploma as disposições dos artigos 9.º, 10.º e 11.º, tendo-se aproveitado a oportunidade para estabelecer alterações de pormenor ao regime do «visto» do Tribunal de Contas.\n\n4. Embora o presente diploma não altere fundamentalmente o regime do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), espera-se que a sua vigência venha a servir, no respectivo domínio de aplicação, os objectivos da Reforma Administrativa, que estão na base dos Decretos-Leis n.os 48058 e 48059, de 23 de Novembro de 1967.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "8fa55392607c31bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "eb014099f4809022": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "60c9c3d2baca0c36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "d1b7224347ad8855": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "ff93bc9bce0fa339": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "27b546ed31cfd0fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "e72bd0cdb187e325": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "db2aa9f26a4fbe75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "8ca113ee6715c8d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "2d8a739c4e2de551": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA alínea g) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, passa a ter a seguinte redacção:\n\ng) Todos os decretos, portarias, contratos, alvarás e despachos que importem abonos de qualquer espécie a pagar pela classe de «Pessoal», com excepção dos enumerados no § 1.º deste artigo e dos diplomas de transferência de que não resulte mudança de verba orçamental por onde se efectue o seu pagamento, bem como dos dispensados da formalidade do visto por lei especial."
+  },
+  "28abbc18cd6a0330": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAo mesmo artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, é aditado o seguinte parágrafo:\n\n§ 3.º Os diplomas de nomeação para lugares ou funções que por lei possam ser remunerados, embora o quantitativo da remuneração dependa de acto posterior, serão submetidos a visto do Tribunal de Contas, podendo neste caso as remunerações que forem superiormente estabelecidas ser abonadas desde a data da entrada em exercício dos nomeados, mas o seu pagamento só deverá efectuar-se depois do visto e publicação no Diário do Governo do respectivo despacho."
+  },
+  "3b0e5569f133f87c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+  },
+  "8f0f56eecd5b4a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), publicado em 1979-07-12.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 31 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

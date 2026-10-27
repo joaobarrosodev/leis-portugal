@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:513008:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1960-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2a417bcd207dc00b"
+   ]
+  },
+  {
+   "date": "1961-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:556983:por",
+     "title": "Decreto-Lei n.º 43490",
+     "published": "1961-01-30",
+     "dre_path": "/dr/detalhe/decreto-lei/43490-1961-556983"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "7339cb64ca0fed9d",
+    "8aaa114bb62a2b0e",
+    "b2f761c197c0c067",
+    "9dd4ec323ebcb2ce",
+    "5cd70a022cd67bc0",
+    "8a32b115cde2d25c",
+    "4b12697da3e43096",
+    "c4f387f89eae7717",
+    "2c293b0e1db8155f",
+    "05801438230dfe52",
+    "bcbae0b24c8cb71d",
+    "91a7cd479bd5c4ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "2a417bcd207dc00b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É o Governo autorizado a participar no Fundo Monetário Internacional com uma quota no valor de 60 milhões de dólares dos Estados Unidos da América do Norte, do peso e toque em vigor em 1 de Julho de 1944, e no Banco Internacional de Reconstrução e Desenvolvimento com 800 acções, estas na importância total de 80 milhões de dólares dos Estados Unidos da América do Norte, daquele mesmo peso e toque.\n\nArt. 2.º Em conformidade com o disposto na secção 1 do artigo V do Acordo sobre o Fundo Monetário Internacional, incumbirá ao Banco de Portugal assegurar, por parte de Portugal, as respectivas relações com o referido Fundo, realizando as inerentes operações cambiais, designadamente as previstas naquele artigo.\n\nArt. 3.º O Banco de Portugal assegurará também o cumprimento das obrigações decorrentes do preceituado na secção 5 do artigo VII do Acordo sobre o Fundo Monetário Internacional, para o que solicitará directamente de quaisquer entidades públicas ou privadas as informações necessárias.\n\nArt. 4.º O Banco de Portugal desempenhará ainda as funções de depositário definidas na secção 2 do artigo XIII do Acordo sobre o Fundo Monetário Internacional.\n\nArt. 5.º Para o cargo de governador, em representação do Estado no Fundo Monetário Internacional, será designado, por despacho do Ministro das Finanças, o governador do Banco de Portugal. A designação de governador suplente será feita por igual forma, mediante proposta do Banco de Portugal.\n\nArt. 6.º Caberá ao Ministério das Finanças assegurar, por parte de Portugal, as relações com o Banco Internacional de Reconstrução e Desenvolvimento em conformidade como disposto na secção 2 do artigo III do Acordo que criou o mesmo Banco.\n\nArt. 7.º O Banco de Portugal será, em harmonia com a seção 11 do artigo V do Acordo sobre o Banco Internacional de Reconstrução e Desenvolvimento, o depositário dos haveres em escudos desta instituição internacional.\n\nArt. 8.º O governador e o governador suplente por parte do Estado no Banco Internacional de Reconstrução e Desenvolvimento serão designados por despacho do Ministro das Finanças.\n\nArt. 9.º Em conformidade com o disposto no Acordo sobre o Fundo Monetário Internacional e no Acordo sobre o Banco Internacional de Reconstrução e Desenvolvimento, terão aquelas instituições, em todo o território da República Portuguesa, personalidade e capacidade jurídica e beneficiarão das imunidades, isenções e privilégios referidos, respectivamente, nos artigos IX e VII dos citados Acordos.\n\nArt. 10.º Os governadores, os directores executivos e os suplentes daqueles e destes, os agentes e os empregados do Fundo Monetário Internacional e do Banco Internacional de Reconstrução e Desenvolvimento que não sejam portugueses beneficiarão em todo o território da República Portuguesa das isenções, imunidades e privilégios designados, respectivamente, no artigo IX do Acordo sobre o Fundo e no artigo VII do Acordo sobre o Banco.\n\nArt. 11.º É o Governo, pelo Ministério das Finanças, autorizado:\n\n1.º A emitir os títulos de obrigação referidos na secção 5 do artigo III do Acordo sobre o Fundo Monetário Internacional e na secção 12 do artigo V do Acordo sobre o Banco Internacional de Reconstrução e Desenvolvimento, nas hipóteses previstas nas mesmas disposições;\n\n2.º A inscrever no Orçamento Geral do Estado as verbas que forem necessárias para ocorrer aos encargos inerentes à realização da sua participação no Fundo Monetário Internacional e no Banco Internacional de Reconstrução e Desenvolvimento, designadamente os relativos a juros.\n\nArt. 12.º O presente decreto-lei entra imediatamente em vigor e é aplicável a todo o território da República Portuguesa.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 22 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "7339cb64ca0fed9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ o Governo autorizado a participar no Fundo Monetário Internacional com uma quota no valor de 60 milhões de dólares dos Estados Unidos da América do Norte, do peso e toque em vigor em 1 de Julho de 1944, e no Banco Internacional de Reconstrução e Desenvolvimento com 800 acções, estas na importância total de 80 milhões de dólares dos Estados Unidos da América do Norte, daquele mesmo peso e toque."
+  },
+  "8aaa114bb62a2b0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm conformidade com o disposto na secção 1 do artigo V do Acordo sobre o Fundo Monetário Internacional, incumbirá ao Banco de Portugal assegurar, por parte de Portugal, as respectivas relações com o referido Fundo, realizando as inerentes operações cambiais, designadamente as previstas naquele artigo."
+  },
+  "b2f761c197c0c067": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Banco de Portugal assegurará também o cumprimento das obrigações decorrentes do preceituado na secção 5 do artigo VII do Acordo sobre o Fundo Monetário Internacional, para o que solicitará directamente de quaisquer entidades públicas ou privadas as informações necessárias."
+  },
+  "9dd4ec323ebcb2ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Banco de Portugal desempenhará ainda as funções de depositário definidas na secção 2 do artigo XIII do Acordo sobre o Fundo Monetário Internacional."
+  },
+  "5cd70a022cd67bc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara o cargo de governador, em representação do Estado no Fundo Monetário Internacional, será designado, por despacho do Ministro das Finanças, o governador do Banco de Portugal. A designação de governador suplente será feita por igual forma, mediante proposta do Banco de Portugal."
+  },
+  "8a32b115cde2d25c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCaberá ao Ministério das Finanças assegurar, por parte de Portugal, as relações com o Banco Internacional de Reconstrução e Desenvolvimento em conformidade como disposto na secção 2 do artigo III do Acordo que criou o mesmo Banco."
+  },
+  "4b12697da3e43096": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO Banco de Portugal será, em harmonia com a seção 11 do artigo V do Acordo sobre o Banco Internacional de Reconstrução e Desenvolvimento, o depositário dos haveres em escudos desta instituição internacional."
+  },
+  "c4f387f89eae7717": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO governador e o governador suplente por parte do Estado no Banco Internacional de Reconstrução e Desenvolvimento serão designados por despacho do Ministro das Finanças."
+  },
+  "2c293b0e1db8155f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEm conformidade com o disposto no Acordo sobre o Fundo Monetário Internacional e no Acordo sobre o Banco Internacional de Reconstrução e Desenvolvimento, terão aquelas instituições, em todo o território da República Portuguesa, personalidade e capacidade jurídica e beneficiarão das imunidades, isenções e privilégios referidos, respectivamente, nos artigos IX e VII dos citados Acordos."
+  },
+  "05801438230dfe52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1961-01-30",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 43490](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43490-1961-556983), publicado em 1961-01-30."
+   ],
+   "markdown": "###### Artigo 10.º\n\nOs governadores, os directores executivos e os suplentes daqueles e destes, os agentes e os empregados do Fundo Monetário Internacional e do Banco Internacional de Reconstrução e Desenvolvimento beneficiarão em todo o território da República Portuguesa das isenções, imunidades e privilégios designados, respectivamente, no artigo IX do Acordo sobre o Fundo e no artigo VII do Acordo sobre o Banco.\n\n> Alterado pelo/a [Decreto-Lei n.º 43490](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43490-1961-556983), publicado em 1961-01-30."
+  },
+  "bcbae0b24c8cb71d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nÉ o Governo, pelo Ministério das Finanças, autorizado:\n\n1.º A emitir os títulos de obrigação referidos na secção 5 do artigo III do Acordo sobre o Fundo Monetário Internacional e na secção 12 do artigo V do Acordo sobre o Banco Internacional de Reconstrução e Desenvolvimento, nas hipóteses previstas nas mesmas disposições;\n\n2.º A inscrever no Orçamento Geral do Estado as verbas que forem necessárias para ocorrer aos encargos inerentes à realização da sua participação no Fundo Monetário Internacional e no Banco Internacional de Reconstrução e Desenvolvimento, designadamente os relativos a juros."
+  },
+  "91a7cd479bd5c4ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente decreto-lei entra imediatamente em vigor e é aplicável a todo o território da República Portuguesa.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 22 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves."
+  }
+ }
+}

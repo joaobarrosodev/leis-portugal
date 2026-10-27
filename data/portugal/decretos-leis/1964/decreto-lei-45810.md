@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-08-27'
+version_history:
+  file: decreto-lei-45810.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-07-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-08-27'
+    amending: pt:dre:265129:por
+    amending_title: Decreto-Lei n.º 48546
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:49:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48546. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45810.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,43 +133,99 @@ A reforma que fica descrita nas suas linhas gerais exige certas providências co
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O ensino primário é ampliado, passando a compreender dois ciclos, um elementar, correspondente às actuais quatro classes, e outro complementar, constituído por duas novas classes.
+###### Artigo 1.º
 
-Art. 2.º O ciclo complementar do ensino primário terminará com a aprovação no exame da 6.ª Classe ou no de admissão ao 2.º ciclo do ensino liceal ou a algum dos cursos de formação do ensino técnico profissional.
+O ensino primário é ampliado, passando a compreender dois ciclos, um elementar, correspondente às actuais quatro classes, e outro complementar, constituído por duas novas classes.
 
-Art. 3.º - 1. O referido ciclo complementar terá carácter obrigatório e gratuito, como o elementar.
+###### Artigo 2.º
 
-2. A escolaridade obrigatória será correspondentemente ampliada, para os menores de ambos os sexos, até aos 14 anos.
+O ciclo complementar do ensino primário terminará com a aprovação no exame da 6.ª Classe ou no de admissão ao 2.º ciclo do ensino liceal ou a algum dos cursos de formação do ensino técnico profissional.
 
-3. Ficarão todavia dispensados do ciclo complementar do ensino primário os que frequentem até final o 1.º ciclo do ensino liceal ou o ciclo preparatório do ensino técnico profissional.
+###### Artigo 3.º
 
-4. Quando se não justifique o funcionamento do ciclo complementar em determinada escola, em razão do número de alunos, estes frequentarão a escola mais próxima, sem prejuízo do disposto na lei sobre dispensa da obrigatoriedade escolar em razão da distância.
+1. O referido ciclo complementar terá carácter obrigatório e gratuito, como o elementar.
 
-Art. 4.º - 1. Ficarão já sujeitos à obrigatoriedade do ciclo complementar os indivíduos de ambos os sexos que se matriculem na 1.ª classe em 1964-1965, pela primeira vez ou como repetentes.
+2. A escolaridade obrigatória será correspondentemente ampliada para os menores de ambos os sexos, até aos 14 anos de idade, referidos a 31 de Março do ano escolar a que a matrícula respeita.
+
+3. Ficarão todavia dispensados do ciclo complementar do ensino primário os que frequentarem até final o ciclo preparatório do ensino secundário, na forma de ensino directo ou de ensino ministrado pela telescola.
+
+4. Quando se não justificar o funcionamento do ciclo complementar em determinada escola, em razão do número de alunos, estes frequentarão a escola mais próxima, sem prejuízo do disposto na lei sobre dispensa da escolaridade obrigatória em razão da distância.
+
+> Alterado pelo/a [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129), publicado em 1968-08-27.
+
+###### Artigo 4.º
+
+1. Ficarão já sujeitos à obrigatoriedade do ciclo complementar os indivíduos de ambos os sexos que se matriculem na 1.ª classe em 1964-1965, pela primeira vez ou como repetentes.
 
 2. O referido ciclo começará todavia a funcionar, embora com carácter facultativo, em 1966-1967, e, se as circunstâncias assim o aconselharem, irá sendo posto em vigor gradualmente.
 
-Art. 5.º Aos professores que regerem o ciclo complementar atribuir-se-á a gratificação mensal de 1000$00, a abonar durante dez meses.
+###### Artigo 5.º
 
-Art. 6.º Serão oportunamente estabelecidos os planos de estudo e os programas do ciclo complementar e introduzidas, nos do ciclo elementar, as modificações aconselhadas pela criação daquele novo ciclo.
+Aos professores que regerem o ciclo complementar atribuir-se-á a gratificação mensal de 1000$00, a abonar durante dez meses.
 
-Art. 7.º - 1. Nas escolas do magistério primário passará a haver dois cursos, um geral e outro complementar, com planos e programas a estabelecer oportunamente.
+###### Artigo 6.º
 
-2. Os professores habilitados com o aludido curso complementar gozarão de preferência na designação para a regência do ciclo complementar do ensino primário.
+Serão oportunamente estabelecidos os planos de estudo e os programas do ciclo complementar e introduzidas, nos do ciclo elementar, as modificações aconselhadas pela criação daquele novo ciclo.
 
-3. Igual preferência competirá aos professores que possuam o 3.º ciclo do ensino liceal ou habilitação equivalente.
+###### Artigo 7.º
 
-Art. 8.º - 1. Enquanto não houver professores em número suficiente, com qualquer das habilitações previstas no artigo anterior, funcionarão nas escolas do magistério primário, nos liceus ou nas escolas técnicas, durante as férias grandes, cursos de aperfeiçoamento dos professores do ensino primário.
+1. Nas escolas do magistério primário passará a haver dois cursos, um geral e outro complementar, com planos e programas a estabelecer oportunamente.
 
-2. Esses cursos serão regidos por professores que o Ministro da Educação Nacional designará e que preceberão uma gratificação a fixar pelo mesmo Ministro, com a concordância do das Finanças.
+2. O curso complementar do magistério primário destina-se à preparação especializada de professores do ciclo complementar do ensino primário.
 
-3. Os professores do ensino primário que tenham seguido um curso de aperfeiçoamento, com regularidade devidamente certificada, também gozarão de preferência na designação para a regência do ciclo complementar; mas esta preferência ficará subordinada às estabelecidas no artigo precedente.
+3. Enquanto não houver professores com a habilitação prevista no número anterior ou quando não os houver em quantidade suficiente, serão organizados cursos de especialização de professores do ensino primário, a ministrar sob forma directa ou pela televisão, com vista à regência do ciclo complementar daquele ensino.
 
-Art. 9.º Os indivíduos sujeitos ao regime de escolaridade obrigatória instituído pelo presente decreto-lei deverão possuir, pelo menos, o ciclo complementar do ensino primário, ou o 1.º ciclo do ensino liceal, ou o ciclo preparatório do ensino técnico profissional, para todos os fins para que se exige presentemente a 4.ª classe da instrução primária.
+4. Os cursos a que se refere o número anterior serão regidos por professores que o Ministro da Educação Nacional designará, os quais perceberão uma gratificação a fixar pelo Ministro, com o acordo do Ministro das Finanças.
 
-Art. 10.º O regime estabelecido na legislação vigente para a primeira fase da escolaridade obrigatória é extensivo à segunda, em tudo o que lhe for aplicável e não estiver previsto no presente decreto-lei.
+5. Aos professores que frequentarem com regularidade os cursos mencionados no n.º 3 e neles forem aprovados passar-se-á um certificado de habilitação, em impresso do modelo aprovado pela Direcção-Geral do Ensino Primário.
 
-Art. 11.º O Ministério do Ultramar, em colaboração com o Ministério da Educação Nacional, estudará, quando for julgado oportuno, a adaptação do regime previsto neste decreto-lei às províncias ultramarinas.
+> Alterado pelo/a [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129), publicado em 1968-08-27.
+
+###### Artigo 8.º
+
+1. O provimento dos professores do ciclo complementar faz-se mediante concurso documental; do aviso que declarar aberto concurso, a publicar no Diário do Governo, devem constar o respectivo âmbito e prazo, bem como o regime de provimento.
+
+2. Podem requerer provimento nos lugares postos a concurso:
+
+I. Os professores aprovados no exame final do curso complementar do magistério primário;
+
+II. Os professores aprovados nos cursos de especialização, previstos no n.º 3 do artigo 7.º, e que possuam o 3.º ciclo liceal;
+
+III. Os professores aprovados nos referidos cursos de especialização;
+
+IV. Os professores que possuam o 3.º ciclo liceal;
+
+V. Os restantes professores do ensino primário.
+
+3. A graduação dos concorrentes far-se-á:
+
+a) Em primeiro lugar, segundo a ordem dos grupos indicados no n.º 2 do presente artigo;
+
+b) Em segundo lugar, dentro de cada um desses grupos, segundo a ordem da valorização profissional;
+
+c) Em terceiro lugar, no caso de igualdade de valorização profissional, segundo a ordem estabelecida no artigo 11.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, com as alterações introduzidas pela Lei 2129, de 20 de Agosto de 1966.
+
+4. A valorização profissional determina-se de harmonia com o disposto no artigo 9.º do citado [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), tomando-se como nota do diploma de habilitação, quanto aos professores do grupo I, a obtida no exame final do curso complementar do magistério primário.
+
+5. O professor que requerer a regência do ciclo complementar do ensino primário para determinado ano lectivo e obtiver deferimento será obrigado a essa regência, salvo se não for provido em nenhuma das escolas que no requerimento tiver indicado.
+
+6. É aplicável a todos os provimentos no referido ciclo complementar o disposto no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933.
+
+7. O Ministro da Educação Nacional poderá sempre determinar a cessação, no fim do ano escolar, do exercício dos professores.
+
+> Alterado pelo/a [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129), publicado em 1968-08-27.
+
+###### Artigo 9.º
+
+Os indivíduos sujeitos ao regime de escolaridade obrigatória instituído pelo presente decreto-lei deverão possuir, pelo menos, o ciclo complementar do ensino primário, ou o 1.º ciclo do ensino liceal, ou o ciclo preparatório do ensino técnico profissional, para todos os fins para que se exige presentemente a 4.ª classe da instrução primária.
+
+###### Artigo 10.º
+
+O regime estabelecido na legislação vigente para a primeira fase da escolaridade obrigatória é extensivo à segunda, em tudo o que lhe for aplicável e não estiver previsto no presente decreto-lei.
+
+###### Artigo 11.º
+
+O Ministério do Ultramar, em colaboração com o Ministério da Educação Nacional, estudará, quando for julgado oportuno, a adaptação do regime previsto neste decreto-lei às províncias ultramarinas.
 
 Publique-se e cumpra-se como nele se contém.
 

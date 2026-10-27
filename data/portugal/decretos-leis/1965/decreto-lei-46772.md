@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-05-23'
+version_history:
+  file: decreto-lei-46772.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-05-23'
+    amending: pt:dre:422457:por
+    amending_title: Decreto-Lei n.º 259/73
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:55:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 259/73. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46772.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,11 +122,17 @@ A fim de procurar diminuir as dificuldades de recrutamento de pessoal que se ver
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Fica o Ministro da Saúde e Assistência autorizado a dispor anualmente da importância de 3000000$00 da verba das apostas mútuas desportivas a que se refere o § 2.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, para a concessão de bolsas de estudo destinadas à formação ou aperfeiçoamento de pessoal médico, de enfermagem, de reabilitação e dos serviços auxiliares de diagnóstico e terapêutica.
+###### Artigo 1.º
+
+1. Fica o Ministro da Saúde e Assistência autorizado a fixar anualmente, por portaria, o quantitativo a retirar da verba a que se refere o § 2.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, e que deva reverter para a concessão de bolsas de estudo destinadas à formação ou aperfeiçoamento de pessoal médico, de enfermagem, de reabilitação e dos serviços auxiliares de diagnóstico e terapêutica.
 
 2. As verbas que efectivamente se utilizarem, até ao montante indicado, serão suportadas, em partes iguais, pelas alíneas a) e b) do referido artigo.
 
-Art. 2.º As bolsas serão atribuídas de acordo com regulamento a aprovar pelo Ministro da Saúde e Assistência.
+> Alterado pelo/a [Decreto-Lei n.º 259/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1973-422457), publicado em 1973-05-23.
+
+###### Artigo 2.º
+
+As bolsas serão atribuídas de acordo com regulamento a aprovar pelo Ministro da Saúde e Assistência.
 
 Publique-se e cumpra-se como nele se contém.
 

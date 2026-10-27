@@ -7,9 +7,9 @@ O esquema dos registos é [`schemas/legal_document.schema.json`](schemas/legal_d
 ## 2026-10-27
 
 ### Texto em vigor consolidado pelo leis-portugal (novo)
-- 25 diplomas que o DRE dá como alterados mas não consolida passam a ter o texto em vigor, com as alterações publicadas aplicadas por regra e verificadas às cegas artigo a artigo (piloto da fase 2, [`consolidacao/README.md`](consolidacao/README.md)).
+- 45 diplomas que o DRE dá como alterados mas não consolida passam a ter o texto em vigor, com as alterações publicadas aplicadas por regra (25) ou com um LLM (20) e verificadas às cegas artigo a artigo (piloto da fase 2, [`consolidacao/README.md`](consolidacao/README.md)).
 - Ficam como os consolidados do DRE: `version.kind: consolidated`, `consolidation_date` (a data em que a alteração entrou em vigor), notas "> Alterado pelo/a …" nos artigos alterados e `<registo>.versoes.json` com a versão original e a alterada (`leis-portugal version-at` funciona).
-- Distinguem-se pelo rótulo `version.label` ("Versão consolidada pelo leis-portugal, sem valor oficial: …"), por `source.consolidated_url: null` e, no histórico, por `consolidated_by: leis-portugal` e fragmentos sem `fragment_id` nem `type`. Quem só quiser texto oficial deve filtrar pelo rótulo.
+- Distinguem-se pelo rótulo `version.label` ("Versão consolidada pelo leis-portugal, sem valor oficial: …", que diz se as alterações foram aplicadas por regra ou com um LLM), por `source.consolidated_url: null` e, no histórico, por `consolidated_by: leis-portugal` e fragmentos sem `fragment_id` nem `type`. Quem só quiser texto oficial deve filtrar pelo rótulo.
 - Uma nova recolha do texto publicado não os substitui; uma versão consolidada do DRE substitui.
 
 ### Artigos, entrada em vigor e vigência (novo)

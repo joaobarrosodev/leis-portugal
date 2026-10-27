@@ -38,10 +38,45 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-02-06'
+version_history:
+  file: decreto-lei-236-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-02-06'
+    amending: pt:dre:610412:por
+    amending_title: Decreto-Lei n.º 39/89
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Altera Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Altera Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Altera Artigo 22.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +102,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:04:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 39/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-236-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,73 +249,49 @@ Nestes termos:
 
 Usando da autorização legislativa conferida pelo artigo 41.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição o seguinte:
 
-###### ARTIGO 1.º — (Conceito)
+###### Artigo 1.º — (Conceito)
 
-1 - O contrato de desenvolvimento para habitação, adiante designado por «CDH», é um contrato celebrado entre as câmaras municipais, o Instituto Nacional de Habitação (INH), a Caixa Geral de Depósitos, o Crédito Predial Português ou a Caixa Económica de Lisboa - Montepio Geral, por si só ou em associação, e as empresas, do sector público, cooperativo ou privado, que se dediquem à construção civil, para a construção de habitações de custos controlados, com vista a aumentar a oferta de habitação nas zonas mais carenciadas e a apoiar a indústria da construção civil, melhorando as condições e tecnologia da produção e a estrutura organizativa do sector.
+(Revogado.)
 
-2 - Sempre que a dimensão do empreendimento e o volume do investimento o justifiquem, poderão ser celebrados contratos-programa, consistindo num conjunto de contratos distintos, temporalmente sucessivos, entre as mesmas partes.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### ARTIGO 2.º — (Extensão)
+###### Artigo 2.º — (Extensão)
 
-1 - O contrato pode compreender também no seu objecto a construção de infra-estruturas bem como de edifícios ou partes de edifícios não habitacionais necessários a uma programação integrada do espaço urbano ou impostos pela solução arquitectónica e construtiva adoptada e destinados a equipamento complementar do empreendimento.
+(Revogado.)
 
-2 - O Ministro das Finanças e do Plano poderá autorizar, por despacho, a participação, em CDH, de outras caixas económicas ou institutos de crédito que para tal se mostrem habilitados.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-3 - O disposto no presente diploma não prejudica a competência do Gabinete de Área de Sines para a celebração de CDH na área da sua jurisdição.
+###### Artigo 3.º — (Intervenção do INH)
 
-4 - Sendo o contrato celebrado com grupos de empresas, definir-se-á com rigor a responsabilidade de cada um pela qualidade técnica da construção e pelo conjunto das obrigações contratuais, designadamente no que se refere à pontual consecução dos objectivos parciais e globais estabelecidos.
+(Revogado.)
 
-###### ARTIGO 3.º — (Intervenção do INH)
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-1 - Ao INH caberá, sem prejuízo da possibilidade da sua intervenção no CDH como entidade financiadora e da concessão do benefício referido na alínea b) do n.º 2 do artigo 8.º:
+###### Artigo 4.º — (Requisitos essenciais das empresas)
 
-a) O pagamento das bonificações de juro da responsabilidade do Estado;
+(Revogado.)
 
-b) A concessão de empréstimos às câmaras municipais para exercício da garantia de compra nos termos da alínea a) do n.º 2 do artigo 8.º e do artigo 13.º
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-2 - A intervenção do INH a que se referem as alíneas do número anterior depende de prévia apresentação pelas câmaras municipais dos programas trienais de promoção habitacional.
+###### Artigo 5.º — (Regime jurídico das habitações)
 
-3 - A assumpção das responsabilidades referidas nas alíneas do n.º 1 constará de termo de responsabilidade emitido pelo INH, sendo parte integrante do respectivo contrato.
+(Revogado.)
 
-###### ARTIGO 4.º — (Requisitos essenciais das empresas)
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-As empresas construtoras para celebrarem CDH devem preencher designadamente, os seguintes requisitos:
+###### Artigo 6.º — (Terrenos para construção)
 
-a) Possuir alvará adequado ao valor do contrato e à natureza da obra;
+(Revogado.)
 
-b) Apresentar uma estrutura financeira equilibrada;
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-c) Possuir, por si ou através de contrato com terceiros, os quadros e o equipamento indispensáveis.
+###### Artigo 7.º — (Investimentos anual)
 
-###### ARTIGO 5.º — (Regime jurídico das habitações)
+(Revogado.)
 
-1 - As habitações de custos controlados construídas ao abrigo de CDH destinam-se a venda, quer para habitação própria permanente, quer para arrendamento no regime de renda condicionada.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-2 - A sujeição ao regime de renda condicionada cessa decorridos 25 anos contados da data de emissão da licença de habitação.
-
-3 - Para efeitos do presente diploma consideram-se habitações de custos controlados os que se enquadrem nas características e valores fixados por portaria do Ministro do Equipamento Social.
-
-4 - A portaria de custos a que se refere o número anterior será publicada semestralmente referida aos meses de Maio e de Novembro, tendo por base a variação do índice de custo de construção de edifícios do continente referente aos 6 meses anteriores, ouvida a Comissão de Índices e Fórmulas de Empreitadas.
-
-5 - As habitações adquirida por força do exercício de garantia de compra poderão, porém, ser afectadas pelo respectivo município ao regime de arrendamento, vigente para habitação social.
-
-6 - O regime de habitações construídas ao abrigo de CDH está sujeito a registo predial.
-
-7 - Em caso de execução da garantia hipotecária por dívida relacionada com a construção ou aquisição das habitações cessa a sujeição aos valores máximos de venda previstos no presente diploma e ao regime de renda condicionada.
-
-###### ARTIGO 6.º — (Terrenos para construção)
-
-1 - Os CDH compreendem a execução de programas de edificações em terrenos de propriedade das empresas construtoras ou a elas cedidos em regime de direito de superfície.
-
-2 - A cedência de terrenos em regime de direito de superfície deve ser outorgada por escritura pública até à celebração dos CDH.
-
-###### ARTIGO 7.º — (Investimentos anual)
-
-1 - Os Ministros das Finanças e do Plano e do Equipamento Social definirão anualmente, por despacho, sob proposta do INH, os montantes a afectar ao financiamento de novos contratos.
-
-2 - Ao INH cabe acordar com as instituições especiais de crédito referidas no artigo 1.º os montantes a financiar.
-
-###### ARTIGO 8.º — (Benefícios a conceder às empresas construtoras)
+###### Artigo 8.º — (Benefícios a conceder às empresas construtoras)
 
 1 - As empresas construtoras que sejam sujeitos de CDH usufruem dos seguintes benefícios:
 
@@ -291,165 +303,65 @@ c) Redução até 90% da contribuição Industrial que incidir sobre o lucro obt
 
 d) Gratuitidade dos actos de registo predial inerentes ao objecto do CDH, incluindo os relativos aos terrenos referidos na alínea b).
 
-2 - No CDH poderão, ainda, estabelecer-se a favor da empresa construtora os seguintes benefícios:
+2 - (Revogado.)
 
-a) Garantia de compra das habitações, a exercer pela câmara municipal contratante;
+3 - (Revogado.)
 
-b) Prestação de apoio técnico especializado.
+> Alterado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-3 - Os benefícios previstos no número anterior, bem como as condições de que dependa a sua concessão, serão estabelecidos no respectivo contrato, com observância dos princípios constantes do presente decreto-lei.
+###### Artigo 9.º — (Obrigações das empresas)
 
-###### ARTIGO 9.º — (Obrigações das empresas)
+(Revogado.)
 
-Nos CDH a empresa construtora obrigar-se-á, designadamente:
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-a) A construir, nos termos do plano de trabalhos acordado e no respeito pelas metas e objectivos parciais e globais dele constante, um número pré-fixado de habitações com as características fixadas na portaria referida no artigo 5.º;
+###### Artigo 10.º — (Controle da execução do contrato)
 
-b) A comunicar aos outros sujeitos do contrato o início dos trabalhos;
+(Revogado.)
 
-c) A respeitar nas vendas os preços definidos no contrato;
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-d) A utilizar materiais normalizados;
+###### Artigo 11.º — (Condições do financiamento)
 
-e) A cumprir as disposições legais e regulamentares relativas à comercialização, das habitações, prestando aos competentes serviços municipais todas as informações que lhe forem solicitadas;
+(Revogado.)
 
-f) A prestar aos outros contraentes todas as informações que forem solicitadas sobre o objecto do contrato e sua execução;
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-g) A garantir, directamente perante o adquirente das habitações, a qualidade da construção nos termos da responsabilidade do empreiteiro perante o dono da obra, de acordo com o artigo 1225.º do Código Civil.
+###### Artigo 12.º — (Garantia de compra)
 
-###### ARTIGO 10.º — (Controle da execução do contrato)
+(Revogado.)
 
-1 - Cabe às empresas construtoras contratantes a prova, até às datas que figurem no contrato, da efectiva consecução dos objectivos e metas fixados e bem assim, se for caso disso, que lhes não é imputável a sua eventual falta de cumprimento.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-2 - Caberá à câmara municipal contratante fiscalizar a execução das obras, e, conjuntamente com a entidade financiadora e com o eventual apoio técnico do INH, acompanhar o desenvolvimento da execução dos projectos e programas objecto do contrato, bem como exigir da empresa contratante todos os elementos de prova que considere indispensáveis para averiguar o efectivo cumprimento do contrato e da aplicação dos créditos.
+###### Artigo 13.º — (Intervenção do INH no financiamento de garantia de compra)
 
-###### ARTIGO 11.º — (Condições do financiamento)
+(Revogado.)
 
-1 - O montante do financiamento será fixado pela entidade financiadora em função do valor de venda inicial do empreendimento, nos termos a definir na portaria a que se refere a alínea a) do n.º 1 do artigo 8.º, sendo igualmente estimado e fixado pela entidade financiadora um montante suplementar de financiamento, calculado em função da diferença entre o valor de venda final previsível e o valor de venda inicial do empreendimento, sem prejuízo de poder ser exigível uma adequada participação de capitais próprios no empreendimento.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-2 - O montante do financiamento utilizável em cada momento é determinado pela entidade financiadora em função de medições por si efectuadas e do valor de venda inicial atribuído ao empreendimento, devendo, em cada mês coincidente com a saída das portarias a que se refere o n.º 3 do artigo 5.º, o valor de venda do empreendimento ser actualizado segundo o método referido no artigo 14.º, corrigindo-se também o montante do financiamento utilizado e a utilizar.
+###### Artigo 14.º — (Valor de venda das habitações)
 
-3 - A taxa de juro contratual é a máxima legal aplicável no momento da concessão dos financiamentos ou, em caso de alteração, na data do vencimento das prestações.
+(Revogado.)
 
-4 - Os financiamentos beneficiam de bonificação, deduzida à taxa de juro contratual, a suportar pelo Banco de Portugal, pelas instituições mutuantes e pelo Estado através do INH, nos termos a definir na portaria a que se refere o n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-5 - A garantia do financiamento é constituída, preferencialmente, por hipoteca sobre os empreendimentos.
+###### Artigo 15.º — (Valor da rendas das habitações)
 
-6 - O prazo do financiamento é fixado pela entidade financiadora tendo em conta a natureza e finalidade da operação, nos termos da portaria referida no n.º 1.
+(Revogado.)
 
-7 - A apreciação dos pedidos de financiamento e o crédito utilizável em cada momento deve obedecer ainda às indispensáveis regras de gestão, designadamente as de segurança estabelecidas pela entidade financiadora.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### ARTIGO 12.º — (Garantia de compra)
+###### Artigo 16.º — (Comercialização das habitações)
 
-1 - Sempre que no contrato se estabeleça o benefício da garantia de compra dever-se-á especificar as condições e os termos em que a mesma será exercida, nomeadamente:
+(Revogado.)
 
-a) Preços;
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-b) Datas a partir da qual se exercerá;
+###### Artigo 17.º — (Benefícios a conceder aos adquirentes das habilitações)
 
-c) Identificação das fracções, se for caso disso.
+1 - (Revogado.)
 
-2 - A compra só pode efectuar-se desde que obtida a licença de habitação e constituída a propriedade horizontal nos casos em que a ela haja lugar.
-
-3 - A câmara municipal, obtido o acordo da entidade financiadora, poderá anular o benefício da garantia de compra quando se verifiquem atrasos injustificados na conclusão dos fogos superiores a um quinto do prazo definido no plano de trabalhos contratado.
-
-###### ARTIGO 13.º — (Intervenção do INH no financiamento de garantia de compra)
-
-1 - Para efeitos de financiamento do INH, a garantia de compra classifica-se em simples ou complementar.
-
-2 - Garantia simples é a parte da garantia cuja cobertura financeira é da inteira responsabilidade da câmara municipal.
-
-3 - Garantia complementar é a parte da garantia cuja cobertura financeira tem contrapartida em empréstimos do INH.
-
-4 - O INH concederá à câmara municipal, nas condições e limites do respectivo termo de responsabilidade, empréstimos para cobertura da garantia complementar, desde que:
-
-a) As habitações se destinem a património municipal para atribuição em regime de arrendamento;
-
-b) A percentagem das habitações objecto da garantia de compra complementar não exceda 30% do total das habitações objecto do contrato;
-
-c) A garantia de compra total não exceda 50% das habitações objecto do contrato.
-
-5 - Os empréstimos referidos no número anterior são regulados pelos Decretos-Leis n.os [220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio, e [110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, de acordo com os regimes de arrendamento a que se destinam as habitações, sendo as importâncias respeitantes às parcelas de juros contados e de exigibilidade diferida capitalizadas e repercutidas nas prestações seguintes.
-
-###### ARTIGO 14.º — (Valor de venda das habitações)
-
-1 - Os valores das habitações estipulados no CDH têm como limites máximos os valores, constantes da portaria a que se refere o artigo 5.º, ajustados nos termos do n.º 3 deste artigo e reportados ao mês de início das habitações previsto no plano de trabalhos.
-
-2 - O valor de venda final das habitações será fixado de acordo com a expressão seguinte:
-
-V(índice fn) = [(V(índice i) + V(índice n))/2] x (V(índice c)/V(índice i)) x (1 + (n x j/500))
-
-em que:
-
-V(índice fn) = valor de venda final.
-
-V(índice i) e V(índice n) = valor de venda reportado, respectivamente, ao mês de início e de conclusão das habitações previsto no plano de trabalhos, sem prejuízo do n.º 5, e compreendendo as seguintes parcelas:
-
-Valor do custo da construção;
-
-Valor do terreno urbanizado;
-
-Valor correspondente a outros encargos indirectos.
-
-V(índice c) = valor da venda estipulado no contrato reportado ao mês de início das habitações previsto no plano de trabalhos.
-
-n = número de ordem do trimestre em que se verifique a transmissão da habitação em causa, contado a partir da sua conclusão.
-
-j = valor não percentual da taxa de juro anual do financiamento à data da conclusão das habitações.
-
-3 - Se o mês de início ou da conclusão das habitações não coincidir com o mês de referência da portaria, far-se-á a actualização pela seguinte fórmula:
-
-V(índice a) = V(índice 2) + [(V(índice 2) - V(índice 1))/6] x n
-
-em que:
-
-V(índice a) = valor actualizado para V(índice i) ou V(índice n) da portaria em vigor.
-
-V(índice 2) = valor da portaria em vigor.
-
-V(índice 1) = valor da portaria anterior.
-
-n = número de meses que decorre entre o mês de referência da portaria em vigor e o mês de início ou conclusão das habitações.
-
-4 - Os valores de Vi e Vn, poderão ser corrigidos, nos termos de portaria do Ministro do Equipamento Social, em virtude de alteração da taxa de juro contratual verificada no período de vigência da portaria de custos aplicável ao contrato.
-
-5 - Devem ser estipuladas no contrato as condições de fixação do valor Vn nos casos em que a câmara municipal aceite prorrogação do plano de trabalhos, não podendo as prorrogações traduzir-se num valor de venda final das habitações superior ao que resultar da aplicação da expressão seguinte:
-
-V(índice fn) = V(índice n) x V(índice c)/V(índice i) x (1 + (n x j/500))
-
-em que V(índice n), (V(índice c), V(índice i), n e j têm o significado atribuído no n.º 2.
-
-6 - O valor de venda final será calculado no início do trimestre anterior ao da conclusão dos fogos prevista no plano de trabalhos.
-
-7 - O valor de venda final será calculado para os quatro trimestres seguintes à conclusão dos fogos, considerando-se para o efeito a taxa de juro do financiamento em vigor nessa data.
-
-###### ARTIGO 15.º — (Valor da rendas das habitações)
-
-1 - A renda convencionada para as habitações construídas ao abrigo do CDH e concluídas há menos de um ano à data do primeiro arrendamento não poderá exceder o duodécimo do produto resultante da aplicação da taxa em vigor para os arrendamentos no regime de renda condicionada sobre o valor de venda final calculado nos termos do n.º 2 do artigo 14.º do presente diploma.
-
-2 - Nos arrendamentos subsequentes a renda mensal será calculada nos termos da legislação aplicável aos arrendamentos no regime de renda condicionada
-
-###### ARTIGO 16.º — (Comercialização das habitações)
-
-1 - Cabe à empresa promover a venda das fracções autónomas do edifício destinadas à habitação, sendo proibida a celebração de contratos-promessa de compra e venda antes de executadas as alvenarias e a cobertura do respectivo edifício.
-
-2 - Se ainda não estiver fixado o preço de venda nos termos do artigo 14.º deste diploma, deverá constar expressamente do contrato-promessa essa circunstância e o modo de fixação final do preço.
-
-3 - Sem prejuízo das obrigações decorrentes de acordos internacionais em que Portugal seja parte, designadamente das resultantes da adesão à Comunidade Económica Europeia, as habitações constituídas no âmbito dos CDH só podem ser adquiridas por cidadões nacionais constantes das listas organizadas pelos serviços competentes do município da situação do prédio, mediante avisos publicados nos locais do estilo e nos órgãos de comunicação social mais lidos no concelho, bem como pelo próprio município, ou por quaisquer entidades singulares ou colectivas, públicas, cooperativas ou privadas, quando nisso acordarem, previamente à organização das listas, as câmaras municipais respectivas.
-
-4 - O número de habitações adquiridas pelos municípios ao abrigo do número anterior será deduzido ao número de habitações objecto de garantia de compra.
-
-5 - Se os serviços do município não fornecerem no prazo de 15 dias a contar da data de recepção do respectivo pedido as listas referidas no n.º 3, poderá a empresa promover a venda das habitações.
-
-6 - Os notários não poderão lavrar escritura pública pela qual se transmita a título oneroso a propriedade de fracções autónomas de habitações construídas no âmbito de CDH sem a apresentação de documento comprovativo, passado pelos serviços competentes do município, da situação do prédio, de que a alienação se efectuou com observância do disposto neste diploma e do qual constem os nomes do vendedor e do comprador.
-
-7 - A declaração referida no número anterior pode ser substituída por visto dos serviços competentes do município no contrato-promessa celebrado nos termos do n.º 1 do presente artigo.
-
-###### ARTIGO 17.º — (Benefícios a conceder aos adquirentes das habilitações)
-
-1 - Na primeira transmissão, os adquirentes das habitações construídas ao abrigo de CDH para habitação própria permanente terão prioridade no acesso ao crédito para aquisição de casa própria.
-
-2 - Para efeito do crédito referido no número anterior, as habitações construídas ao abrigo de CDH consideram-se sempre como incluídas na classe de fogos A, definida nos termos do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro.
+2 - (Revogado.)
 
 3 - Aos rendimentos resultantes do arrendamento das habitações construídas ao abrigo de CDH são aplicáveis os benefícios fiscais previstos no regime de renda condicionada.
 
@@ -461,33 +373,37 @@ b) Gratuitidade dos actos do registo predial.
 
 5 - Os benefícios previstos nos n.os 1, 2 e 4 deste artigo são ainda aplicáveis à segunda transmissão dos fogos adquiridos pela câmara municipal no exercício da garantia de compra.
 
-###### ARTIGO 18.º — (Valor máximo de venda nas segundas transmissões)
+> Alterado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-Nas segundas transmissões das habitações construídas ao abrigo de CDH, o valor máximo de venda será determinado de acordo com o estipulado no regime de renda condicionada.
+###### Artigo 18.º — (Valor máximo de venda nas segundas transmissões)
 
-###### ARTIGO 19.º — (Incumprimento do contrato por parte das empresas construtoras)
+(Revogado.)
 
-1 - O incumprimento das obrigações das empresas construtoras que não inviabilize a consecução das finalidades essenciais do contrato e que não dê portanto lugar a rescisão concede às entidades financiadoras e ao INH o direito de suspender os benefícios financeiros e às câmaras municipais a faculdade de reduzir ou anular, nos termos do n.º 3 do artigo 12.º, o benefício da garantia de compra desde que aquele incumprimento impeça o exercício da referida garantia nos termos contratados.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-2 - A rescisão implica, igualmente, a perda dos referidos benefícios e o consequente dever de reposição dos montantes que respeitam aos benefícios financeiros fiscais inerentes aos CDH.
+###### Artigo 19.º — (Incumprimento do contrato por parte das empresas construtoras)
 
-###### ARTIGO 20.º — (Aplicação)
+(Revogado.)
 
-O presente diploma não se aplica:
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-a) Aos CDH celebrados ao abrigo dos Decretos-Leis n.os [663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074), de 26 de Novembro, [638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), de 29 de Julho, [412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, e [344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto;
+###### Artigo 20.º — (Aplicação)
 
-b) Aos CDH que venham a ser celebrados ao abrigo do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto, no âmbito da Comissão Liquidatária do Fundo de Fomento da Habitação, nos termos da alínea e) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio;
+(Revogado.)
 
-c) Aos CDH que venham ainda a ser celebrados ao abrigo do n.º 2 do artigo 2.º do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto, e cujas propostas tenham merecido da respectiva entidade financiadora aprovação do financiamento da operação.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### ARTIGO 21.º — (Disposição transitória)
+###### Artigo 21.º — (Disposição transitória)
 
-Até à publicação das portarias de custos referidas no n.º 3 do artigo 5.º para a fixação dos valores de venda a que se refere o artigo 14.º tomar-se-ão como base os valores constantes da portaria em vigor à data da celebração do contrato e da portaria imediatamente anterior, publicadas ao abrigo e em execução do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554).
+(Revogado.)
 
-###### ARTIGO 22.º — (Regulamentação)
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-O processo de organização do contrato e de comercialização das habitações será objecto de decreto regulamentar.
+###### Artigo 22.º — (Regulamentação)
+
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - José Veiga Simão - Carlos Montez Melancia.
 

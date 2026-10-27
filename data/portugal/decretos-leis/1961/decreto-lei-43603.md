@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-04-12'
+version_history:
+  file: decreto-lei-43603.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-04-12'
+    amending: pt:dre:161905:por
+    amending_title: Decreto-Lei n.º 192/75
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:36:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 192/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43603.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,27 +119,49 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Sempre que seja julgado necessário para manter a ordem pública nas províncias ultramarinas, é o Governo autorizado, por publicação de portarias assinadas pelos Ministros do Interior, das Finanças e do Ultramar, a reforçar os respectivos corpos de Polícia de Segurança Pública, com companhias móveis de polícia, a mobilizar da metrópole, e a fixar os respectivos quadros.
+###### Artigo 1.º
 
-Art. 2.º O pessoal referido no artigo anterior será recrutado nos termos do Decreto-Lei n.º 43080, de 19 de Julho de 1960. As nomeações de pessoal da metrópole serão feitas por voluntariado ou por imposição, no caso de o número de voluntários não satisfazer às necessidades.
+Sempre que seja julgado necessário para manter a ordem pública nas províncias ultramarinas, é o Governo autorizado, por publicação de portarias assinadas pelos Ministros do Interior, das Finanças e do Ultramar, a reforçar os respectivos corpos de Polícia de Segurança Pública, com companhias móveis de polícia, a mobilizar da metrópole, e a fixar os respectivos quadros.
 
-Art. 3.º A nomeação do pessoal para as companhias móveis de polícia é dispensada do cumprimento de quaisquer formalidades.
+###### Artigo 2.º
 
-Art. 4.º Quando o recrutamento se faça entre pessoal da Polícia de Segurança Pública da metrópole, este não perderá os direitos e regalias conferidos ao pessoal da corporação, em especial os de aposentação e aumento de percentagens sobre o tempo de serviço.
+O pessoal referido no artigo anterior será recrutado nos termos do Decreto-Lei n.º 43080, de 19 de Julho de 1960. As nomeações de pessoal da metrópole serão feitas por voluntariado ou por imposição, no caso de o número de voluntários não satisfazer às necessidades.
 
-Art. 5.º O pessoal da Polícia de Segurança Pública da metrópole nomeado para as companhias móveis de polícia do ultramar transita para o quadro adido da mesma corporação enquanto se mantiver em comissão de serviço. Finda esta, continuará a ser pago pelos orçamentos das respectivas províncias ultramarinas até ter vacatura para o seu regresso à Polícia de Segurança Pública.
+###### Artigo 3.º
 
-Art. 6.º Além dos abonos consignados no Decreto-Lei n.º 43080, de 19 de Julho de 1960, o pessoal da Polícia de Segurança Pública da metrópole integrado nas companhias móveis de polícia do ultramar terá direito a gratificação para fardamento num quantitativo a fixar por despacho dos Ministros do Interior e do Ultramar, com o acordo do das Finanças.
+A nomeação do pessoal para as companhias móveis de polícia é dispensada do cumprimento de quaisquer formalidades.
 
-Art. 7.º Por despacho dos Ministros do Interior, das Finanças e do Ultramar, a Polícia de Segurança Pública poderá convocar escolas de alistados, além dos quadros aprovados por lei, a fim de instruir pessoal destinado a constituir companhias móveis destinadas ao ultramar.
+###### Artigo 4.º
+
+Quando o recrutamento se faça entre pessoal da Polícia de Segurança Pública da metrópole, este não perderá os direitos e regalias conferidos ao pessoal da corporação, em especial os de aposentação e aumento de percentagens sobre o tempo de serviço.
+
+###### Artigo 5.º
+
+1. O pessoal da Polícia de Segurança Pública da metrópole nomeado para as companhias móveis de polícia do ultramar transita para o quadro adido da mesma corporação, enquanto se mantiver em comissão de serviço. Finda esta, apresentar-se-á na Polícia de Segurança Pública da metrópole, por onde será pago de todos os seus vencimentos e restantes abonos, independentemente de vacatura no respectivo quadro orgânico.
+
+2. Os encargos com as remunerações do pessoal nas condições da parte final do n.º 1 serão suportados pelas sobras da dotação inscrita na rubrica «Vencimentos - Pessoal dos quadros aprovados por lei», do orçamento de despesa do Ministério da Administração Interna, até que tenham lugar nos respectivos quadros. Quando não se verificarem sobras suficientes, será inscrita verba apropriada.
+
+> Alterado pelo/a [Decreto-Lei n.º 192/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1975-161905), publicado em 1975-04-12.
+
+###### Artigo 6.º
+
+Além dos abonos consignados no Decreto-Lei n.º 43080, de 19 de Julho de 1960, o pessoal da Polícia de Segurança Pública da metrópole integrado nas companhias móveis de polícia do ultramar terá direito a gratificação para fardamento num quantitativo a fixar por despacho dos Ministros do Interior e do Ultramar, com o acordo do das Finanças.
+
+###### Artigo 7.º
+
+Por despacho dos Ministros do Interior, das Finanças e do Ultramar, a Polícia de Segurança Pública poderá convocar escolas de alistados, além dos quadros aprovados por lei, a fim de instruir pessoal destinado a constituir companhias móveis destinadas ao ultramar.
 
 § 1.º Os encargos provenientes destas escolas de alistados serão satisfeitos por conta de dotação descrita no orçamento do Ministério do Ultramar.
 
 § 2.º Os candidatos chamados a estas escolas de alistados, enquanto na metrópole, terão os mesmos vencimentos conferidos aos guardas provisórios da Polícia de Segurança Pública de Lisboa e iguais direitos e regalias, incluindo os de aposentação.
 
-Art. 8.º Para efeitos de transporte e do abono de ajudas de custo de embarque, os subchefes nomeados para as companhias móveis de polícia são equiparados à 2.ª classe.
+###### Artigo 8.º
 
-Art. 9.º Fica o Governo autorizado a incluir no orçamento do Ministério do Ultramar, como despesa extraordinária, a dotação indispensável à execução deste diploma na parte a suportar pela metrópole.
+Para efeitos de transporte e do abono de ajudas de custo de embarque, os subchefes nomeados para as companhias móveis de polícia são equiparados à 2.ª classe.
+
+###### Artigo 9.º
+
+Fica o Governo autorizado a incluir no orçamento do Ministério do Ultramar, como despesa extraordinária, a dotação indispensável à execução deste diploma na parte a suportar pela metrópole.
 
 § 1.º O processamento das despesas por conta da dotação aludida no corpo deste artigo compete à Secretaria-Geral do Ministério do Ultramar, que porá à disposição do Comando-Geral da Polícia de Segurança Pública os fundos que forem considerados necessários.
 
@@ -132,9 +169,13 @@ Art. 9.º Fica o Governo autorizado a incluir no orçamento do Ministério do Ul
 
 § 3.º A 9.ª Repartição da Direcção-Geral da Contabilidade Pública autorizará as folhas de levantamentos de fundos depois de serem visadas pelos Ministros das Finanças e do Ultramar e submeterá aos mesmos vistos a relação dos documentos remetidos pelo Comando-Geral da Polícia de Segurança Pública, que, a serem concedidos, legitimarão a competente prestação de contas.
 
-Art. 10.º A abertura do crédito no corrente ano económico para execução do preceituado no corpo do artigo 9.º será levada a efeito por decreto referendado apenas pelos Ministros do Interior, das Finanças e do Ultramar.
+###### Artigo 10.º
 
-Art. 11.º Este diploma entra imediatamente em vigor.
+A abertura do crédito no corrente ano económico para execução do preceituado no corpo do artigo 9.º será levada a efeito por decreto referendado apenas pelos Ministros do Interior, das Finanças e do Ultramar.
+
+###### Artigo 11.º
+
+Este diploma entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

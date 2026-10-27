@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-09-05'
+version_history:
+  file: decreto-44240.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-03-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-09-05'
+    amending: pt:dre:414041:por
+    amending_title: Decreto n.º 444/73
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:28:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 444/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1962/decreto-44240.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,13 +140,21 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º Haverá no ultramar escolas do magistério primário, destinadas a preparar pessoal docente para o ensino primário comum, nas províncias em que seja reconhecida a sua necessidade para o preenchimento dos quadros oficiais daquele ensino.
+###### Artigo 1.º
 
-Art. 2.º Os estudos feitos nas escolas oficiais do magistério primário do ultramar, e o respectivo Exame de Estado, têm a mesma validade dos realizados nas escolas oficiais da metrópole da mesma categoria.
+Haverá no ultramar escolas do magistério primário, destinadas a preparar pessoal docente para o ensino primário comum, nas províncias em que seja reconhecida a sua necessidade para o preenchimento dos quadros oficiais daquele ensino.
 
-Art. 3.º Será determinada a aplicação ao ultramar, com as convenientes adaptações, dos preceitos reguladores do ensino de preparação para o magistério primário.
+###### Artigo 2.º
 
-Art. 4.º Em cada uma das escolas do magistério primário haverá:
+Os estudos feitos nas escolas oficiais do magistério primário do ultramar, e o respectivo Exame de Estado, têm a mesma validade dos realizados nas escolas oficiais da metrópole da mesma categoria.
+
+###### Artigo 3.º
+
+Será determinada a aplicação ao ultramar, com as convenientes adaptações, dos preceitos reguladores do ensino de preparação para o magistério primário.
+
+###### Artigo 4.º
+
+Em cada uma das escolas do magistério primário haverá:
 
 a) Um professor de Pedagogia, Didáctica Geral e História da Educação, nomeado entre os professores efectivos do ensino liceal ou do 2.º grau do ensino técnico;
 
@@ -153,11 +176,13 @@ i) Um professor e uma professora de Educação Física, nomeados entre professor
 
 § 1.º Os professores referidos nas alíneas a) a d) são nomeados pelo Ministro e os restantes pelo governador, devendo o de Educação Moral obedecer às condições estabelecidas para a nomeação de professores de Religião e Moral dos ensinos liceal e técnico.
 
-§ 2.º O professor referido na alínea b) é provido nos termos do artigo 27.º do Estatuto do Funcionalismo Ultramarino, os referidos nas alíneas a), c) e d) são providos em comissão, válida por três anos e renovável; a professora de Educação Feminina e os professores referidos nas alíneas g), h) e i) são designados pelo governador entre os colocados na localidade em que funciona a escola do magistério primário em que vão prestar serviço e poderão ter uma recondução.
+§ 2.º Os professores referidos nas alíneas b) e c) são providos nos termos do artigo 4.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, com a redacção que lhe foi dada pela [Portaria n.º 20208](https://diariodarepublica.pt/dr/detalhe/portaria/20208-1963-683785), de 29 de Novembro de 1963, que o aplicou às províncias ultramarinas; os professores a que se referem as alíneas a) e d) são providos em comissão válida, por três anos, e renovável; a professora de Educação Feminina e os professores referidos nas alíneas g), h) e i) são designados pelo Governador entre os colocados na localidade em que funciona a escola do magistério primário em que vão prestar serviço e poderão ter uma recondução.
 
-§ 3.º Os professores referidos nas alíneas a), c), d) e e) terão os vencimentos que na província competem às respectivas categorias; o referido na alínea b) terá o vencimento das categorias I, G e F, com menos de dez, mais de dez ou vinte anos de serviço, e os referidos nas alíneas f) e g) vencerão uma gratificação por cada lição que derem.
+§ 3.º Os professores referidos nas alíneas a), d) e e) terão os vencimentos que na província competem às respectivas categorias; o referido na alínea b) terá os vencimentos das categorias I, G e F, com menos de dez, mais de dez e mais
 
-§ 4.º Os professores referidos nas alíneas a), c), d) e e) são inteiramente dispensados do serviço no liceu ou escola em que estavam colocados; os referidos nas alíneas h) e i) continuam em serviço no seu liceu ou escola e o que prestarem na escola do magistério será gratificado quando exceder a respectiva obrigatoriedade.
+de vinte anos de serviço; os referidos na alínea c), após a nomeação definitiva, terão os vencimentos das categorias K, J e I, conforme tenham no serviço público docente menos de dez, mais de dez ou mais de vinte anos de serviço; os referidos nas alíneas f) e g) vencerão uma gratificação por cada lição que derem.
+
+§ 4.º São inteiramente dispensados do serviço no liceu ou na escola em que estavam colocados os professores referidos nas alíneas a), d) e e), assim como, até à nomeação definitiva, os professores referidos na alínea c); os referidos nas alíneas h) e i) continuam em serviço no seu liceu ou escola e o que prestarem na escola do magistério será gratificado quando exceder a respectiva obrigatoriedade.
 
 § 5.º Podem ser providos em pessoal do sexo feminino os professores referidos nas alíneas b), c), d) e h).
 
@@ -167,31 +192,49 @@ i) Um professor e uma professora de Educação Física, nomeados entre professor
 
 § 8.º O provimento dos professores a que se refere a alínea g) pode recair em médico dos serviços públicos e a sua remuneração é neste caso acumulável com qualquer outra.
 
-§ 9.º Os professores referidos da alínea c) recebem, além do vencimento, uma gratificação, nos meses lectivos;
+§ 9.º Até à nomeação definitiva a que se refere o § 2.º do artigo 4.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, com a redacção da [Portaria n.º 20208](https://diariodarepublica.pt/dr/detalhe/portaria/20208-1963-683785), de 29 de Novembro de 1963, os professores referidos na alínea c) recebem, além do vencimento, uma gratificação nos meses lectivos.
 
 § 10.º Às nomeações de professores em comissão aplica-se o § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961.
 
-Art. 5.º A prática pedagógica será realizada em escolas oficiais do ensino primário, as quais poderão ser:
+> Alterado pelo/a [Decreto n.º 444/73](https://diariodarepublica.pt/dr/detalhe/decreto/444-1973-414041), publicado em 1973-09-05.
+
+###### Artigo 5.º
+
+A prática pedagógica será realizada em escolas oficiais do ensino primário, as quais poderão ser:
 
 a) Quaisquer da mesma localidade, designadas para o efeito pelo director ou chefe dos serviços de instrução;
 
 b) Anexas às escolas do magistério primário, com a designação de escolas de aplicação, se assim forem classificadas pelo governador, ou pelo mesmo vierem a ser instituídas com tal classificação.
 
-Art. 6.º O estágio será realizado em escolas primárias oficiais sob a direcção de professores-orientadores, aos quais será abonada. gratificação enquanto durar o estágio.
+###### Artigo 6.º
 
-Art. 7.º É sempre director da escola o professor de Pedagogia, Didáctica Geral e História da Educação, o qual terá uma gratificação permanente pelo exercício da mesma direcção.
+O estágio será realizado em escolas primárias oficiais sob a direcção de professores-orientadores, aos quais será abonada. gratificação enquanto durar o estágio.
 
-Art. 8.º E da competência dos órgãos legislativos provinciais a fixação de gratificações previstas no presente decreto, e bem assim as quantias destinadas a remunerar lições.
+###### Artigo 7.º
 
-Art. 9.º Inicialmente, as escolas do magistério primário podem funcionar em instalações liceais ou em escolas primárias oficiais.
+É sempre director da escola o professor de Pedagogia, Didáctica Geral e História da Educação, o qual terá uma gratificação permanente pelo exercício da mesma direcção.
 
-Art. 10.º São desde já criadas duas escolas do magistério primário em Angola e duas em Moçambique, as quais funcionarão nas localidades que para o efeito forem escolhidas pelos respectivos conselhos legislativos.
+###### Artigo 8.º
+
+E da competência dos órgãos legislativos provinciais a fixação de gratificações previstas no presente decreto, e bem assim as quantias destinadas a remunerar lições.
+
+###### Artigo 9.º
+
+Inicialmente, as escolas do magistério primário podem funcionar em instalações liceais ou em escolas primárias oficiais.
+
+###### Artigo 10.º
+
+São desde já criadas duas escolas do magistério primário em Angola e duas em Moçambique, as quais funcionarão nas localidades que para o efeito forem escolhidas pelos respectivos conselhos legislativos.
 
 § único. Com vista à dotação destas escolas, será aumentado o quadro burocrático dos serviços de instrução de cada uma das províncias mencionadas com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente para cada escola, mas o seu provimento não será realizado enquanto efectivamente se não verificar a sua indispensabilidade para o funcionamento das mesmas escolas.
 
-Art. 11.º Compete aos governadores das províncias, por diploma legislativo, determinar a sede das escolas previstas neste decreto.
+###### Artigo 11.º
 
-Art. 12.º Ficam os governos das províncias autorizados a abrir os créditos necessários para a execução deste decreto, com contrapartida em recursos orçamentais.
+Compete aos governadores das províncias, por diploma legislativo, determinar a sede das escolas previstas neste decreto.
+
+###### Artigo 12.º
+
+Ficam os governos das províncias autorizados a abrir os créditos necessários para a execução deste decreto, com contrapartida em recursos orçamentais.
 
 Publique-se e cumpra-se como nele se contém.
 

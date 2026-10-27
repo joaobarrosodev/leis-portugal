@@ -1,6 +1,7 @@
 """Aplicação ao acervo dos consolidados verificados às cegas.
 
-Para cada diploma em `APLICAR`, o registo em `data/` passa a ter o texto em vigor
+Para cada diploma verificado às cegas com todos os artigos `certo` (os aplicados por regra e os
+juntados com o LLM, `llm/juntados.jsonl`), o registo em `data/` passa a ter o texto em vigor
 (`piloto/<caminho>.md`), como os consolidados do DRE:
 
 - o corpo é o consolidado, com as notas "> Alterado pelo/a …" nos artigos alterados;
@@ -35,8 +36,8 @@ from leis_portugal.infrastructure.repository import Acervo
 
 
 PASTA = RAIZ / "consolidacao"
-RONDAS = ("entrada-piloto.jsonl", "entrada-piloto-2.jsonl", "entrada-piloto-3.jsonl")
-SAIDAS = ("saida-piloto.jsonl", "saida-piloto-2.jsonl", "saida-piloto-3.jsonl")
+RONDAS = ("entrada-piloto.jsonl", *(f"entrada-piloto-{n}.jsonl" for n in range(2, 6)))
+SAIDAS = ("saida-piloto.jsonl", *(f"saida-piloto-{n}.jsonl" for n in range(2, 6)))
 
 # Os 24 com todos os artigos `certo` e o Decreto-Lei n.º 513-M/79, cuja `dúvida` (a revogação
 # do artigo 19.º só produz efeitos com a entrada em vigor do Código dos Regimes Contributivos)
@@ -48,23 +49,33 @@ DUVIDAS_RESOLVIDAS = {"pt:dre:430016:por"}
 DE_FORA = {"pt:dre:431229:por", "pt:dre:542458:por"}
 
 ROTULO = "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas"
+ROTULO_LLM = "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas"
 _NOTA_PILOTO = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*, publicado em \d{4}-\d{2}-\d{2}\.\n\n?", re.M)
 _NOTA = re.compile(r"^> ((?:Alterado|Aditado|Revogado|Retificado) pelo/a .*)$", re.M)
 _TITULO = re.compile(r"^#{1,6} ", re.M)
 _OPERACAO = {"revogar": "Revoga", "aditar": "Adita", "retificar": "Retifica"}
 
 
+def _sem_problemas(diploma: dict) -> bool:
+    """A linha do diploma na saída da verificação: nada em falta nem a mais, e nada mudado fora
+    dos artigos (o verificador escreve "sem alterações…" quando está bem)."""
+    listas = ("instrucoes_em_falta", "artigos_em_falta", "artigos_a_mais")
+    return not any(diploma.get(k) for k in listas) and str(diploma.get("fora_dos_artigos") or "").startswith("sem alterações")
+
+
 def verificados() -> dict[str, dict]:
     """A entrada da última ronda de cada diploma, se todos os artigos dessa ronda são `certo`
-    (ou a dúvida está resolvida)."""
+    (ou a dúvida está resolvida) e o diploma não tem problemas fora dos artigos."""
     entradas: dict[str, dict] = {}
     vereditos: dict[str, set[str]] = {}
     for entrada, saida in zip(RONDAS, SAIDAS, strict=True):
-        ronda = {}
+        ronda: dict[str, set[str]] = {}
         for linha in (PASTA / "verificacao" / saida).read_text(encoding="utf-8").splitlines():
             item = json.loads(linha)
             if "veredicto" in item:
                 ronda.setdefault(item["id"], set()).add(item["veredicto"])
+            elif not _sem_problemas(item):
+                ronda.setdefault(item["id"], set()).add("problema no diploma")
         vereditos |= ronda
         for linha in (PASTA / "verificacao" / entrada).read_text(encoding="utf-8").splitlines():
             item = json.loads(linha)
@@ -126,12 +137,17 @@ def main() -> int:
     acervo = Acervo(RAIZ)
     resultados = {r["id"]: r for r in map(json.loads, (PASTA / "resultados.jsonl").read_text(encoding="utf-8").splitlines())}
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao.jsonl").read_text(encoding="utf-8").splitlines())}
+    juntados = {r["id"]: r for r in map(json.loads, (PASTA / "llm" / "juntados.jsonl").read_text(encoding="utf-8").splitlines())}
+    for id_, juntado in juntados.items():
+        if juntado["estado"] == "aplicado com LLM":
+            resultados[id_] = resultados[id_] | {"estado": juntado["estado"], "consolidado": juntado["consolidado"]}
     hoje = date.today().isoformat()
     aplicados, ja_aplicados, recusados, fora = 0, 0, [], []
     for id_, entrada in sorted(verificados().items(), key=lambda kv: resultados[kv[0]]["path"]):
         resultado = resultados[id_]
-        if resultado["estado"] != "aplicado por regra":
-            # Ex.: as revogações condicionais do Decreto-Lei n.º 16/2013, que saíram dos aplicados.
+        if resultado["estado"] not in ("aplicado por regra", "aplicado com LLM"):
+            # Ex.: as revogações condicionais do Decreto-Lei n.º 16/2013, que saíram dos aplicados,
+            # ou os três que deixaram de se juntar com o LLM depois da 4.ª ronda.
             fora.append(f"{resultado['title']}: {resultado['estado']} ({resultado['motivo']})")
             continue
         piloto = RAIZ / resultado["consolidado"]
@@ -141,7 +157,8 @@ def main() -> int:
             continue
         caminho = RAIZ / resultado["path"]
         registo, original = acervo.read(caminho)
-        if registo.version.label == ROTULO and original.strip() == consolidado.strip():
+        rotulo = ROTULO_LLM if resultado["estado"] == "aplicado com LLM" else ROTULO
+        if registo.version.label == rotulo and original.strip() == consolidado.strip():
             ja_aplicados += 1
             continue
         if registo.version.kind != "original" or original.strip() != entrada["texto_original"].strip():
@@ -168,7 +185,7 @@ def main() -> int:
         dados = historico(id_, registo.title, original, consolidado, versoes)
         assert render_version(dados, dados["versions"][1], title=registo.title).strip() == consolidado.strip().replace("\n\n\n", "\n\n")
         nome = acervo.history_path(caminho).name
-        registo.version = Version(kind="consolidated", label=ROTULO, language="por", consolidation_date=data_alteracao)
+        registo.version = Version(kind="consolidated", label=rotulo, language="por", consolidation_date=data_alteracao)
         registo.version_history = summarize(dados, nome)
         registo.provenance.notes = (
             f"Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: {alterador_meta['title']}. "
@@ -178,8 +195,8 @@ def main() -> int:
             acervo.save(registo, consolidado, target=caminho)
             acervo.write_history(caminho, dados)
         aplicados += 1
-        print(f"{'(dry-run) ' if args.dry_run else ''}{resultado['path']}: {len(alteracoes)} alteração(ões), em vigor desde {data_alteracao}")
-    print(f"Aplicados: {aplicados}. Já aplicados: {ja_aplicados}. Recusados: {len(recusados)}. Verificados que já não são aplicados por regra: {len(fora)}.")
+        print(f"{'(dry-run) ' if args.dry_run else ''}{resultado['path']}: {len(alteracoes)} alteração(ões) ({resultado['estado']}), em vigor desde {data_alteracao}")
+    print(f"Aplicados: {aplicados}. Já aplicados: {ja_aplicados}. Recusados: {len(recusados)}. Verificados que já não estão aplicados: {len(fora)}.")
     for linha in recusados + fora:
         print("  ", linha)
     return 1 if recusados else 0

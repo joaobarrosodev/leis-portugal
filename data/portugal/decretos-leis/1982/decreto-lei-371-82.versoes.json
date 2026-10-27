@@ -1,0 +1,342 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:375620:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45fb16b0ef44b647",
+    "2721ab4b89f211b9",
+    "7b66adec99f8d5a1",
+    "d060fda2cc43885d",
+    "19930bb1b664058f",
+    "bdefc110888fc300"
+   ]
+  },
+  {
+   "date": "1993-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541444:por",
+     "title": "Decreto-Lei n.º 415/93",
+     "published": "1993-12-23",
+     "dre_path": "/dr/detalhe/decreto-lei/415-1993-541444"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "45fb16b0ef44b647",
+    "6aba7700b5dfe3f0",
+    "a7540cf7a726ac80",
+    "b7c36a38e97b8e29",
+    "dc03f52b5d1eca10",
+    "479756afa1b1bf51",
+    "7fa70a8666ba00f6",
+    "03eb5a930e4a6ff1",
+    "38e573f5c725a726",
+    "1bedd8b24b162fe1",
+    "8179569c9225cedb",
+    "023a49e60cd7cf5b",
+    "4808a5a64fc1e1eb",
+    "eab3a060502bef79",
+    "f06cb1b83788f06f",
+    "3ebcacac1caf31e5",
+    "11dec419fa56eeef",
+    "ef0a8f14d794a2d0",
+    "a422def33828cad3",
+    "260a9f4ecd4b5740",
+    "0d04555341bed125",
+    "9d9bad0b0b367fbd",
+    "4715253debb24926",
+    "20e01c178b1a568b"
+   ]
+  }
+ ],
+ "fragments": {
+  "45fb16b0ef44b647": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Setembro\n\nA formação adequada do pessoal técnico afecto à prestação de cuidados de saúde é condição indispensável ao correcto funcionamento dos serviços e, em consequência, ao bem-estar das populações.\n\nRealizada inicialmente de forma casuística, a formação desse pessoal técnico passou a fazer-se em centros de formação previstos na [Portaria n.º 18523](https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919), de 12 de Junho de 1961, e regulamentados na [Portaria n.º 19397](https://diariodarepublica.pt/dr/detalhe/portaria/19397-1962-159929), de 20 de Setembro de 1962, sendo ambas essas portarias confirmadas pelo [Decreto-Lei n.º 45759](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45759-1964-577306), de 12 de Junho de 1964.\n\nRecentemente, foram os centros de formação reestruturados pela [Portaria n.º 709/80](https://diariodarepublica.pt/dr/detalhe/portaria/709-1980-461860), de 23 de Setembro, a qual teve à partida um carácter transitório, já que, quer no seu preâmbulo, quer no próprio articulado, se apontava para a criação de escolas técnicas dos serviços de saúde.\n\nÉ o que finalmente se concretiza com o presente diploma.\n\nAo abrigo do artigo 78.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "2721ab4b89f211b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nArtigo 1.º - 1 - São criadas as Escolas Técnicas dos Serviços de Saúde de Lisboa, de Coimbra e do Porto, que se sucedem aos centros de formação previstos nas Portarias n.os 18523, de 12 de Junho de 1961, e 19397, de 20 de Setembro de 1962, e reestruturados pela [Portaria n.º 709/80](https://diariodarepublica.pt/dr/detalhe/portaria/709-1980-461860), de 23 de Setembro.\n\n2 - Às Escolas referidas e, bem assim, à Escola de Reabilitação do Alcoitão, criada pela [Portaria n.º 22034](https://diariodarepublica.pt/dr/detalhe/portaria/22034-1966-471574), de 4 de Junho de 1966, competirá desenvolver as actividades relacionadas com a formação e aperfeiçoamento do pessoal técnico auxiliar dos serviços de saúde.\n\n3 - As escolas poderão reconhecer a entidades privadas situadas na respectiva área geográfica, correspondente à área de jurisdição das comissões inter-hospitalares, competência para organizar e manter cursos de formação e aperfeiçoamento, que ficarão sujeitos à sua tutela pedagógica.\n\nArt. 2.º - 1 - As Escolas são dotadas de personalidade jurídica, gozam de autonomia técnica, administrativa e pedagógica e regem-se por regulamento a aprovar por portaria do Ministro dos Assuntos Sociais.\n\n2 - As Escolas disporão de sedes próprias e funcionarão em ligação com os estabelecimentos e serviços de saúde através dos centros de formação a que se refere o capítulo II deste decreto-lei.\n\n3 - A Escola de Reabilitação do Alcoitão manterá as suas instalações actuais e funcionará em ligação com o Centro de Medicina de Reabilitação do Alcoitão.\n\nArt. 3.º Compete ao Departamento de Recursos Humanos a coordenação central dos cursos de formação profissional ministrados nas Escolas."
+  },
+  "7b66adec99f8d5a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos centros de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos centros de formação\n\nArt. 4.º - 1 - Os núcleos de formação, criados pela [Portaria n.º 217/80](https://diariodarepublica.pt/dr/detalhe/portaria/217-1980-475137), de 3 de Maio, e que funcionam nos vários estabelecimentos e serviços de saúde, passam a designar-se «centros de formação» e cumpre-lhes prestar toda a colaboração às Escolas no desenvolvimento das suas actividades, tendo por finalidade o ensino prático e o estágio.\n\n2 - Para efeitos pedagógicos, os centros de formação dependem das escolas a que estejam vinculados, em conformidade com o regulamento destas.\n\nArt. 5.º - 1 - Os centros de formação serão constituídos pelos serviços de saúde e hospitalares, que ministrarão a parte que lhes caiba no ensino teórico-prático ou estágio, por acordo entre a escola e o órgão de gestão do respectivo estabelecimento a que estão subordinados.\n\n2 - Os serviços dos Hospitais Civis de Lisboa, do Hospital de Santa Maria, do Hospital de Egas Moniz, do Hospital de Santa Cruz e da sede do Instituto Nacional de Saúde Dr. Ricardo Jorge darão apoio à Escola Técnica dos Serviços de Saúde de Lisboa.\n\n3 - Os serviços dos Hospitais da Universidade de Coimbra e do Centro Hospitalar de Coimbra darão apoio à Escola Técnica dos Serviços de Saúde de Coimbra.\n\n4 - Os serviços do Hospital de S. João, do Hospital de Santo António e da delegação local do Instituto Nacional de Saúde Dr. Ricardo Jorge darão apoio à Escola Técnica dos Serviços de Saúde do Porto.\n\n5 - Os serviços do Centro de Medicina de Reabilitação do Alcoitão darão apoio à respectiva Escola de Reabilitação.\n\nArt. 6.º Os estabelecimentos e serviços dependentes da Secretaria de Estado da Segurança Social que tiveram actividades conexas com a formação deste pessoal devem prestar às Escolas a colaboração e apoio convenientes."
+  },
+  "d060fda2cc43885d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos órgãos de direcção das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos órgãos de direcção das escolas\n\nArt. 7.º São órgãos de direcção das Escolas:\n\na) A direcção;\n\nb) O conselho escolar.\n\nArt. 8.º - 1 - A direcção é nomeada pelo Secretário de Estado da Saúde, por proposta do director-geral do Departamento de Recursos Humanos, e constituída por 1 director, 1 subdirector e 3 vogais.\n\n2 - O director e o subdirector deverão ser, de preferência, médicos, enquanto os vogais serão escolhidos preferentemente entre o pessoal não médico.\n\nArt. 9.º O conselho escolar é presidido por um dos membros da direcção, por ela designado anualmente, sendo constituído pelos docentes e monitores dos cursos, por um representante do órgão de gestão de cada estabelecimento de que dependem os centros e por um aluno de cada um dos cursos ministrados.\n\nArt. 10.º À direcção compete, em especial:\n\na) Dar cumprimento às linhas gerais de ensino que forem estabelecidas superiormente;\n\nb) Propor a admissão do pessoal docente e administrativo considerado necessário à execução dos programas de ensino estabelecidos;\n\nc) Zelar pela observância das normas legais e regulamentares de funcionamento da escola.\n\nArt. 11.º - 1 - Ao conselho escolar compete, em especial:\n\na) Dar parecer em tudo o que respeite às actividades de ensino da escola e dos centros de formação;\n\nb) Homologar as actas dos exames finais;\n\nc) Apreciar os relatórios dos encarregados de regência das disciplinas;\n\nd) Exercer toda a competência que por lei não seja atribuída a outro órgão.\n\n2 - O conselho escolar funcionará em plenário ou por curso, conforme a natureza dos assuntos a tratar."
+  },
+  "19930bb1b664058f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Dos serviços administrativos e do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Dos serviços administrativos e do financiamento\n\nArt. 12.º - 1 - O Ministro dos Assuntos Sociais poderá, por despacho, afectar às Escolas o pessoal indispensável ao seu regular funcionamento.\n\n2 - O pessoal referido no número anterior mantém os direitos, deveres e regalias dos serviços de origem, nomeadamente no que respeita à natureza do vínculo, designação funcional, e vencimento.\n\nArt. 13.º A remuneração do pessoal docente dos centros será estabelecida por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Reforma Administrativa e dos Assuntos Sociais.\n\nArt. 14.º As despesas decorrentes da realização de cursos de formação serão suportadas por conta da dotação orçamental destinada à formação de técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica."
+  },
+  "bdefc110888fc300": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias\n\nArt. 15.º As Escolas criadas pelo presente diploma são colocadas em regime de instalação, ao abrigo dos artigos 19.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nArt. 16.º A Escola de Reabilitação do Alcoitão mantém a composição actual dos órgãos de direcção enquanto não for publicado novo regulamento de actividades.\n\nArt. 17.º As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Assuntos Sociais e da Reforma Administrativa, conforme os casos.\n\nArt. 18.º São revogados o [Decreto-Lei n.º 45759](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45759-1964-577306), de 12 de Junho de 1964, a [Portaria n.º 694/70](https://diariodarepublica.pt/dr/detalhe/portaria/694-1970-414420), de 31 de Dezembro, e os capítulos I a V da [Portaria n.º 709/80](https://diariodarepublica.pt/dr/detalhe/portaria/709-1980-461860), de 23 de Setembro.\n\nAprovado em Conselho de Ministros de 15 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 26 de Agosto de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "6aba7700b5dfe3f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I"
+  },
+  "a7540cf7a726ac80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "b7c36a38e97b8e29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "dc03f52b5d1eca10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "479756afa1b1bf51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos centros de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos centros de formação"
+  },
+  "7fa70a8666ba00f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os núcleos de formação, criados pela [Portaria n.º 217/80](https://diariodarepublica.pt/dr/detalhe/portaria/217-1980-475137), de 3 de Maio, e que funcionam nos vários estabelecimentos e serviços de saúde, passam a designar-se «centros de formação» e cumpre-lhes prestar toda a colaboração às Escolas no desenvolvimento das suas actividades, tendo por finalidade o ensino prático e o estágio.\n\n2 - Para efeitos pedagógicos, os centros de formação dependem das escolas a que estejam vinculados, em conformidade com o regulamento destas."
+  },
+  "03eb5a930e4a6ff1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os centros de formação serão constituídos pelos serviços de saúde e hospitalares, que ministrarão a parte que lhes caiba no ensino teórico-prático ou estágio, por acordo entre a escola e o órgão de gestão do respectivo estabelecimento a que estão subordinados.\n\n2 - Os serviços dos Hospitais Civis de Lisboa, do Hospital de Santa Maria, do Hospital de Egas Moniz, do Hospital de Santa Cruz e da sede do Instituto Nacional de Saúde Dr. Ricardo Jorge darão apoio à Escola Técnica dos Serviços de Saúde de Lisboa.\n\n3 - Os serviços dos Hospitais da Universidade de Coimbra e do Centro Hospitalar de Coimbra darão apoio à Escola Técnica dos Serviços de Saúde de Coimbra.\n\n4 - Os serviços do Hospital de S. João, do Hospital de Santo António e da delegação local do Instituto Nacional de Saúde Dr. Ricardo Jorge darão apoio à Escola Técnica dos Serviços de Saúde do Porto.\n\n5 - Os serviços do Centro de Medicina de Reabilitação do Alcoitão darão apoio à respectiva Escola de Reabilitação."
+  },
+  "38e573f5c725a726": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs estabelecimentos e serviços dependentes da Secretaria de Estado da Segurança Social que tiveram actividades conexas com a formação deste pessoal devem prestar às Escolas a colaboração e apoio convenientes."
+  },
+  "1bedd8b24b162fe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos órgãos de direcção das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos órgãos de direcção das escolas"
+  },
+  "8179569c9225cedb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "023a49e60cd7cf5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "4808a5a64fc1e1eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "eab3a060502bef79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "f06cb1b83788f06f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "3ebcacac1caf31e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Dos serviços administrativos e do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Dos serviços administrativos e do financiamento"
+  },
+  "11dec419fa56eeef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "ef0a8f14d794a2d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "a422def33828cad3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "0d04555341bed125": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "9d9bad0b0b367fbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "4715253debb24926": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+  },
+  "20e01c178b1a568b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1993-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.\n\nAprovado em Conselho de Ministros de 15 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 26 de Agosto de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

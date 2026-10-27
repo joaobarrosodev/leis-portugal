@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## Resultado em resumo
 
-Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficaram para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor. Uma sessão do Claude (Opus 5.5) respondeu aos 77 pendentes. 46 respostas passaram a verificação letra a letra e 26 juntaram-se ao original. Na verificação às cegas, **20 dos 26 têm tudo `certo`**, e ainda não estão no acervo (ver "Pendentes numa sessão do Claude").
+Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficaram para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor. Uma sessão do Claude (Opus 5.5) respondeu aos 77 pendentes. 46 respostas passaram a verificação letra a letra e 26 juntaram-se ao original. Na verificação às cegas, **20 dos 26 têm tudo `certo`** e também estão no acervo: são **45 no total** (ver "Pendentes numa sessão do Claude").
 
 | Estado | 1.ª corrida | Com o parser da fase 3 | Depois da verificação às cegas | O que quer dizer |
 | --- | --: | --: | --: | --- |
@@ -64,14 +64,14 @@ Revisão à mão de cada `errado`, `dúvida` e nota por diploma:
 
 ## Aplicação ao acervo
 
-Em 2026-10-27, `acervo.py` gravou em `data/` os 25 consolidados verificados. Cada registo fica como os consolidados do DRE:
+Em 2026-10-27, `acervo.py` gravou em `data/` os 25 consolidados por regra e verificados e, depois, os 20 juntados com o LLM com tudo `certo`. Cada registo fica como os consolidados do DRE:
 
 - o corpo é o texto em vigor, com as notas "> Alterado pelo/a …" nos artigos alterados;
-- `version.kind: consolidated`, com o rótulo "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas", e `consolidation_date` é a data em que a alteração entrou em vigor (a `entry_into_force` do diploma que altera; sem ela, a data de publicação);
+- `version.kind: consolidated`, com o rótulo "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas" (nos juntados com o LLM, "alterações aplicadas com um LLM e verificadas às cegas"), e `consolidation_date` é a data em que a alteração entrou em vigor (a `entry_into_force` do diploma que altera; sem ela, a data de publicação);
 - `<registo>.versoes.json` tem duas versões, a original (na data de publicação) e a alterada, por isso `leis-portugal version-at` dá o texto em qualquer data. Os fragmentos são os blocos entre títulos, sem `fragment_id` nem `type` do DRE, e o histórico diz `consolidated_by: leis-portugal`;
 - `provenance.notes` diz que diploma deu as alterações e aponta para este README e para o `.alteracoes.json`.
 
-Antes de gravar, o script confirma que o consolidado é o mesmo que foi verificado às cegas na última ronda em que o diploma esteve, e que o original em `data/` é o que a verificação recebeu. Se uma das duas falhar, o registo fica como estava. Correr outra vez não muda nada. Uma nova recolha do DRE não substitui o consolidado, porque o texto publicado tem menos precedência; quando o DRE publicar a sua própria versão consolidada, essa substitui a nossa.
+Só entra um diploma com todos os artigos `certo` na última ronda em que esteve e sem problemas na linha do diploma (nada em `instrucoes_em_falta`, `artigos_em_falta` nem `artigos_a_mais`, e "sem alterações" fora dos artigos): a Portaria n.º 240/92 tinha os artigos todos `certo`, mas faltava a revogação do anexo II. Antes de gravar, o script confirma que o consolidado é o mesmo que foi verificado às cegas nessa ronda, e que o original em `data/` é o que a verificação recebeu. Se uma das duas falhar, o registo fica como estava. Correr outra vez não muda nada. Uma nova recolha do DRE não substitui o consolidado, porque o texto publicado tem menos precedência; quando o DRE publicar a sua própria versão consolidada, essa substitui a nossa.
 
 Os Decretos-Leis n.os 96/87 e 163-A/2000 tinham todos os artigos `certo` na 1.ª ronda, mas não entram: saíram dos aplicados por regra por causa da revogação condicional.
 
@@ -275,7 +275,7 @@ Encontrou também 6 diplomas com erros ou dúvidas nas respostas do LLM, que fic
 
 As 3 respostas parciais estão todas nesta lista: o verificador encontrou o que faltava sem saber que eram parciais.
 
-**Ficam 20 juntados com o LLM com tudo `certo`.** Ainda não estão no acervo: o `acervo.py` só lê os aplicados por regra e as rondas 1 a 3.
+**Ficam 20 juntados com o LLM com tudo `certo`, e estão no acervo desde 2026-10-27** (ver "Aplicação ao acervo").
 
 ## Limites e próximos passos
 
@@ -284,7 +284,7 @@ As 3 respostas parciais estão todas nesta lista: o verificador encontrou o que 
 - **Notas e ligações:** os parágrafos retificados perdem as ligações Markdown. O cabeçalho YAML de `piloto/*.md` é próprio do piloto; o formato em `data/` está em "Aplicação ao acervo".
 - **O que é preciso para o resto:**
   1. decidir as 2 dúvidas que ficam (republicação que difere das instruções, alterador alterado depois);
-  2. dos 77 pendentes: levar ao acervo os 20 juntados com tudo `certo`, aplicar no texto corrido as 20 respostas aprovadas cujo original não tem artigos, e rever os 6 juntados com erros, os 7 com problemas e os 24 não aplicáveis;
+  2. dos 77 pendentes: aplicar no texto corrido as 20 respostas aprovadas cujo original não tem artigos, e rever os 6 juntados com erros, os 7 com problemas e os 24 não aplicáveis;
   3. uma regra para a redação nova sem aspas (34 instruções);
   4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
 - **Os outros 1.468 diplomas com 10 ou mais citações** têm mais de uma alteração. O método serve na mesma (aplicar as alterações por ordem de data), mas a amostra mostra que é preciso filtrar primeiro as relações que não são alterações textuais.

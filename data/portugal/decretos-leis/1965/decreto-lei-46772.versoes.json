@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:508198:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1965-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "17d762157dfe44ea"
+   ]
+  },
+  {
+   "date": "1973-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:422457:por",
+     "title": "Decreto-Lei n.º 259/73",
+     "published": "1973-05-23",
+     "dre_path": "/dr/detalhe/decreto-lei/259-1973-422457"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "4366ba229530f25f",
+    "ff70f74b8e67b7ef",
+    "ffa542477c03060f"
+   ]
+  }
+ ],
+ "fragments": {
+  "17d762157dfe44ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A fim de procurar diminuir as dificuldades de recrutamento de pessoal que se verificam em alguns serviços do Ministério da Saúde e Assistência, nomeadamente no sector da recuperação de diminuídos físicos;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. Fica o Ministro da Saúde e Assistência autorizado a dispor anualmente da importância de 3000000$00 da verba das apostas mútuas desportivas a que se refere o § 2.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, para a concessão de bolsas de estudo destinadas à formação ou aperfeiçoamento de pessoal médico, de enfermagem, de reabilitação e dos serviços auxiliares de diagnóstico e terapêutica.\n\n2. As verbas que efectivamente se utilizarem, até ao montante indicado, serão suportadas, em partes iguais, pelas alíneas a) e b) do referido artigo.\n\nArt. 2.º As bolsas serão atribuídas de acordo com regulamento a aprovar pelo Ministro da Saúde e Assistência.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Racional."
+  },
+  "4366ba229530f25f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A fim de procurar diminuir as dificuldades de recrutamento de pessoal que se verificam em alguns serviços do Ministério da Saúde e Assistência, nomeadamente no sector da recuperação de diminuídos físicos;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "ff70f74b8e67b7ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1973-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 259/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1973-422457), publicado em 1973-05-23."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. Fica o Ministro da Saúde e Assistência autorizado a fixar anualmente, por portaria, o quantitativo a retirar da verba a que se refere o § 2.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, e que deva reverter para a concessão de bolsas de estudo destinadas à formação ou aperfeiçoamento de pessoal médico, de enfermagem, de reabilitação e dos serviços auxiliares de diagnóstico e terapêutica.\n\n2. As verbas que efectivamente se utilizarem, até ao montante indicado, serão suportadas, em partes iguais, pelas alíneas a) e b) do referido artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 259/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1973-422457), publicado em 1973-05-23."
+  },
+  "ffa542477c03060f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs bolsas serão atribuídas de acordo com regulamento a aprovar pelo Ministro da Saúde e Assistência.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Racional."
+  }
+ }
+}

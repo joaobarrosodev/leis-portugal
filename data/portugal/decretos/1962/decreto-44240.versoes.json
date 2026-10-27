@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516702:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6c50a2747ea2d894"
+   ]
+  },
+  {
+   "date": "1973-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:414041:por",
+     "title": "Decreto n.º 444/73",
+     "published": "1973-09-05",
+     "dre_path": "/dr/detalhe/decreto/444-1973-414041"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "7b99d1a9c2b7e30a",
+    "e4b27294643c11a8",
+    "c90d83d5c90b4c4f",
+    "aaaee6aebbb3a294",
+    "1b3253493d57949b",
+    "82be32400d0ee57d",
+    "c8c5e0877310dfeb",
+    "c0c6a9a0d6e810cf",
+    "8562d01275e00110",
+    "4d2fcad536b047af",
+    "413e8ef37287ed02",
+    "3998fee2eebba632",
+    "84c5937ed3675390"
+   ]
+  }
+ ],
+ "fragments": {
+  "6c50a2747ea2d894": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O pessoal docente do ensino primário das províncias ultramarinas, com excepção do que tem a seu cargo o ensino chamado de adaptação, vem sendo provido por professores que, ainda quando delas naturais, obtiveram habilitação profissional em estabelecimentos metropolitanos.\n\nSó faz excepção a este respeito o Estado da Índia, onde a mais que centenária Escola Normal Luís de Camões, de Goa, tem contribuído não só para ali preencher quase totalmente os quadro oficiais, como ainda para habilitar elementos docentes que são sempre bem acolhidos no ensino em qualquer parte dos territórios portugueses, ao abrigo do direito de absoluta equivalência dos diplomas ali obtidos aos que se conferem mediante estudos na metrópole.\n\nÉ de notar, com o devido apreço, que numerosos elementos do professorado do ensino primário, nascidos na metrópole, aspiram ao provimento nos quadros ultramarinos, animados do mais vivo interesse de ali unirem os seus esforços à obra de educação para que se prepararam.\n\nAcontece, porém, que a expansão dos serviços escolares que está em marcha no ultramar exige mais do que o número de agentes que esta concorrência proporciona.\n\nVerificando-se, portanto, a necessidade de apressar o recrutamento de cada vez maior número de elementos, a solução que se apresenta é a de introduzir no ultramar o ensino de preparação para o magistério primário.\n\nEsta é a razão que inspira o presente diploma, o qual dota já cada uma das províncias de Angola e Moçambique com duas escolas daquele género.\n\nA providência assim adoptada traz consigo, para os portugueses ali residentes, a possibilidade de obterem aquela habilitação profissional sem terem de se ausentar da província em que vivem, portanto com mais comodidade e menor sacrifício.\n\nCom a validade atribuída aos estudos assim introduzidos, não ficam os diplomados exclusivamente adstritos à província em que se prepararam. Os professores formados em Angola ou Moçambique, como até aqui os da índia, podem actuar em qualquer parte de Portugal. Verdadeiramente, não é o caso de cada uma daquelas províncias ser agraciada com duas escolas; o País, na sua totalidade, é que passa a contar com mais quatro unidades de um género de ensino de essencial importância para o seu progresso educativo.\n\nNestes termos:\n\nVistas as propostas dos Governos de Angola e Moçambique;\n\nOuvido o Conselho Ultramarino;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo 1.º Haverá no ultramar escolas do magistério primário, destinadas a preparar pessoal docente para o ensino primário comum, nas províncias em que seja reconhecida a sua necessidade para o preenchimento dos quadros oficiais daquele ensino.\n\nArt. 2.º Os estudos feitos nas escolas oficiais do magistério primário do ultramar, e o respectivo Exame de Estado, têm a mesma validade dos realizados nas escolas oficiais da metrópole da mesma categoria.\n\nArt. 3.º Será determinada a aplicação ao ultramar, com as convenientes adaptações, dos preceitos reguladores do ensino de preparação para o magistério primário.\n\nArt. 4.º Em cada uma das escolas do magistério primário haverá:\n\na) Um professor de Pedagogia, Didáctica Geral e História da Educação, nomeado entre os professores efectivos do ensino liceal ou do 2.º grau do ensino técnico;\n\nb) Um professor de Psicologia Aplicada à Educação e de Organização Política, e Administrativa da Nação, nomeado entre licenciados em Filosofia ou em Ciências Históricas e Filosóficas;\n\nc) Dois professores de Didáctica Especial (um para o grupo A e outro para o grupo B) e de Legislação e Administração Escolares, nomeados entre professores oficiais do ensino primário com cinco anos de bom serviço;\n\nd) Um professor de Desenho e Trabalhos Manuais, nomeado entre professores efectivos do 9.º grupo dos liceus ou do 5.º grupo, do 2.º grau, do ensino técnico;\n\ne) Uma professora de Educação Feminina, nomeada entre professoras de Lavores Femininos dos liceus ou mestras de formação feminina do ensino técnico;\n\nf) Um professor de Educação Moral, provido nos termos estabelecidos para os professores de Religião e Moral dos ensinos liceal é técnico;\n\ng) Um professor de Higiene Escolar nomeado entre licenciados em Medicina;\n\nh) Um professor de Educação Musical, nomeado entre professores de Canto Coral dos liceus ou do ensino técnico;\n\ni) Um professor e uma professora de Educação Física, nomeados entre professores de Educação Física dos liceus ou do ensino técnico.\n\n§ 1.º Os professores referidos nas alíneas a) a d) são nomeados pelo Ministro e os restantes pelo governador, devendo o de Educação Moral obedecer às condições estabelecidas para a nomeação de professores de Religião e Moral dos ensinos liceal e técnico.\n\n§ 2.º O professor referido na alínea b) é provido nos termos do artigo 27.º do Estatuto do Funcionalismo Ultramarino, os referidos nas alíneas a), c) e d) são providos em comissão, válida por três anos e renovável; a professora de Educação Feminina e os professores referidos nas alíneas g), h) e i) são designados pelo governador entre os colocados na localidade em que funciona a escola do magistério primário em que vão prestar serviço e poderão ter uma recondução.\n\n§ 3.º Os professores referidos nas alíneas a), c), d) e e) terão os vencimentos que na província competem às respectivas categorias; o referido na alínea b) terá o vencimento das categorias I, G e F, com menos de dez, mais de dez ou vinte anos de serviço, e os referidos nas alíneas f) e g) vencerão uma gratificação por cada lição que derem.\n\n§ 4.º Os professores referidos nas alíneas a), c), d) e e) são inteiramente dispensados do serviço no liceu ou escola em que estavam colocados; os referidos nas alíneas h) e i) continuam em serviço no seu liceu ou escola e o que prestarem na escola do magistério será gratificado quando exceder a respectiva obrigatoriedade.\n\n§ 5.º Podem ser providos em pessoal do sexo feminino os professores referidos nas alíneas b), c), d) e h).\n\n§ 6.º As nomeações dos professores referidos nas alíneas a) e b) deverão recair em pessoas habilitadas com o curso de Ciências Pedagógicas.\n\n§ 7.º As nomeações em comissão, realizadas pelo Ministro, são precedidas de proposta ou audição dos governadores.\n\n§ 8.º O provimento dos professores a que se refere a alínea g) pode recair em médico dos serviços públicos e a sua remuneração é neste caso acumulável com qualquer outra.\n\n§ 9.º Os professores referidos da alínea c) recebem, além do vencimento, uma gratificação, nos meses lectivos;\n\n§ 10.º Às nomeações de professores em comissão aplica-se o § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961.\n\nArt. 5.º A prática pedagógica será realizada em escolas oficiais do ensino primário, as quais poderão ser:\n\na) Quaisquer da mesma localidade, designadas para o efeito pelo director ou chefe dos serviços de instrução;\n\nb) Anexas às escolas do magistério primário, com a designação de escolas de aplicação, se assim forem classificadas pelo governador, ou pelo mesmo vierem a ser instituídas com tal classificação.\n\nArt. 6.º O estágio será realizado em escolas primárias oficiais sob a direcção de professores-orientadores, aos quais será abonada. gratificação enquanto durar o estágio.\n\nArt. 7.º É sempre director da escola o professor de Pedagogia, Didáctica Geral e História da Educação, o qual terá uma gratificação permanente pelo exercício da mesma direcção.\n\nArt. 8.º E da competência dos órgãos legislativos provinciais a fixação de gratificações previstas no presente decreto, e bem assim as quantias destinadas a remunerar lições.\n\nArt. 9.º Inicialmente, as escolas do magistério primário podem funcionar em instalações liceais ou em escolas primárias oficiais.\n\nArt. 10.º São desde já criadas duas escolas do magistério primário em Angola e duas em Moçambique, as quais funcionarão nas localidades que para o efeito forem escolhidas pelos respectivos conselhos legislativos.\n\n§ único. Com vista à dotação destas escolas, será aumentado o quadro burocrático dos serviços de instrução de cada uma das províncias mencionadas com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente para cada escola, mas o seu provimento não será realizado enquanto efectivamente se não verificar a sua indispensabilidade para o funcionamento das mesmas escolas.\n\nArt. 11.º Compete aos governadores das províncias, por diploma legislativo, determinar a sede das escolas previstas neste decreto.\n\nArt. 12.º Ficam os governos das províncias autorizados a abrir os créditos necessários para a execução deste decreto, com contrapartida em recursos orçamentais.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira."
+  },
+  "7b99d1a9c2b7e30a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O pessoal docente do ensino primário das províncias ultramarinas, com excepção do que tem a seu cargo o ensino chamado de adaptação, vem sendo provido por professores que, ainda quando delas naturais, obtiveram habilitação profissional em estabelecimentos metropolitanos.\n\nSó faz excepção a este respeito o Estado da Índia, onde a mais que centenária Escola Normal Luís de Camões, de Goa, tem contribuído não só para ali preencher quase totalmente os quadro oficiais, como ainda para habilitar elementos docentes que são sempre bem acolhidos no ensino em qualquer parte dos territórios portugueses, ao abrigo do direito de absoluta equivalência dos diplomas ali obtidos aos que se conferem mediante estudos na metrópole.\n\nÉ de notar, com o devido apreço, que numerosos elementos do professorado do ensino primário, nascidos na metrópole, aspiram ao provimento nos quadros ultramarinos, animados do mais vivo interesse de ali unirem os seus esforços à obra de educação para que se prepararam.\n\nAcontece, porém, que a expansão dos serviços escolares que está em marcha no ultramar exige mais do que o número de agentes que esta concorrência proporciona.\n\nVerificando-se, portanto, a necessidade de apressar o recrutamento de cada vez maior número de elementos, a solução que se apresenta é a de introduzir no ultramar o ensino de preparação para o magistério primário.\n\nEsta é a razão que inspira o presente diploma, o qual dota já cada uma das províncias de Angola e Moçambique com duas escolas daquele género.\n\nA providência assim adoptada traz consigo, para os portugueses ali residentes, a possibilidade de obterem aquela habilitação profissional sem terem de se ausentar da província em que vivem, portanto com mais comodidade e menor sacrifício.\n\nCom a validade atribuída aos estudos assim introduzidos, não ficam os diplomados exclusivamente adstritos à província em que se prepararam. Os professores formados em Angola ou Moçambique, como até aqui os da índia, podem actuar em qualquer parte de Portugal. Verdadeiramente, não é o caso de cada uma daquelas províncias ser agraciada com duas escolas; o País, na sua totalidade, é que passa a contar com mais quatro unidades de um género de ensino de essencial importância para o seu progresso educativo.\n\nNestes termos:\n\nVistas as propostas dos Governos de Angola e Moçambique;\n\nOuvido o Conselho Ultramarino;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "e4b27294643c11a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nHaverá no ultramar escolas do magistério primário, destinadas a preparar pessoal docente para o ensino primário comum, nas províncias em que seja reconhecida a sua necessidade para o preenchimento dos quadros oficiais daquele ensino."
+  },
+  "c90d83d5c90b4c4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs estudos feitos nas escolas oficiais do magistério primário do ultramar, e o respectivo Exame de Estado, têm a mesma validade dos realizados nas escolas oficiais da metrópole da mesma categoria."
+  },
+  "aaaee6aebbb3a294": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSerá determinada a aplicação ao ultramar, com as convenientes adaptações, dos preceitos reguladores do ensino de preparação para o magistério primário."
+  },
+  "1b3253493d57949b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1973-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 444/73](https://diariodarepublica.pt/dr/detalhe/decreto/444-1973-414041), publicado em 1973-09-05."
+   ],
+   "markdown": "###### Artigo 4.º\n\nEm cada uma das escolas do magistério primário haverá:\n\na) Um professor de Pedagogia, Didáctica Geral e História da Educação, nomeado entre os professores efectivos do ensino liceal ou do 2.º grau do ensino técnico;\n\nb) Um professor de Psicologia Aplicada à Educação e de Organização Política, e Administrativa da Nação, nomeado entre licenciados em Filosofia ou em Ciências Históricas e Filosóficas;\n\nc) Dois professores de Didáctica Especial (um para o grupo A e outro para o grupo B) e de Legislação e Administração Escolares, nomeados entre professores oficiais do ensino primário com cinco anos de bom serviço;\n\nd) Um professor de Desenho e Trabalhos Manuais, nomeado entre professores efectivos do 9.º grupo dos liceus ou do 5.º grupo, do 2.º grau, do ensino técnico;\n\ne) Uma professora de Educação Feminina, nomeada entre professoras de Lavores Femininos dos liceus ou mestras de formação feminina do ensino técnico;\n\nf) Um professor de Educação Moral, provido nos termos estabelecidos para os professores de Religião e Moral dos ensinos liceal é técnico;\n\ng) Um professor de Higiene Escolar nomeado entre licenciados em Medicina;\n\nh) Um professor de Educação Musical, nomeado entre professores de Canto Coral dos liceus ou do ensino técnico;\n\ni) Um professor e uma professora de Educação Física, nomeados entre professores de Educação Física dos liceus ou do ensino técnico.\n\n§ 1.º Os professores referidos nas alíneas a) a d) são nomeados pelo Ministro e os restantes pelo governador, devendo o de Educação Moral obedecer às condições estabelecidas para a nomeação de professores de Religião e Moral dos ensinos liceal e técnico.\n\n§ 2.º Os professores referidos nas alíneas b) e c) são providos nos termos do artigo 4.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, com a redacção que lhe foi dada pela [Portaria n.º 20208](https://diariodarepublica.pt/dr/detalhe/portaria/20208-1963-683785), de 29 de Novembro de 1963, que o aplicou às províncias ultramarinas; os professores a que se referem as alíneas a) e d) são providos em comissão válida, por três anos, e renovável; a professora de Educação Feminina e os professores referidos nas alíneas g), h) e i) são designados pelo Governador entre os colocados na localidade em que funciona a escola do magistério primário em que vão prestar serviço e poderão ter uma recondução.\n\n§ 3.º Os professores referidos nas alíneas a), d) e e) terão os vencimentos que na província competem às respectivas categorias; o referido na alínea b) terá os vencimentos das categorias I, G e F, com menos de dez, mais de dez e mais\n\nde vinte anos de serviço; os referidos na alínea c), após a nomeação definitiva, terão os vencimentos das categorias K, J e I, conforme tenham no serviço público docente menos de dez, mais de dez ou mais de vinte anos de serviço; os referidos nas alíneas f) e g) vencerão uma gratificação por cada lição que derem.\n\n§ 4.º São inteiramente dispensados do serviço no liceu ou na escola em que estavam colocados os professores referidos nas alíneas a), d) e e), assim como, até à nomeação definitiva, os professores referidos na alínea c); os referidos nas alíneas h) e i) continuam em serviço no seu liceu ou escola e o que prestarem na escola do magistério será gratificado quando exceder a respectiva obrigatoriedade.\n\n§ 5.º Podem ser providos em pessoal do sexo feminino os professores referidos nas alíneas b), c), d) e h).\n\n§ 6.º As nomeações dos professores referidos nas alíneas a) e b) deverão recair em pessoas habilitadas com o curso de Ciências Pedagógicas.\n\n§ 7.º As nomeações em comissão, realizadas pelo Ministro, são precedidas de proposta ou audição dos governadores.\n\n§ 8.º O provimento dos professores a que se refere a alínea g) pode recair em médico dos serviços públicos e a sua remuneração é neste caso acumulável com qualquer outra.\n\n§ 9.º Até à nomeação definitiva a que se refere o § 2.º do artigo 4.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, com a redacção da [Portaria n.º 20208](https://diariodarepublica.pt/dr/detalhe/portaria/20208-1963-683785), de 29 de Novembro de 1963, os professores referidos na alínea c) recebem, além do vencimento, uma gratificação nos meses lectivos.\n\n§ 10.º Às nomeações de professores em comissão aplica-se o § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961.\n\n> Alterado pelo/a [Decreto n.º 444/73](https://diariodarepublica.pt/dr/detalhe/decreto/444-1973-414041), publicado em 1973-09-05."
+  },
+  "82be32400d0ee57d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA prática pedagógica será realizada em escolas oficiais do ensino primário, as quais poderão ser:\n\na) Quaisquer da mesma localidade, designadas para o efeito pelo director ou chefe dos serviços de instrução;\n\nb) Anexas às escolas do magistério primário, com a designação de escolas de aplicação, se assim forem classificadas pelo governador, ou pelo mesmo vierem a ser instituídas com tal classificação."
+  },
+  "c8c5e0877310dfeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO estágio será realizado em escolas primárias oficiais sob a direcção de professores-orientadores, aos quais será abonada. gratificação enquanto durar o estágio."
+  },
+  "c0c6a9a0d6e810cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ sempre director da escola o professor de Pedagogia, Didáctica Geral e História da Educação, o qual terá uma gratificação permanente pelo exercício da mesma direcção."
+  },
+  "8562d01275e00110": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nE da competência dos órgãos legislativos provinciais a fixação de gratificações previstas no presente decreto, e bem assim as quantias destinadas a remunerar lições."
+  },
+  "4d2fcad536b047af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nInicialmente, as escolas do magistério primário podem funcionar em instalações liceais ou em escolas primárias oficiais."
+  },
+  "413e8ef37287ed02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSão desde já criadas duas escolas do magistério primário em Angola e duas em Moçambique, as quais funcionarão nas localidades que para o efeito forem escolhidas pelos respectivos conselhos legislativos.\n\n§ único. Com vista à dotação destas escolas, será aumentado o quadro burocrático dos serviços de instrução de cada uma das províncias mencionadas com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente para cada escola, mas o seu provimento não será realizado enquanto efectivamente se não verificar a sua indispensabilidade para o funcionamento das mesmas escolas."
+  },
+  "3998fee2eebba632": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCompete aos governadores das províncias, por diploma legislativo, determinar a sede das escolas previstas neste decreto."
+  },
+  "84c5937ed3675390": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nFicam os governos das províncias autorizados a abrir os créditos necessários para a execução deste decreto, com contrapartida em recursos orçamentais.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira."
+  }
+ }
+}
