@@ -121,9 +121,36 @@ Nas literais, temporais e revogadas o artigo certo falha o 1.º lugar em 15 perg
 
 - **Artigo vizinho**: "Na mediação dos julgados de paz (Lei n.º 78/2001), quem escolhe o mediador?" (`lit-202`) dá o artigo 32.º (seleção dos mediadores) em vez do 51.º.
 - **O diploma que alterou o certo**: "Na dependência de que membro do Governo funciona a Comissão Nacional da Reserva Ecológica Nacional?" (`lit-022`) dá o artigo 28.º do DL 239/2012, que alterou o regime, e não o do DL 166/2008; "Em outubro de 2009 … professor auxiliar …" (`tmp-051`) dá o DL 205/2009, que alterou o Estatuto da Carreira Docente Universitária.
-- **Reais**: 73 das 136 não têm o artigo certo em 1.º; em 67 o primeiro é de outro diploma. Usam palavras do dia a dia e quase nunca citam o código (só 3 das 136 têm uma referência que o sistema reconhece), e o BM25 traz diplomas sobre o mesmo tema (portarias, regimes especiais, leis antigas). Em 28 o artigo certo nem chega aos 10 primeiros.
+- **Reais**: 73 das 136 não têm o artigo certo em 1.º; em 67 o primeiro é de outro diploma. Usam palavras do dia a dia e quase nunca citam o código (só 3 das 136 têm uma referência que o sistema reconhece), e o BM25 traz diplomas sobre o mesmo tema (portarias, regimes especiais, leis antigas). Em 28 o artigo certo nem chega aos 10 primeiros. O diagnóstico pergunta a pergunta está abaixo.
 - **Sem resposta**: sem LLM, só as leis inexistentes e o futuro dão "não sei" pelas regras. As que pedem aconselhamento, jurisprudência ou lei estrangeira, ou citam um diploma que não trata do assunto, recebem um artigo parecido ("Quantos dias de férias tem um trabalhador em França?" dá o Código do Trabalho de 2003). Com o limiar 3 ficam 3: duas de jurisprudência (`sem-002`, `sem-008`) e uma de um diploma que fixa o capital de uma sociedade concreta (`sem-009`).
 - **Códigos**: há vários anexos com o nome de cada código (republicações nas leis de alteração, que o DRE também consolida). A primeira versão escolhia o anexo de republicação da Lei 59/2007 para o Código Penal; escolher o diploma em vigor, com histórico e com mais artigos em vigor nesse anexo acerta em todos os códigos verificados.
+
+### Diagnóstico das 73 reais falhadas
+
+Cada uma das 73 reais sem o artigo certo em 1.º (limiar 3, `cruzado`) foi lida com o artigo certo e os três primeiros resultados e classificada (`rag/resultados/privado/reais-diagnostico.jsonl`, fora do git):
+
+| Classe | n | O que é |
+|---|--:|---|
+| (a) O 1.º também responde | 2 | O CIMI 121.º remete para o art. 44.º da LGT (juros de mora); o DL 28/2019 art. 19.º tem o mesmo prazo de conservação que o CIVA 52.º |
+| (b) Diploma errado | 65 | Ver abaixo |
+| (c) Artigo vizinho no diploma certo | 6 | O 1.º (âmbito) em vez do 3.º (exclusões); o 2081.º do Código Civil em vez do 2080.º… |
+| (d) Sem resposta na lei | 0 | |
+| (e) Diploma fora do acervo | 0 | |
+
+Aceitando as duas alternativas válidas, o artigo certo em 1.º nas reais passa de 63/136 (46%) para 65/136 (48%): o problema é mesmo a pesquisa, não o conjunto de avaliação.
+
+Os 65 "diploma errado" são de quatro tipos:
+
+| Tipo | n | Exemplo | Onde está o artigo certo |
+|---|--:|---|---|
+| **Diploma antigo, substituído** | 30 | O Código do Trabalho de 2003 (Lei n.º 99/2003, "parcialmente em vigor" no DRE, sem nota de revogação nos artigos) em 24; a Lei n.º 35/2004 que o regulamentava; a Lei n.º 4/84 (maternidade); o texto original do CIVA (DL 394-B/84, em blocos) | 2.º a 6.º lugar em 23, fora dos 10 em 7 |
+| **Regime especial ou paralelo** | 16 | A Lei Geral do Trabalho em Funções Públicas, o Estatuto dos Profissionais da Cultura, o acordo com os EUA nos Açores (RAR n.º 24/85), o serviço doméstico (DL 235/92), regulamentos internos de organismos | 2.º a 5.º em 14 |
+| **Outro tema** | 15 | Comunicação de contratos de arrendamento à AT (CIS 60.º) dá o NRAU; faltas por falecimento dá a licença de paternidade de 1995 | Fora dos 10 em todos os 15 |
+| **Lei de alteração ou de autorização** | 4 | "O artigo 3.º do DL 198/2012 passa a ter a seguinte redação: …" na Lei n.º 12/2022; a autorização legislativa do CIMI (Lei n.º 26/2003) | 2.º a 5.º |
+
+- Em 21 dos 65 o primeiro resultado tem **a mesma regra** (o CT de 2003 diz também 22 dias úteis de férias) e em 15 dá **uma resposta diferente ou não responde** (o CT de 2003 permitia contratos a termo de três anos, não dois; a Lei n.º 4/84 dizia 98 dias de puérpera, não 120). O reranker dá pontuações quase iguais a textos quase iguais; o desempate tem de vir de saber qual é a lei atual.
+- Os dados do DRE não chegam para isso: a Lei n.º 99/2003 e a Lei n.º 4/84 estão "em vigor" ou "parcialmente em vigor", e o texto original do CIVA (DL 394-B/84) "em vigor". A revogação com exceções (o art. 12.º da Lei n.º 7/2009 revoga a Lei n.º 99/2003 "com exceção dos artigos…") é tratada na fase 2.
+- Os 15 "outro tema" são o único grupo em que a pesquisa nem traz o artigo certo: é o que a pesquisa por diploma (abaixo) ataca.
 
 ## Próximos passos
 

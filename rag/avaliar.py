@@ -192,6 +192,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
     parser.add_argument("--sem-llm", action="store_true", help="Não usar o LLM mesmo que haja chave.")
     parser.add_argument("--sem-reais", action="store_true")
+    parser.add_argument("--tipos", help="Só estes tipos de pergunta, separados por vírgulas (p. ex. `real`), para medir depressa.")
     parser.add_argument("--limite", type=int)
     args = parser.parse_args(argv)
 
@@ -202,7 +203,10 @@ def main(argv: list[str] | None = None) -> int:
         reranker = Reranker(args.reranker)
     pesquisa = Pesquisa(args.indice, reranker=reranker)
     usar_llm = llm_disponivel() and not args.sem_llm
-    perguntas = ler_perguntas(not args.sem_reais)[: args.limite]
+    perguntas = ler_perguntas(not args.sem_reais)
+    if args.tipos:
+        perguntas = [p for p in perguntas if p["tipo"] in args.tipos.split(",")]
+    perguntas = perguntas[: args.limite]
     print(f"{len(perguntas)} perguntas; LLM: {'sim' if usar_llm else 'não'}", file=sys.stderr)
 
     linhas = []
