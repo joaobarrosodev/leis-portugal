@@ -121,6 +121,19 @@ def test_apply_history_and_refresh_keep_versions(repo_root: Path):
     assert refreshed_body == body
 
 
+def test_split_history_is_unchanged_on_refresh(repo_root: Path, monkeypatch):
+    monkeypatch.setattr("leis_portugal.infrastructure.repository.HISTORY_MAX_BYTES", 1_000)
+    monkeypatch.setattr("leis_portugal.infrastructure.repository.FRAGMENT_BLOCK_BYTES", 500)
+    acervo = Acervo(repo_root)
+    path = EurLexIngestion(acervo, source_factory=lambda: EurLexSource(ConsolidatedCellar())).ingest("32022L2555").path
+    record, _ = acervo.read(path)
+    result = collect_eu_history("32022L2555", ConsolidatedCellar(), publication_date=record.publication_date, today="2026-10-22")
+    assert apply_eu_history(result, acervo=acervo, path=path, today="2026-10-22") == "written"
+    assert acervo.history_blocks_path(path).is_dir()
+    assert acervo.read_history(path) == result.history
+    assert apply_eu_history(result, acervo=acervo, path=path, today="2026-10-22") == "unchanged"
+
+
 def test_cli_collects_eu_history_and_version_at(repo_root: Path, monkeypatch, capsys):
     acervo = Acervo(repo_root)
     EurLexIngestion(acervo, source_factory=lambda: EurLexSource(ConsolidatedCellar())).ingest("32022L2555")

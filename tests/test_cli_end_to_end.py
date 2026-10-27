@@ -10,6 +10,7 @@ import pytest
 from conftest import record_dict
 from leis_portugal.cli import main
 from leis_portugal.infrastructure.markdown import read_markdown_record, render_markdown
+from leis_portugal.infrastructure.repository import Acervo
 from leis_portugal.services.eurlex import EurLexIngestion
 from leis_portugal.sources.eurlex.source import EurLexSource
 from test_eurlex import FakeCellar
@@ -64,6 +65,28 @@ def test_version_at_lists_and_renders(repo_root: Path, capsys):
     assert capsys.readouterr().out == "# Lei n.º 1/2020\n\n###### Artigo 1.º\n\nOriginal.\n"
     assert run(repo_root, "version-at", "pt:dre:1:por", "--date", "2019-01-01") == 1
     assert run(repo_root, "version-at", "pt:dre:404:por") == 1
+
+
+def test_version_at_reads_history_split_into_blocks(repo_root: Path, monkeypatch, capsys):
+    monkeypatch.setattr("leis_portugal.infrastructure.repository.HISTORY_MAX_BYTES", 2_000)
+    monkeypatch.setattr("leis_portugal.infrastructure.repository.FRAGMENT_BLOCK_BYTES", 600)
+    record = repo_root / "data/portugal/leis/2020/lei-1-2020.md"
+    record.parent.mkdir(parents=True)
+    record.write_text(render_markdown(record_dict("pt:dre:1:por", title="Lei n.º 1/2020"), "# Lei n.º 1/2020"), encoding="utf-8")
+    fragments = {f"{when}-{number}": {"markdown": f"###### Artigo {number}.º\n\n{when}: " + "texto " * 40} for when in (2020, 2024) for number in (1, 2, 3)}
+    history = {
+        "versions": [
+            {"date": "2020-01-01", "acts": [], "changes": [], "fragments": ["2020-1", "2020-2", "2020-3"]},
+            {"date": "2024-01-01", "acts": [{"title": "Lei n.º 5/2024"}], "changes": ["Altera Artigo 2.º"], "fragments": ["2020-1", "2024-2", "2020-3"]},
+        ],
+        "fragments": fragments,
+    }
+    Acervo(repo_root).write_history(record, history)
+    assert (repo_root / "data/portugal/leis/2020/lei-1-2020.versoes/002.json").exists()
+
+    assert run(repo_root, "version-at", str(record), "--date", "2024-06-01") == 0
+    blocks = [fragments[key]["markdown"] for key in ("2020-1", "2024-2", "2020-3")]
+    assert capsys.readouterr().out == "\n\n".join(["# Lei n.º 1/2020", *blocks]).strip() + "\n"
 
 
 def test_collect_eurlex_by_celex(repo_root: Path, monkeypatch, capsys):

@@ -221,7 +221,6 @@ __marimo__/
 
 # macOS
 .DS_Store
-data/european_union/regulations/2005/regulamento-ue-2005-396.versoes.json
 .aider*
 # Exportações geradas por `leis-portugal export`
 exports/

@@ -178,7 +178,7 @@ leis-portugal/
 └── tests/
 ```
 
-Cada diploma é um ficheiro `data/<âmbito>/<tipo>/<ano de publicação>/<tipo>-<número>.md`. Quando dois diplomas distintos teriam o mesmo nome (por exemplo, numerações repetidas em diplomas antigos), o segundo recebe o id do DRE como sufixo. Os diplomas com histórico de versões têm ao lado um `<diploma>.versoes.json`.
+Cada diploma é um ficheiro `data/<âmbito>/<tipo>/<ano de publicação>/<tipo>-<número>.md`. Quando dois diplomas distintos teriam o mesmo nome (por exemplo, numerações repetidas em diplomas antigos), o segundo recebe o id do DRE como sufixo. Os diplomas com histórico de versões têm ao lado um `<diploma>.versoes.json` (e, nos históricos acima de 50 MB, a pasta `<diploma>.versoes/` com os blocos de fragmentos).
 
 ## Arquitetura
 
@@ -525,6 +525,8 @@ leis-portugal collect eurlex --celex 32016R0679
 #### Histórico de versões
 
 Para cada diploma consolidado guarda-se, ao lado do registo, `<diploma>.versoes.json` com todas as versões por data de entrada em vigor: os atos que produziram cada versão, as modificações (Altera/Adita/Revoga…) e cada versão de cada artigo uma só vez. O registo `.md` fica com o texto em vigor hoje e um resumo em `version_history`.
+
+Os históricos acima de 50 MB são divididos: os fragmentos ficam em blocos de até 20 MB em `<diploma>.versoes/001.json`, `002.json`…, e o `<diploma>.versoes.json` tem `fragment_blocks` (a lista dos blocos) no lugar de `fragments`. O `version-at` junta os blocos sozinho.
 
 Diplomas portugueses (legislação consolidada do DRE; `--stale` só volta a recolher os que o DRE atualizou):
 

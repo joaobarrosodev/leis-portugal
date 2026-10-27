@@ -4,6 +4,14 @@ Alterações ao formato dos dados, aos comandos e aos ficheiros gerados que poss
 
 O esquema dos registos é [`schemas/legal_document.schema.json`](schemas/legal_document.schema.json) (`schema_version: '1.0'`). Uma alteração incompatível ao esquema muda a versão e fica assinalada aqui como **incompatível**.
 
+## 2026-10-27
+
+### Histórico de versões em blocos (alteração de formato)
+- Um `<registo>.versoes.json` que passe de 50 MB (o máximo recomendado pelo GitHub) é gravado dividido: os fragmentos vão para blocos `<registo>.versoes/001.json`, `002.json`… de até 20 MB, e o `<registo>.versoes.json` fica um índice com os mesmos campos, mas com `fragment_blocks` (a lista dos blocos, com caminhos relativos à pasta do índice) no lugar de `fragments`. O `schema` do índice continua `leis-portugal/versoes/1`.
+- Cada bloco tem `schema: leis-portugal/versoes-bloco/1`, `id` e `fragments` (uma parte do dicionário `fragments`, pela ordem original). Para obter o histórico completo, junta-se o `fragments` de todos os blocos, pela ordem de `fragment_blocks`.
+- Os históricos abaixo de 50 MB não mudam. Quem lê os ficheiros diretamente deve tratar os dois casos: `fragments` no próprio ficheiro ou `fragment_blocks`. O `leis-portugal version-at` e a recolha (`collect dre-consolidated`, `collect eurlex-consolidated`) já o fazem; um histórico que volte a caber num ficheiro deixa de ter blocos.
+- Ficaram em blocos `regulamento-ue-2014-269` (83 MB) e `regulamento-ue-2005-396` (810 MB, que deixa de estar fora do git).
+
 ## 2026-10-26
 
 ### Varredura por datas

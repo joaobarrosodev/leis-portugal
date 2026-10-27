@@ -1,10 +1,12 @@
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 import pytest
 
 from conftest import record_dict
+from leis_portugal.domain.history import split_fragments
 from leis_portugal.domain.record import LegalRecord, Relationship
 from leis_portugal.errors import InvalidRecord, StorageError
 from leis_portugal.infrastructure.markdown import render_markdown
@@ -141,3 +143,85 @@ def test_direct_collection_replaces_import_but_never_the_reverse(repo_root: Path
     assert again.action == "kept_existing"
     _, body = acervo.read(again.path)
     assert body.strip() == "# Direto"
+
+
+def _large_history(count: int) -> dict:
+    fragments = {f"f{number}": {"type": "artigo", "markdown": f"###### Artigo {number}.º\n\n" + "x" * 900} for number in range(count)}
+    return {
+        "schema": "leis-portugal/versoes/1",
+        "id": "pt:dre:100:por",
+        "versions": [{"date": "2020-01-02", "acts": [], "changes": [], "fragments": list(fragments)}],
+        "fragments": fragments,
+        "unavailable_dates": ["2019-01-01"],
+    }
+
+
+@pytest.fixture
+def small_limits(monkeypatch):
+    monkeypatch.setattr("leis_portugal.infrastructure.repository.HISTORY_MAX_BYTES", 20_000)
+    monkeypatch.setattr("leis_portugal.infrastructure.repository.FRAGMENT_BLOCK_BYTES", 5_000)
+
+
+def test_small_history_stays_in_one_file(repo_root: Path, small_limits):
+    acervo = Acervo(repo_root)
+    result = acervo.save(_record(), "# Texto")
+    history = _large_history(10)
+    assert acervo.write_history(result.path, history)
+    assert json.loads(acervo.history_path(result.path).read_text(encoding="utf-8")) == history
+    assert not acervo.history_blocks_path(result.path).exists()
+
+
+def test_large_history_is_split_into_blocks(repo_root: Path, small_limits):
+    acervo = Acervo(repo_root)
+    result = acervo.save(_record(), "# Texto")
+    history = _large_history(40)
+    assert acervo.write_history(result.path, history)
+
+    index = json.loads(acervo.history_path(result.path).read_text(encoding="utf-8"))
+    blocks = sorted(acervo.history_blocks_path(result.path).iterdir())
+    assert list(index) == ["schema", "id", "versions", "fragment_blocks", "unavailable_dates"]
+    assert index["fragment_blocks"] == [f"decreto-lei-1-2020.versoes/{path.name}" for path in blocks]
+    assert [path.name for path in blocks][:2] == ["001.json", "002.json"] and len(blocks) > 5
+    assert all(path.stat().st_size <= 5_000 for path in blocks)
+    assert json.loads(blocks[0].read_text(encoding="utf-8"))["schema"] == "leis-portugal/versoes-bloco/1"
+
+    stored = acervo.read_history(result.path)
+    assert stored == history and list(stored) == list(history) and list(stored["fragments"]) == list(history["fragments"])
+    assert not acervo.write_history(result.path, history)
+    # `histories()` dá o índice, sem ler os blocos.
+    assert [content["fragment_blocks"] for _, content in acervo.histories()] == [index["fragment_blocks"]]
+
+
+def test_new_fragments_only_touch_the_last_blocks(repo_root: Path, small_limits):
+    acervo = Acervo(repo_root)
+    result = acervo.save(_record(), "# Texto")
+    acervo.write_history(result.path, _large_history(40))
+    blocks = acervo.history_blocks_path(result.path)
+    before = {path.name: path.read_bytes() for path in blocks.iterdir()}
+    acervo.write_history(result.path, _large_history(45))
+    after = {path.name: path.read_bytes() for path in blocks.iterdir()}
+    changed = sorted(name for name in after if before.get(name) != after[name])
+    assert changed and changed[0] >= max(before)
+
+
+def test_history_that_shrinks_drops_unused_blocks(repo_root: Path, small_limits):
+    acervo = Acervo(repo_root)
+    result = acervo.save(_record(), "# Texto")
+    acervo.write_history(result.path, _large_history(40))
+    count = len(list(acervo.history_blocks_path(result.path).iterdir()))
+
+    assert acervo.write_history(result.path, _large_history(25))
+    assert len(list(acervo.history_blocks_path(result.path).iterdir())) < count
+    assert acervo.read_history(result.path) == _large_history(25)
+
+    assert acervo.write_history(result.path, _large_history(5))
+    assert not acervo.history_blocks_path(result.path).exists()
+    assert "fragments" in json.loads(acervo.history_path(result.path).read_text(encoding="utf-8"))
+    assert acervo.read_history(result.path) == _large_history(5)
+
+
+def test_split_fragments_keeps_order_and_isolates_oversized_fragments():
+    fragments = {"a": 1, "b": 2, "c": 3, "d": 4}
+    sizes = {"a": 4, "b": 4, "c": 20, "d": 4}
+    assert split_fragments(fragments, sizes, 10) == [{"a": 1, "b": 2}, {"c": 3}, {"d": 4}]
+    assert split_fragments({}, {}, 10) == []

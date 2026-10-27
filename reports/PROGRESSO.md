@@ -34,6 +34,5 @@ Relatório gerado em 2026-10-27.
 1. Tornar a atualização diária autónoma: recuperar dias em falta, repetir falhas temporárias, atualizar consolidados e diplomas alterados, e verificar semanalmente os sitemaps do DRE.
 2. OCR dos diplomas que só têm o PDF oficial (sobretudo 1910–1959).
 3. Datas de entrada em vigor e identificadores estáveis por artigo.
-4. Dividir em blocos os fragmentos grandes do histórico de versões (ficheiros `.versoes.json` acima de 50 MB).
-5. Novas categorias: tratados e jurisprudência do TJUE (EUR-Lex), jurisprudência portuguesa, trabalhos parlamentares.
-6. Comparar as transposições detetadas no texto com as medidas nacionais de execução registadas no CELLAR.
+4. Novas categorias: tratados e jurisprudência do TJUE (EUR-Lex), jurisprudência portuguesa, trabalhos parlamentares.
+5. Comparar as transposições detetadas no texto com as medidas nacionais de execução registadas no CELLAR.

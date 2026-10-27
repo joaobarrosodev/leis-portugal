@@ -18,6 +18,7 @@ from pathlib import Path
 from typing import Any
 
 from leis_portugal.domain.document_types import DocumentTypeRegistry
+from leis_portugal.domain.history import FRAGMENT_BLOCK_BYTES, FRAGMENT_BLOCK_SCHEMA, HISTORY_MAX_BYTES, fragment_sizes, split_fragments
 from leis_portugal.domain.identifiers import parse_celex, slugify
 from leis_portugal.domain.record import LegalRecord, Relationship, merge_relationships
 from leis_portugal.errors import InvalidRecord, StorageError
@@ -27,6 +28,7 @@ from leis_portugal.infrastructure.schema import SchemaValidator
 
 
 HISTORY_SUFFIX = ".versoes.json"
+HISTORY_BLOCKS_SUFFIX = ".versoes"
 PORTUGUESE_SCOPES = ("portugal", "regional")
 EU_SCOPE = "european_union"
 _EU_DIRECTORIES = {"regulation": "regulations", "directive": "directives", "decision": "decisions", "treaty": "treaties"}
@@ -235,25 +237,69 @@ class Acervo:
 
     # ------------------------------------------------------------ histórico de versões
 
+    def history_blocks_path(self, record_path: Path) -> Path:
+        return record_path.with_name(record_path.stem + HISTORY_BLOCKS_SUFFIX)
+
     def read_history(self, record_path: Path) -> dict[str, Any] | None:
+        """O histórico completo, com os fragmentos dos blocos quando está dividido."""
         path = self.history_path(record_path)
         if not path.exists():
             return None
-        return json.loads(path.read_text(encoding="utf-8"))
+        history = json.loads(path.read_text(encoding="utf-8"))
+        if "fragment_blocks" not in history:
+            return history
+        fragments: dict[str, Any] = {}
+        for name in history["fragment_blocks"]:
+            fragments.update(json.loads((path.parent / name).read_text(encoding="utf-8"))["fragments"])
+        return _rename_key(history, "fragment_blocks", "fragments", fragments)
 
     @staticmethod
     def render_history(history: dict[str, Any]) -> str:
         return json.dumps(history, ensure_ascii=False, indent=1) + "\n"
 
     def write_history(self, record_path: Path, history: dict[str, Any]) -> bool:
-        return write_if_changed(self.history_path(record_path), self.render_history(history))
+        """Grava o histórico num só ficheiro ou, se passar de `HISTORY_MAX_BYTES`, num
+        índice e em blocos de fragmentos (ver `leis_portugal.domain.history`)."""
+        path = self.history_path(record_path)
+        blocks_dir = self.history_blocks_path(record_path)
+        fragments = history.get("fragments") or {}
+        sizes = fragment_sizes(fragments)
+        index_bytes = len(self.render_history({key: value for key, value in history.items() if key != "fragments"}).encode("utf-8"))
+        if index_bytes + sum(sizes.values()) <= HISTORY_MAX_BYTES:
+            changed = write_if_changed(path, self.render_history(history))
+            names: list[str] = []
+        else:
+            names = []
+            changed = False
+            for number, block in enumerate(split_fragments(fragments, sizes, FRAGMENT_BLOCK_BYTES), start=1):
+                names.append(f"{blocks_dir.name}/{number:03d}.json")
+                content = {"schema": FRAGMENT_BLOCK_SCHEMA, "id": history.get("id"), "fragments": block}
+                changed |= write_if_changed(path.parent / names[-1], self.render_history(content))
+            # Os blocos primeiro e o índice no fim: o índice nunca aponta para um bloco por gravar.
+            changed |= write_if_changed(path, self.render_history(_rename_key(history, "fragments", "fragment_blocks", names)))
+        # Blocos que deixaram de ser usados (menos blocos, ou o histórico voltou a caber num ficheiro).
+        if blocks_dir.is_dir():
+            for stale in sorted(blocks_dir.glob("*.json")):
+                if f"{blocks_dir.name}/{stale.name}" not in names:
+                    stale.unlink()
+                    changed = True
+            if not any(blocks_dir.iterdir()):
+                blocks_dir.rmdir()
+        return changed
 
     def histories(self) -> Iterator[tuple[Path, dict[str, Any]]]:
+        """Cada ficheiro de histórico como está gravado: num histórico dividido em blocos,
+        só o índice (sem os fragmentos)."""
         for path in sorted(self.data.rglob(f"*{HISTORY_SUFFIX}")):
             try:
                 yield path, json.loads(path.read_text(encoding="utf-8"))
             except (OSError, ValueError):
                 continue
+
+
+def _rename_key(data: dict[str, Any], old: str, new: str, value: Any) -> dict[str, Any]:
+    """Cópia de `data` com `old` trocado por `new` (e `value`) na mesma posição."""
+    return {new if key == old else key: value if key == old else item for key, item in data.items()}
 
 
 def _preserve_timestamps(new: LegalRecord, existing: LegalRecord) -> None:

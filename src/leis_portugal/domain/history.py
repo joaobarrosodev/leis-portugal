@@ -5,16 +5,26 @@
 - `fragments`: cada versão de cada fragmento uma única vez, já em Markdown.
 
 O texto de qualquer versão é a concatenação dos seus fragmentos.
+
+Num histórico grande (acima de `HISTORY_MAX_BYTES`), os fragmentos vão para blocos
+`<registo>.versoes/001.json`, `002.json`… de até `FRAGMENT_BLOCK_BYTES`, e o
+`<registo>.versoes.json` fica um índice: os mesmos campos, com `fragment_blocks` (os
+caminhos dos blocos, relativos à pasta do índice) no lugar de `fragments`.
 """
 
 from __future__ import annotations
 
+import json
 from typing import Any
 
 from leis_portugal.domain.record import VersionHistory, VersionHistoryEntry
 
 
 HISTORY_SCHEMA = "leis-portugal/versoes/1"
+FRAGMENT_BLOCK_SCHEMA = "leis-portugal/versoes-bloco/1"
+# O GitHub recomenda ficheiros abaixo de 50 MB; acima disto o histórico é dividido.
+HISTORY_MAX_BYTES = 50_000_000
+FRAGMENT_BLOCK_BYTES = 20_000_000
 
 
 def render_version(history: dict[str, Any], version: dict[str, Any], *, title: str) -> str:
@@ -45,3 +55,26 @@ def summarize(history: dict[str, Any], file_name: str) -> VersionHistory:
             for version in history["versions"]
         ],
     )
+
+
+def fragment_sizes(fragments: dict[str, Any]) -> dict[str, int]:
+    """Bytes (aproximados) de cada fragmento no JSON gravado."""
+    return {key: len(json.dumps({key: fragment}, ensure_ascii=False, indent=1).encode("utf-8")) for key, fragment in fragments.items()}
+
+
+def split_fragments(fragments: dict[str, Any], sizes: dict[str, int], max_bytes: int) -> list[dict[str, Any]]:
+    """Divide os fragmentos, pela ordem, em blocos de até `max_bytes`.
+
+    A ordem é a da primeira versão em que cada fragmento aparece: as versões novas
+    acrescentam fragmentos no fim e os blocos anteriores ficam iguais. Um fragmento
+    maior do que `max_bytes` fica sozinho num bloco.
+    """
+    blocks: list[dict[str, Any]] = []
+    used = max_bytes
+    for key, fragment in fragments.items():
+        if used + sizes[key] > max_bytes:
+            blocks.append({})
+            used = 0
+        blocks[-1][key] = fragment
+        used += sizes[key]
+    return blocks
