@@ -51,6 +51,19 @@ Quatro lacunas nos dados impedem os 95%; a primeira é a maior.
 
 Há ainda ~70 mil registos só com PDF (sobretudo 1910–1959) e as relações de alteração podem ter falhas: um diploma "nunca alterado" só o é se o DRE tiver registado todas as alterações.
 
+## Texto em vigor: o que a medição mostrou
+
+As republicações quase não resolvem o problema: só 61 dos 23.417 diplomas em vigor alterados sem consolidação têm uma republicação no acervo, e só 37 delas dão o texto atual completo. Os diplomas republicados são quase sempre os que o DRE já consolida (772 dos 1.204 encontrados). Medido em 27/10/2026 sobre o export de 26/10.
+
+| Alterações por diploma | Diplomas | % |
+| --- | --: | --: |
+| 1 | 15.125 | 65% |
+| 2 a 4 | 6.996 | 30% |
+| 5 a 9 | 965 | 4% |
+| 10 ou mais | 331 | 1% |
+
+São sobretudo diplomas antigos e menores: 57% são portarias e só 154 são de 2015 ou depois. Os que pesam nas perguntas são os 1.468 com 10 ou mais citações no acervo. A fase 2 passa por isso a assentar em aplicar as alterações, a começar por esses; em 65% dos casos é uma só alteração.
+
 ## Plano por fases
 
 Cinco fases; as três primeiras são trabalho de dados no repositório e são as que mais pesam na fiabilidade.
@@ -70,8 +83,8 @@ A fase 2 é a que mais aumenta a fiabilidade; o detalhe de cada fase segue abaix
    - Incluir armadilhas: normas revogadas, alterações recentes e perguntas sem resposta.
    - Medir o ponto de partida.
 2. **Fase 2: texto em vigor**
-   - Detetar as republicações: muitas leis que alteram outras republicam o diploma completo em anexo. Hoje só estão detetadas 25 (`republished_by`).
-   - Consolidar os 1.672 diplomas alterados mais citados: aplicar as alterações com ajuda de um LLM, verificar artigo a artigo e rever à mão os mais importantes.
+   - Usar as republicações onde existem (61 diplomas; 37 ficam com o texto atual completo). São uma fonte auxiliar, não a principal.
+   - Consolidar os 1.468 diplomas em vigor alterados com 10 ou mais citações: aplicar as alterações com ajuda de um LLM, a começar pelos que têm uma só alteração, verificar artigo a artigo e rever à mão os mais importantes.
    - Nos restantes, avisar sempre "texto original; alterado por X e Y" e juntar os artigos que alteram, ou não responder.
 3. **Fase 3: estrutura, vigência e datas**
    - Identificadores e partição por artigo em todos os diplomas com texto.
@@ -124,13 +137,13 @@ Estes valores são estimativas, não medições. O primeiro número real sai da 
 - **As relações do DRE podem ter falhas.** Se faltar uma alteração, um diploma aparece como "nunca alterado" e o sistema responde com confiança a partir de texto desatualizado.
 - **O conector do DRE usa endpoints internos** sem API pública documentada e pode falhar após um deploy do DRE.
 - **As consolidações não têm valor jurídico.** A resposta tem de dizer se o texto é o publicado no Diário da República ou uma consolidação.
-- **Não medido ainda:** a fiabilidade atual, a quantidade real de republicações e a completude das relações de alteração. As três medem-se nas fases 1 e 2.
+- **Não medido ainda:** a fiabilidade atual e a completude das relações de alteração. Medem-se nas fases 1 e 2.
 
 ## Próximos passos
 
 - [ ] Gerar o conjunto de avaliação (sessão A) e verificá-lo às cegas com outro modelo (sessão B)
-- [ ] Detetar as republicações e medir quantos dos 23.417 alterados ficam com texto atual
-- [ ] Listar os 1.672 diplomas alterados mais citados e escolher os primeiros a consolidar
+- [ ] Escolher o método para aplicar alterações e testá-lo nos diplomas citados com uma só alteração
+- [ ] Listar os 1.468 diplomas em vigor alterados com 10 ou mais citações e escolher os primeiros a consolidar
 - [ ] Construir o parser por artigo e os identificadores estáveis
 - [ ] Extrair as datas de entrada em vigor e resolver a vigência dos desconhecidos
 
