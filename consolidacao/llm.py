@@ -10,7 +10,13 @@ Sem chave da API, `--estimar` (o modo por omissão) só conta os pedidos e estim
 custo. Com `ANTHROPIC_API_KEY` e o pacote `anthropic` instalado, `--executar` faz os pedidos
 e grava as respostas em `consolidacao/llm/`.
 
-Uso: `python consolidacao/llm.py [--estimar | --executar] [--modelo claude-opus-5-5]`.
+Sem a API, uma sessão do Claude pode fazer o mesmo: `--sessao` escreve
+`consolidacao/llm/entrada-sessao.jsonl` (uma linha por diploma, com as regras em `regras` e o
+pedido em `pedido`) e `--importar FICHEIRO` passa as respostas da sessão (uma linha por
+diploma, `{"id", "artigos", "nao_aplicavel"}`) pela mesma verificação e grava-as em
+`consolidacao/llm/`, como `--executar`.
+
+Uso: `python consolidacao/llm.py [--estimar | --executar | --sessao | --importar FICHEIRO] [--modelo claude-opus-5-5]`.
 """
 
 from __future__ import annotations
@@ -155,16 +161,53 @@ def executar(pendentes: list[dict], selecao: dict[str, dict], modelo: str) -> di
     return dict(uso)
 
 
+def sessao(pendentes: list[dict], selecao: dict[str, dict]) -> Path:
+    """A entrada para uma sessão do Claude aplicar as instruções, sem a API."""
+    SAIDA.mkdir(exist_ok=True)
+    destino = SAIDA / "entrada-sessao.jsonl"
+    with destino.open("w", encoding="utf-8") as f:
+        for d in pendentes:
+            f.write(json.dumps({
+                "id": d["id"], "titulo": d["title"], "alterador": selecao[d["id"]]["alterador"].get("title"),
+                "motivos": sorted({item["motivo"] for item in d["itens"]}),
+                "regras": SISTEMA, "esquema_da_resposta": ESQUEMA, "pedido": pedido(d, selecao[d["id"]]),
+            }, ensure_ascii=False) + "\n")
+    return destino
+
+
+def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], modelo: str) -> dict:
+    """As respostas de uma sessão, com a mesma verificação das respostas da API."""
+    por_id = {d["id"]: d for d in pendentes}
+    SAIDA.mkdir(exist_ok=True)
+    contagem = Counter()
+    for linha in ficheiro.read_text(encoding="utf-8").splitlines():
+        resultado = json.loads(linha)
+        d = por_id[resultado["id"]]
+        resultado |= {"modelo": resultado.get("modelo") or modelo, "pedido": "sessão"}
+        resultado["problemas"] = verificar_resposta(resultado, d, selecao[d["id"]])
+        contagem["com problemas" if resultado["problemas"] else "não aplicável" if not resultado.get("artigos") else "sem problemas"] += 1
+        (SAIDA / (d["id"].replace(":", "_") + ".json")).write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return dict(contagem)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     modo = parser.add_mutually_exclusive_group()
     modo.add_argument("--estimar", action="store_true", default=True)
     modo.add_argument("--executar", action="store_true")
+    modo.add_argument("--sessao", action="store_true")
+    modo.add_argument("--importar", type=Path)
     parser.add_argument("--modelo", default="claude-opus-5-5")
     parser.add_argument("--pendentes", type=Path, default=PASTA / "pendentes.jsonl")
     args = parser.parse_args()
     pendentes = [json.loads(l) for l in args.pendentes.read_text(encoding="utf-8").splitlines()]
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao.jsonl").read_text(encoding="utf-8").splitlines())}
+    if args.sessao:
+        print(f"{len(pendentes)} diplomas em {sessao(pendentes, selecao).relative_to(RAIZ)}")
+        return 0
+    if args.importar:
+        print(json.dumps(importar(args.importar, pendentes, selecao, args.modelo), ensure_ascii=False, indent=2))
+        return 0
     if args.executar:
         if not os.environ.get("ANTHROPIC_API_KEY"):
             print("Sem ANTHROPIC_API_KEY no ambiente: corre com --estimar ou define a chave.")

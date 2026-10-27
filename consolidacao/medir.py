@@ -42,7 +42,9 @@ def main() -> int:
                        sorted(estados.items(), key=lambda kv: -sum(kv[1].values()))},
         "alteracoes_aplicadas_por_regra": dict(regras.most_common()),
         "comparacao_com_republicacoes": republicacoes,
-        "llm": {"pedidos_feitos": 0, "tokens_usados": 0, "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto",
+        "titulos_pelo_parser_da_fase_3": dict(Counter(r["estado"] for r in resultados if r.get("titulos_normalizados"))),
+        "llm": {"pedidos_feitos": 0, "tokens_usados": 0,
+                "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto; a entrada para uma sessão do Claude está em llm/entrada-sessao.jsonl",
                 "estimativa_para_os_pendentes": estimar(pendentes, selecao)},
     }
     (PASTA / "medicao.json").write_text(json.dumps(medicao, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

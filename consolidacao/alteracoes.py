@@ -431,6 +431,10 @@ def ler(texto_alterador: str, titulo_original: str, original: Corpo) -> Leitura:
                 continue
             excerto = texto + "\n\n«" + texto_citado + "»"
             tipo = "aditar" if e_aditar and not e_substituir else "substituir"
+            if _ANAFORA.search(antes_mencao):
+                leitura.por_aplicar.append(PorAplicar("localizador de outro diploma («portaria supracitada»)", excerto, p.artigo))
+                i = seguinte
+                continue
             if re.match(r"^(?:Artigo|ARTIGO|Art\.)\s+\d", texto_citado):
                 alvos = [Alvo(parte, None)]  # os artigos vêm na própria citação
             else:
@@ -469,13 +473,32 @@ def _alvos_parciais(texto: str, antes_mencao: str, parte: str) -> list[Alvo]:
     return []
 
 
+# "Revogados, na parte em que contrariem o presente decreto-lei: …": a revogação depende do
+# diploma novo e não se aplica ao texto por regra.
+_CONDICIONAL = re.compile(r"na parte em que|na medida em que|em tudo o que|no que (?:contrari|for contrári)", re.I)
+# "o n.º 6 da portaria supracitada": o localizador é de outro diploma, mesmo que o parágrafo
+# nomeie o original mais à frente.
+_ANAFORA = re.compile(
+    r"\b(?:portaria|decreto(?:-lei)?|lei|diploma|despacho|regulamento|resolu[çc][ãa]o)\s+(?:acima\s+|atrás\s+)?"
+    r"(?:supra)?(?:citad|referid|mencionad|aludid)[oa]|"
+    r"\b(?:supracitad|citad|referid|mencionad|aludid|mesm)[oa]\s+(?:portaria|decreto|lei|diploma|despacho|regulamento)",
+    re.I,
+)
+
+
 def _revogacao(leitura: Leitura, excerto: str, antes: str, ambito: str, mencao, texto: str, original: Corpo, artigo: str, parte: str = "") -> None:
+    if _CONDICIONAL.search(excerto):
+        leitura.por_aplicar.append(PorAplicar("revogação condicional («na parte em que contrarie»)", excerto, artigo))
+        return
+    if _ANAFORA.search(antes):
+        leitura.por_aplicar.append(PorAplicar("localizador de outro diploma («portaria supracitada»)", excerto, artigo))
+        return
     if ambito == "anexo" and not parte:
         parte = _parte_anexo(texto, original, mencao) if mencao else None
         if parte is None:
             leitura.por_aplicar.append(PorAplicar("anexo do original não identificado", excerto, artigo))
             return
-    troco = re.split(r"revogad[oa]s?|revoga(?:m)?-se|eliminad[oa]s?", antes, flags=re.I)[-1]
+    troco = re.split(r"revogad[oa]s?|\brevoga(?:m)?(?:-se)?\b|eliminad[oa]s?", antes, flags=re.I)[-1]
     sem_diplomas = _QUALQUER.sub(" ", troco)
     if not re.search(r"artigo|art\.|n\.?\s*[ºo]|alínea|número", sem_diplomas, re.I) and mencao is not None and _so_em_parte(texto[mencao.end() :]):
         leitura.por_aplicar.append(PorAplicar(_MOTIVO_INTEIRA["parcial"], excerto, artigo))

@@ -29,7 +29,7 @@ import yaml
 
 from alteracoes import ler, paragrafos
 from aplicar import Fonte, aplicar
-from texto import RAIZ, Corpo, corpo, dividir, front_matter, normalizar, sem_ligacoes
+from texto import RAIZ, Corpo, com_titulos, corpo, dividir, front_matter, normalizar, sem_ligacoes
 from verificar import republicacao, verificar
 
 PASTA = RAIZ / "consolidacao"
@@ -69,6 +69,10 @@ def processar(registo: dict, escrever: bool = True) -> dict:
     markdown_alterador = (RAIZ / alterador_meta["path"]).read_text(encoding="utf-8")
     texto_original, texto_alterador = corpo(markdown_original), corpo(markdown_alterador)
     original = dividir(texto_original)
+    if not original.artigos and (normalizado := com_titulos(texto_original)) is not None:
+        # Artigos em texto corrido: os títulos vêm do parser da fase 3 (ver `com_titulos`).
+        texto_original, original = normalizado, dividir(normalizado)
+        estado["titulos_normalizados"] = True
     leitura = ler(texto_alterador, registo["title"], original)
     estado |= {"instrucoes": len(leitura.instrucoes), "por_aplicar": len(leitura.por_aplicar),
                "artigos_original": len(original.artigos)}
@@ -89,8 +93,8 @@ def processar(registo: dict, escrever: bool = True) -> dict:
                          "excerto": revogacoes[0].excerto}
 
     if not original.artigos:
-        return estado | {"estado": "para LLM", "motivo": "original sem artigos identificados (###### Artigo)",
-                         "pendentes": _pendentes(registo, original, leitura, None)}
+        motivo = _sem_artigos(texto_original)
+        return estado | {"estado": "para LLM", "motivo": motivo, "pendentes": _pendentes(registo, original, leitura, None, motivo)}
 
     meta = front_matter(markdown_alterador)
     fonte = Fonte(alterador_meta["title"], (meta.get("source") or {}).get("official_url") or "", alterador_meta.get("publication_date") or "")
@@ -109,7 +113,9 @@ def processar(registo: dict, escrever: bool = True) -> dict:
         estado |= {"estado": "para LLM", "motivo": _motivo_llm(leitura, resultado), "problemas": problemas,
                    "pendentes": _pendentes(registo, original, leitura, resultado)}
     elif problemas:
-        estado |= {"estado": "falhou a verificação", "motivo": problemas[0], "problemas": problemas}
+        # As regras aplicaram tudo, mas a verificação não passou: vai tudo para o LLM.
+        estado |= {"estado": "falhou a verificação", "motivo": problemas[0], "problemas": problemas,
+                   "pendentes": _pendentes(registo, original, leitura, None, "falhou a verificação")}
     else:
         estado |= {"estado": "aplicado por regra", "motivo": ""}
 
@@ -119,9 +125,23 @@ def processar(registo: dict, escrever: bool = True) -> dict:
         json_registos = [asdict(r) | {"diploma": registo["id"], "alterador": alterador_meta["id"]} for r in resultado.registos]
         destino.with_suffix(".alteracoes.json").write_text(json.dumps(json_registos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         if estado["estado"] == "aplicado por regra":
-            destino.write_text(_markdown(registo, alterador_meta, consolidado), encoding="utf-8")
+            destino.write_text(_markdown(registo, alterador_meta, consolidado, estado.get("titulos_normalizados", False)), encoding="utf-8")
             estado["consolidado"] = str(destino.relative_to(RAIZ))
     return estado
+
+
+def _sem_artigos(texto: str) -> str:
+    """Porque é que nem o parser da fase 3 dá os artigos do original."""
+    from leis_portugal.domain.articles import parse_articles
+
+    tipos = Counter(a.kind for a in parse_articles(texto))
+    if tipos["artigo"]:
+        return "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)"
+    if tipos["numero"]:
+        return "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)"
+    if tipos["base"]:
+        return "original sem artigos identificados (bases em texto corrido)"
+    return "original sem artigos identificados"
 
 
 def _motivo_llm(leitura, resultado) -> str:
@@ -129,11 +149,11 @@ def _motivo_llm(leitura, resultado) -> str:
     return Counter(re.sub(r"\s*\(.*|\d+\.º(-[A-Z])?", "", m).strip() for m in motivos).most_common(1)[0][0]
 
 
-def _pendentes(registo: dict, original: Corpo, leitura, resultado) -> list[dict]:
+def _pendentes(registo: dict, original: Corpo, leitura, resultado, motivo: str = "") -> list[dict]:
     """O que fica para o LLM: a instrução e o texto atual dos artigos do original que nomeia."""
     itens = [{"motivo": p.motivo, "excerto": p.excerto} for p in leitura.por_aplicar]
     if resultado is None:
-        itens += [{"motivo": "original sem artigos identificados", "excerto": i.excerto} for i in leitura.instrucoes]
+        itens += [{"motivo": motivo, "excerto": i.excerto} for i in leitura.instrucoes]
     else:
         itens += [{"motivo": f["motivo"], "excerto": f["excerto"]} for f in resultado.falhas]
     for item in itens:
@@ -144,7 +164,7 @@ def _pendentes(registo: dict, original: Corpo, leitura, resultado) -> list[dict]
     return itens
 
 
-def _markdown(registo: dict, alterador: dict, consolidado: Corpo) -> str:
+def _markdown(registo: dict, alterador: dict, consolidado: Corpo, titulos_normalizados: bool) -> str:
     cabecalho = {
         "id": registo["id"],
         "title": registo["title"],
@@ -155,6 +175,8 @@ def _markdown(registo: dict, alterador: dict, consolidado: Corpo) -> str:
             "alteracoes_aplicadas": [{"id": alterador["id"], "title": alterador["title"], "publication_date": alterador.get("publication_date")}],
         },
     }
+    if titulos_normalizados:
+        cabecalho["consolidacao"]["titulos_normalizados"] = "artigos em texto corrido no original, com título pelo parser da fase 3"
     return "---\n" + yaml.safe_dump(cabecalho, allow_unicode=True, sort_keys=False) + "---\n" + consolidado.texto()
 
 

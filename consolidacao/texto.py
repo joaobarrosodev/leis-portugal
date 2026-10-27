@@ -145,6 +145,66 @@ def dividir(texto: str) -> Corpo:
     return resultado
 
 
+def com_titulos(texto: str) -> str | None:
+    """Um corpo sem `###### Artigo` com os títulos que o parser da fase 3 encontra.
+
+    `parse_articles` (`src/leis_portugal/domain/articles.py`) reconhece os artigos em texto
+    corrido ("Artigo 1.º", "Art. 1.º - …", a epígrafe na linha seguinte) e os títulos noutros
+    formatos ("###### ARTIGO 1.º"). Aqui só se reescrevem essas linhas: a linha do artigo passa
+    a `###### Artigo N.º — Epígrafe` (o texto que vinha na mesma linha fica no parágrafo
+    seguinte), a linha da epígrafe sai, e um anexo em texto corrido ("ANEXO I") passa a
+    `## ANEXO I`. As outras linhas ficam como estão.
+
+    Devolve None quando não há artigos, quando uma linha não se encontra ou quando a divisão
+    resultante não dá os mesmos artigos (números repetidos sem anexo que os separe, por exemplo).
+    """
+    from leis_portugal.domain import articles as fase3
+
+    artigos = [a for a in fase3.parse_articles(texto) if a.kind == "artigo" and not a.quoted]
+    if not artigos:
+        return None
+    linhas = texto.split("\n")
+    trocas: dict[int, list[str]] = {}
+    i, parte = 0, ""
+    for a in artigos:
+        if a.part != parte:
+            parte = a.part
+            j = next((k for k in range(i, len(linhas)) if linhas[k].strip() == a.part), None)
+            if j is not None and not linhas[j].startswith("#"):
+                trocas[j] = [f"## {linhas[j].strip()}"]
+            elif j is None and not any(re.match(rf"^##\s+{re.escape(a.part)}\s*$", l) for l in linhas[i:]):
+                return None  # parte implícita (a numeração recomeça sem título)
+        while i < len(linhas):
+            s = linhas[i].strip()
+            m = fase3._HEADING_ARTICLE.match(s) or (fase3._PLAIN_ARTICLE.match(s) if not s.startswith("#") else None)
+            if m and fase3._clean_number(m.group("number")) == a.number and (not a.source_line or s == a.source_line):
+                break
+            i += 1
+        else:
+            return None
+        if s.startswith("#"):
+            epigrafe, primeira = (m.group("heading") or m.group("heading2") or "").strip(), ""
+        else:
+            epigrafe, primeira = fase3._plain_rest(m.group("rest"))
+        novo = [f"###### Artigo {a.number}" + (f" — {a.heading}" if a.heading else "")]
+        if a.heading and not epigrafe:
+            # A epígrafe estava na linha seguinte: sai, com a linha vazia que a seguia.
+            k = next((k for k in range(i + 1, len(linhas)) if linhas[k].strip()), None)
+            if k is None or fase3._split_heading(linhas[k].strip()) != a.heading:
+                return None
+            trocas.update({x: [] for x in range(i + 1, k + 1)})
+        elif epigrafe != a.heading:
+            return None
+        trocas[i] = novo + (["", primeira] if primeira else [])
+        i += 1
+    resultado = "\n".join(l for k, linha in enumerate(linhas) for l in trocas.get(k, [linha]))
+    esperado = [(a.part, numero_artigo(a.number)) for a in artigos]
+    obtido = [(a.parte, a.numero) for a in dividir(resultado).artigos]
+    if obtido != esperado or len(set(obtido)) != len(obtido):
+        return None
+    return resultado
+
+
 # --- Referências a um diploma ---------------------------------------------------------------
 
 

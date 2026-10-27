@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º\n\n1 - É revogada toda a legislação e regulamentação em contrário ao disposto no presente diploma, designadamente os Decretos-Leis n.os [33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, na parte que aprovou o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas, e [434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, que aprovou o Regulamento Disciplinar do mesmo Pessoal.\n\n2 - Mantém-se transitoriamente em vigor o actual regime de classificação de serviço aplicável a este pessoal até à sua revisão, nos termos da lei geral.",
+    "depois": "###### Artigo 3.º\n\n1 - É revogada toda a legislação e regulamentação em contrário ao disposto no presente diploma, designadamente os Decretos-Leis n.os [33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, na parte que aprovou o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas, e [434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, que aprovou o Regulamento Disciplinar do mesmo Pessoal.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 237/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1996-188491), publicado em 1996-12-13.",
+    "excerto": "1 - É revogado o n.º 2 do artigo 3.º do Decreto-Lei n.º 264/89, de 18 de Agosto.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:619282:por",
+    "alterador": "pt:dre:188491:por"
+  }
+]
