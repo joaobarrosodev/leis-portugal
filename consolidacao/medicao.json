@@ -1,0 +1,121 @@
+{
+  "diplomas": 671,
+  "por_estado": {
+    "sem alteração textual": {
+      "total": 498,
+      "motivos": {
+        "o original só aparece numa lista ou remissão": 303,
+        "o alterador cita o original mas não lhe dá instruções de alteração": 179,
+        "o alterador não menciona o original": 16
+      }
+    },
+    "para LLM": {
+      "total": 84,
+      "motivos": {
+        "original sem artigos identificados (###### Artigo)": 71,
+        "o texto a retificar não aparece uma única vez no original": 3,
+        "revogação com exceções ou só em parte": 3,
+        "redação nova sem aspas «»": 2,
+        "revogação do que o original aprovou em anexo": 1,
+        "alvo da nova redação não identificado": 1,
+        "anexo do original não identificado": 1,
+        "o texto do acervo já tem o que deve ler-se": 1,
+        "retificação sem «» que a regra leia": 1
+      }
+    },
+    "sem texto": {
+      "total": 50,
+      "motivos": {
+        "original só com pdf": 46,
+        "o diploma que altera não está no acervo": 3,
+        "original só com metadados": 1
+      }
+    },
+    "aplicado por regra": {
+      "total": 22,
+      "motivos": {
+        "—": 22
+      }
+    },
+    "revogado por inteiro": {
+      "total": 17,
+      "motivos": {
+        "o alterador revoga o original (o DRE dá-o como em vigor)": 17
+      }
+    }
+  },
+  "alteracoes_aplicadas_por_regra": {
+    "revogação de artigo": 32,
+    "substituição com [...]": 15,
+    "revogação de número ou alínea": 11,
+    "substituição integral": 8,
+    "aditamento de artigo": 8,
+    "substituição parcial": 1
+  },
+  "comparacao_com_republicacoes": [
+    {
+      "title": "Decreto Legislativo Regional n.º 13/98/A",
+      "estado": "aplicado por regra",
+      "iguais": 13,
+      "diferencas_menores": [
+        "7.º",
+        "8.º",
+        "17.º"
+      ],
+      "diferentes": [],
+      "diferentes_nao_alterados": [
+        "13.º",
+        "18.º"
+      ],
+      "so_no_consolidado": []
+    },
+    {
+      "title": "Decreto Legislativo Regional n.º 29/2006/A",
+      "estado": "para LLM",
+      "iguais": 13,
+      "diferencas_menores": [
+        "8.º",
+        "9.º",
+        "12.º",
+        "14.º",
+        "16.º"
+      ],
+      "diferentes": [
+        "19.º"
+      ],
+      "diferentes_nao_alterados": [
+        "7.º",
+        "21.º"
+      ],
+      "so_no_consolidado": []
+    }
+  ],
+  "llm": {
+    "pedidos_feitos": 0,
+    "tokens_usados": 0,
+    "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto",
+    "estimativa_para_os_pendentes": {
+      "pedidos": 84,
+      "tokens_entrada_estimados": 526980,
+      "tokens_saida_estimados": 180532,
+      "custo_estimado_usd": {
+        "claude-opus-5-5": 5.72,
+        "claude-sonnet-5-5": 2.86
+      },
+      "motivos": {
+        "revogação com exceções ou só em parte": 14,
+        "revogação do que o original aprovou em anexo": 1,
+        "redação nova sem aspas «»": 34,
+        "o texto a retificar não aparece uma única vez no original": 3,
+        "original sem artigos identificados": 20,
+        "instrução de outro tipo": 7,
+        "revogação com alvo que a regra não lê": 3,
+        "revogação de anexo ou parte sem artigo": 2,
+        "anexo do original não identificado": 9,
+        "alvo da nova redação não identificado": 5,
+        "o texto do acervo já tem o que deve ler-se": 1,
+        "retificação sem «» que a regra leia": 1
+      }
+    }
+  }
+}

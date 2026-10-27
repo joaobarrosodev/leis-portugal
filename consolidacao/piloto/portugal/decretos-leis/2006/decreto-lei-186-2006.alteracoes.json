@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 8.º — Encargos financeiros\n\n1 - Os apoios financeiros previstos no presente decreto-lei constituem encargo de cada organismo competente em razão da matéria, designadamente o Instituto Português do Sangue, o Instituto da Droga e da Toxicodependência e as administrações regionais de saúde.\n\n2 - No caso dos apoios atribuídos pelo Alto Comissariado da Saúde e pela Direcção-Geral da Saúde, compete ao Instituto de Gestão Informática e Financeira da Saúde assegurar o respectivo pagamento, sendo os correspondentes encargos inscritos no orçamento do Serviço Nacional de Saúde.\n\n3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos no n.º 1 e, nos casos previstos no número anterior, no orçamento do Serviço Nacional de Saúde.",
+    "depois": "###### Artigo 8.º — Encargos financeiros\n\n1 - Os apoios financeiros previstos no presente decreto-lei constituem encargo de cada organismo competente em razão da matéria, designadamente o Instituto Português do Sangue, o Instituto da Droga e da Toxicodependência e as administrações regionais de saúde.\n\n2 - No caso dos apoios atribuídos pela Direção-Geral da Saúde compete a esta assegurar o respetivo pagamento, sendo os correspondentes encargos inscritos no seu orçamento, assim como os protocolos existentes, cuja responsabilidade financeira é transferida para aquela entidade.\n\n3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos nos números anteriores.\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.",
+    "excerto": "O artigo 8.º do Decreto-Lei n.º 186/2006, de 12 de setembro, passa a ter a seguinte redação:\n\n«Artigo 8.º\n\n[...]\n\n1 - ...\n\n2 - No caso dos apoios atribuídos pela Direção-Geral da Saúde compete a esta assegurar o respetivo pagamento, sendo os correspondentes encargos inscritos no seu orçamento, assim como os protocolos existentes, cuja responsabilidade financeira é transferida para aquela entidade.\n\n3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos nos números anteriores.»",
+    "artigo_alterador": "165.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:540026:por",
+    "alterador": "pt:dre:164404:por"
+  }
+]

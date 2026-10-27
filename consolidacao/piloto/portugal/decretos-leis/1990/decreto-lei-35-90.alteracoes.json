@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "25.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 25.º — Ensino particular e cooperativo\n\nO cálculo dos encargos decorrentes da aplicação do presente diploma ao ensino particular e cooperativo e a assumir por conta das dotações do Estado será feito com base nos custos relativos ao ensino oficial.",
+    "depois": "###### Artigo 25.º — Ensino particular e cooperativo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28.",
+    "excerto": "São revogados:\n\ng) Os artigos 25.º e 28.º do Decreto-Lei n.º 35/90, de 25 de Janeiro.",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:335264:por",
+    "alterador": "pt:dre:666882:por"
+  },
+  {
+    "artigo": "28.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 28.º — Disposição transitória\n\nA aplicação do disposto no presente diploma ao ensino particular e cooperativo far-se-á de modo gradual, de acordo com os meios financeiros disponíveis e com base no disposto no Estatuto do Ensino Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.",
+    "depois": "###### Artigo 28.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28.",
+    "excerto": "São revogados:\n\ng) Os artigos 25.º e 28.º do Decreto-Lei n.º 35/90, de 25 de Janeiro.",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:335264:por",
+    "alterador": "pt:dre:666882:por"
+  }
+]

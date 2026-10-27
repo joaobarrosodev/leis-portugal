@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 14.º — (Administrações dos portos)\n\nOs portos de comércio e os de pesca de maior importância serão geridos por institutos públicos denominados «administrações dos portos», organismos dotados de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.",
+    "depois": "###### Artigo 14.º — (Administrações dos portos)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 337/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019), publicado em 1998-11-03.",
+    "excerto": "São revogados o artigo 14.º do Decreto-Lei n.º 348/86, de 16 de Outubro, e o Decreto-Lei n.º 305/87, de 5 de Agosto.",
+    "artigo_alterador": "23.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:222392:por",
+    "alterador": "pt:dre:223019:por"
+  }
+]
