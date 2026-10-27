@@ -82,6 +82,21 @@ def artigos(texto: str) -> list[Artigo]:
     return resultado
 
 
+_INTERVALO = re.compile(r"\bartigos?\s+(\d+)\.º\s+a\s+(\d+)\.º", re.I)
+
+
+def menciona_artigo(texto: str, numero: str) -> bool:
+    """Se um texto fala no artigo com este número: "artigo 7.º", "art. 7.º", "artigos 5.º e 7.º",
+    "artigos 5.º a 9.º"; não "artigo 17.º" nem "artigo 7.º-A"."""
+    base = re.escape(numero.replace(".º", "")).replace("\\-", "-")
+    if re.search(rf"\bart(?:igos?|\.|s\.)\s*(?:\d+\.º(?:-[A-Z])?\s*(?:,|e)\s*)*{base}\.?\s*º(?!-[A-Z])", texto, re.I):
+        return True
+    inteiro = re.match(r"\d+", numero)
+    return inteiro is not None and "-" not in numero and any(
+        int(inicio) <= int(inteiro.group()) <= int(fim) for inicio, fim in _INTERVALO.findall(texto)
+    )
+
+
 def normalizar(texto: str) -> str:
     """Espaços colapsados, para comparar excertos com o texto do artigo."""
     return re.sub(r"\s+", " ", texto).strip()
