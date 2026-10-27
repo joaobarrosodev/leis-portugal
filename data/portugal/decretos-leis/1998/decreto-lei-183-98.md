@@ -98,6 +98,10 @@ relationships:
   target: celex:31989L0048
   label: null
   source: http://data.europa.eu/eli/dir/1989/48/oj
+- type: republished_by
+  target: pt:dre:70325351:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 80
   section_count: 19

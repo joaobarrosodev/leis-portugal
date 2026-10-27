@@ -1886,6 +1886,10 @@ relationships:
     \ Supl\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
   date: '2000-04-04'
+- type: republished_by
+  target: pt:dre:66022085:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 157
   section_count: 23

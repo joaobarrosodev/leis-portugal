@@ -98,6 +98,10 @@ relationships:
   label: "Revogado pelo DEC LEI.320/2002.2002.12.28.MCOTA, DR.IS-A [300]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2002-391196
   date: '2002-12-28'
+- type: republished_by
+  target: pt:dre:70171989:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 14
   section_count: 0

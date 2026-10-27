@@ -129,6 +129,10 @@ relationships:
   label: Entrada Vigor Diploma; Revoga Artigo 68.º; Revoga Artigo 71.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1994-218349
   date: '1994-08-20'
+- type: republished_by
+  target: pt:dre:70139953:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 107
   section_count: 34

@@ -133,6 +133,10 @@ relationships:
   target: pt:dre:341801:por
   label: null
   source: http://data.dre.pt/eli/lei/8/2001/05/21/p/dre
+- type: republished_by
+  target: pt:dre:70186240:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 131
   section_count: 36

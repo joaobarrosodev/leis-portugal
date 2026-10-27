@@ -2,7 +2,10 @@
 
 - os atos da UE recebem as relações inversas vindas dos diplomas portugueses;
 - as referências por ELI (herdadas da importação inicial) passam a apontar para o id
-  do documento no acervo, quando ele existe, e as ligações partidas são removidas.
+  do documento no acervo, quando ele existe, e as ligações partidas são removidas;
+- um código consolidado pelo DRE sob o diploma que o republicou (o Código do IRS sob a
+  Lei n.º 82-E/2014, não sob o Decreto-Lei n.º 442-A/88) fica ligado ao diploma que o
+  aprovou: `republished_by` no original, `republishes` no consolidado.
 """
 
 from __future__ import annotations
@@ -27,6 +30,20 @@ _FIELDS = {
     for name, indent in (("document_type", ""), ("official_number", ""), ("publication_date", ""), ("territory", ""), ("series", "  "))
 }
 _EU_RELATION = re.compile(r"^- type: (\w+)\n  target: celex:(\S+)$", re.MULTILINE)
+# Nota do DRE num consolidado que assenta na republicação de outro diploma: "Esta versão
+# consolidada tem por base a republicação, em anexo à Lei 82-E/2014, …, do Código do IRS,
+# aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro." (às vezes sem "n.º").
+_REPUBLICATION_NOTE = re.compile(
+    r"tem por base a republicação.*?aprovad[oa]s? pel[oa]s? (?P<kind>Decreto Legislativo Regional|Decreto Regulamentar Regional|"
+    r"Decreto Regulamentar|Decreto-Lei|Decreto|Lei Orgânica|Lei|Portaria) (?:n\.?\s*º\s*)?"
+    r"(?P<number>[0-9]+(?:-[A-Z])?)/(?P<year>[0-9]{2,4})(?:/(?P<region>[AM]))?",
+)
+_NOTE_KINDS = {
+    "Decreto Legislativo Regional": "decreto-legislativo-regional", "Decreto Regulamentar Regional": "decreto-regulamentar-regional",
+    "Decreto Regulamentar": "decreto-regulamentar", "Decreto-Lei": "decreto-lei", "Decreto": "decreto",
+    "Lei Orgânica": "lei-organica", "Lei": "lei", "Portaria": "portaria",
+}
+REPUBLICATION_LABEL = "Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma"
 # Relação no diploma português -> relação inversa no ato da UE.
 INVERSE = {"transposes": "transposed_by", "cites": "cited_by", "implements": "implemented_by"}
 _PRIORITY = {"cites": 0, "implements": 1, "transposes": 2}
@@ -100,11 +117,22 @@ class Entry:
     pending: bool
     fields: dict[str, str | None]
     targets: tuple[str, ...] = ()
+    # Diploma cuja republicação é a base deste consolidado (`pt:numero:…`), pela nota do DRE.
+    republication: str | None = None
 
 
 def _value(front: str, name: str) -> str | None:
     match = _FIELDS[name].search(front)
     return match.group(1) if match and match.group(1) not in ("", "null") else None
+
+
+def republication_reference(front: str) -> str | None:
+    """`pt:numero:…` do diploma que aprovou o texto republicado em que assenta o consolidado."""
+    match = _REPUBLICATION_NOTE.search(" ".join(re.sub(r"<[^>]+>", " ", front).split()))
+    if not match:
+        return None
+    region = f"/{match['region']}" if match["region"] else ""
+    return f"pt:numero:{_NOTE_KINDS[match['kind']]}:{match['number']}/{match['year']}{region}"
 
 
 def _references(path: str) -> Entry:
@@ -113,7 +141,10 @@ def _references(path: str) -> Entry:
     eli = _ELI.search(front)
     targets = tuple(_TARGET.findall(front))
     pending = "/sem-diploma/" in front or any(target.startswith("eli:") or not valid_target(target) for target in targets)
-    return Entry(path, read_record_id(path), eli.group(1) if eli else None, pending, {name: _value(front, name) for name in _FIELDS}, targets)
+    return Entry(
+        path, read_record_id(path), eli.group(1) if eli else None, pending, {name: _value(front, name) for name in _FIELDS}, targets,
+        republication_reference(front),
+    )
 
 
 def scan_entries(acervo: Acervo, *, workers: int | None = None) -> list[Entry]:
@@ -153,7 +184,7 @@ class ResolveSummary:
     changed_paths: list[Path] = field(default_factory=list)
 
 
-def resolve_references(acervo: Acervo, *, workers: int | None = None) -> ResolveSummary:
+def resolve_references(acervo: Acervo, *, workers: int | None = None, entries: list[Entry] | None = None) -> ResolveSummary:
     """Troca os alvos `eli:` pelo id do documento no acervo e remove os alvos partidos.
 
     O URL original fica em `source`. Um ELI de um documento que o acervo ainda não tem
@@ -162,7 +193,7 @@ def resolve_references(acervo: Acervo, *, workers: int | None = None) -> Resolve
     As ligações ao marcador "sem diploma" da análise jurídica do DRE passam a referência
     por número quando a nota diz qual é o ato (`pt:numero:decreto-lei:189/90`) e são
     removidas quando não diz."""
-    entries = scan_entries(acervo, workers=workers)
+    entries = entries if entries is not None else scan_entries(acervo, workers=workers)
     resolver = ReferenceResolver(entries, acervo.types.eli_codes)
     summary = ResolveSummary()
     for entry in entries:
@@ -194,4 +225,44 @@ def resolve_references(acervo: Acervo, *, workers: int | None = None) -> Resolve
         if write_if_changed(path, render_markdown(record.to_dict(), body)):
             summary.updated += 1
             summary.changed_paths.append(Path(path))
+    return summary
+
+
+@dataclass
+class RepublicationSummary:
+    consolidated: int = 0
+    linked: int = 0
+    unresolved: list[str] = field(default_factory=list)
+    updated: int = 0
+    changed_paths: list[Path] = field(default_factory=list)
+
+
+def link_republications(acervo: Acervo, *, workers: int | None = None, entries: list[Entry] | None = None) -> RepublicationSummary:
+    """Liga cada diploma ao consolidado que tem o seu texto em vigor quando o DRE o consolida
+    sob o diploma que o republicou: `republished_by` no original (com a etiqueta que o diz)
+    e `republishes` no consolidado. Um diploma da nota que o acervo não tenha fica em
+    `unresolved`."""
+    entries = entries if entries is not None else scan_entries(acervo, workers=workers)
+    resolver = ReferenceResolver(entries, acervo.types.eli_codes)
+    paths = {entry.record_id: Path(entry.path) for entry in entries if entry.record_id}
+    additions: dict[str, list[Relationship]] = defaultdict(list)
+    summary = RepublicationSummary()
+    for entry in entries:
+        if not entry.republication or not entry.record_id:
+            continue
+        summary.consolidated += 1
+        original = resolver.diplomas.from_number(entry.republication)
+        if not original or original == entry.record_id:
+            summary.unresolved.append(f"{entry.record_id}: {entry.republication}")
+            continue
+        additions[original].append(Relationship(type="republished_by", target=entry.record_id, label=REPUBLICATION_LABEL))
+        additions[entry.record_id].append(Relationship(type="republishes", target=original))
+        summary.linked += 1
+    for record_id, relations in sorted(additions.items()):
+        path = paths[record_id]
+        record, body = acervo.read(path)
+        record.relationships = merge_relationships(record.relationships, relations)
+        if write_if_changed(path, render_markdown(record.to_dict(), body)):
+            summary.updated += 1
+            summary.changed_paths.append(path)
     return summary

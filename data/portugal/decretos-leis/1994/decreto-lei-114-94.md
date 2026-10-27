@@ -369,6 +369,10 @@ relationships:
   target: pt:dre:681817:por
   label: null
   source: null
+- type: republished_by
+  target: pt:dre:499526:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 171
   section_count: 67

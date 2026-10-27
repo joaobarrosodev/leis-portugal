@@ -8,7 +8,7 @@ from pathlib import Path
 from leis_portugal.cli.output import acervo
 from leis_portugal.infrastructure.config import load_source_registry
 from leis_portugal.services.export import export_acervo
-from leis_portugal.services.linking import link_eu_records, resolve_references
+from leis_portugal.services.linking import link_eu_records, link_republications, resolve_references, scan_entries
 from leis_portugal.services.reporting import generate_reports
 from leis_portugal.services.validation import validate_repository
 
@@ -33,12 +33,20 @@ def link(args) -> int:
     repository = acervo(args)
     summary = link_eu_records(repository)
     print(f"Atos da UE no acervo: {summary.eu_records}; atualizados: {summary.updated}; ligações a diplomas portugueses: {summary.relations}")
-    resolved = resolve_references(repository)
+    entries = scan_entries(repository)
+    resolved = resolve_references(repository, entries=entries)
     print(
         f"Referências por ELI: {resolved.checked} registo(s) verificados; resolvidas: {resolved.resolved}; "
         f"\"sem diploma\" passadas a número: {resolved.by_number}; ligações partidas removidas: {resolved.removed}; "
         f"registos atualizados: {resolved.updated}"
     )
+    republished = link_republications(repository, entries=entries)
+    print(
+        f"Consolidados sobre republicações: {republished.consolidated}; ligados ao diploma original: {republished.linked}; "
+        f"registos atualizados: {republished.updated}"
+    )
+    for item in republished.unresolved:
+        print(f"  diploma original não encontrado: {item}")
     return 0
 
 

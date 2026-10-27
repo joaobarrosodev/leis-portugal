@@ -1531,6 +1531,10 @@ relationships:
     n.º 45/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2018-115536002
   date: '2018-06-19'
+- type: republished_by
+  target: pt:dre:571007:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 139
   section_count: 34

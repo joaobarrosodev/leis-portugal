@@ -106,6 +106,10 @@ relationships:
   target: celex:31978L1027
   label: null
   source: http://data.europa.eu/eli/dir/1978/1027/oj
+- type: republished_by
+  target: pt:dre:70179154:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 95
   section_count: 25

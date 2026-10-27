@@ -98,6 +98,10 @@ relationships:
   target: pt:dre:687456:por
   label: null
   source: http://data.dre.pt/eli/lei/118/1997/11/13/p/dre
+- type: republished_by
+  target: pt:dre:70054436:por
+  label: 'Texto em vigor: versão consolidada pelo DRE com base na republicação deste diploma'
+  source: null
 article_structure:
   article_count: 120
   section_count: 24
