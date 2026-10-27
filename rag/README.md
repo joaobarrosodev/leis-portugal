@@ -66,14 +66,13 @@ PYTHONPATH=src python -m rag.avaliar --nome bm25 --sem-llm
 PYTHONPATH=src python -m rag.avaliar --nome cruzado --reranker cruzado --sem-llm
 ```
 
-Para fazer perguntas uma a uma (por exemplo, para alguém testar):
+Para fazer perguntas uma a uma (por exemplo, para alguém testar), na raiz do repositório:
 
 ```bash
-PYTHONPATH=src python -m rag.perguntar --reranker cruzado --limiar 3
-PYTHONPATH=src python -m rag.perguntar "Quantos dias de férias tem um trabalhador?"
+./perguntar
 ```
 
-Mostra a resposta e os 5 primeiros artigos, com os avisos. No modo interativo pergunta se a resposta está certa e, se não, que artigo se esperava. Tudo fica em `rag/resultados/privado/perguntas-testadas.jsonl` (fora do git), para as perguntas que falham entrarem no conjunto de avaliação.
+Na primeira vez prepara tudo: o `.venv` com o extra `rag`, o export e o índice (~5 min). Depois abre as perguntas, com o reranker e o limiar 3. Mostra o artigo mais provável com os avisos e os outros artigos encontrados, e pergunta se está certo e, se não, o que se esperava. Tudo fica em `rag/resultados/privado/perguntas-testadas.jsonl` (fora do git), para as perguntas que falham entrarem no conjunto de avaliação. `./perguntar "a pergunta"` faz uma só; `./perguntar --reconstruir` refaz o export e o índice (por exemplo, depois de atualizar o acervo).
 
 - `rag.indice` precisa de `exports/leis-portugal.sqlite` (na raiz, ou na pasta principal quando se corre numa worktree; ou `RAG_EXPORT`). `--amostra N` faz um índice só com os diplomas da avaliação e mais N, em segundos.
 - `rag.avaliar` lê `avaliacao/perguntas.jsonl` e, se existir, `avaliacao/privado/perguntas-reais.jsonl`. O resumo vai para `rag/resultados/<nome>.json`; o detalhe por pergunta para `rag/resultados/privado/` (fora do git, porque tem o texto das perguntas reais). Com `ANTHROPIC_API_KEY`, usa o LLM, a não ser com `--sem-llm`.

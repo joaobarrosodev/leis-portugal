@@ -1,11 +1,15 @@
 """Fazer perguntas ao protótipo, uma a uma, e anotar as que falham.
 
-    PYTHONPATH=src python -m rag.perguntar "Qual é a coima por não usar cinto de segurança?"
-    PYTHONPATH=src python -m rag.perguntar --reranker cruzado        # modo interativo
+O mais simples é `./perguntar` na raiz do repositório (instala o que falta e constrói o índice
+na primeira vez). Diretamente:
 
-Mostra a resposta (sem chave da API, o primeiro artigo encontrado) e os artigos encontrados,
-com os avisos (revogado, texto original de um diploma alterado, redação antiga…). No modo
-interativo pergunta se a resposta está certa e, se não estiver, que artigo se esperava.
+    PYTHONPATH=src python -m rag.perguntar                      # modo interativo
+    PYTHONPATH=src python -m rag.perguntar "Quantos dias de férias tem um trabalhador?"
+
+Mostra a resposta (sem chave da API, o artigo mais provável) com os avisos (revogado, texto
+original de um diploma alterado, redação antiga…) e os outros artigos encontrados. Usa o
+reranker quando o extra `rag` está instalado, com o limiar medido (3). No modo interativo
+pergunta se a resposta está certa e, se não estiver, que artigo se esperava.
 
 Cada pergunta fica em `rag/resultados/privado/perguntas-testadas.jsonl` (fora do git), com a
 resposta, os artigos e a anotação, para as que falham entrarem no conjunto de avaliação.
@@ -14,6 +18,7 @@ resposta, os artigos e a anotação, para as que falham entrarem no conjunto de 
 from __future__ import annotations
 
 import argparse
+import importlib.util
 import json
 import sys
 import textwrap
@@ -26,26 +31,37 @@ from rag.resposta import llm_disponivel, responder
 
 
 REGISTO = RAIZ / "rag" / "resultados" / "privado" / "perguntas-testadas.jsonl"
+LIMIAR = 3.0  # medido com o conjunto de avaliação (rag/README.md)
+LARGURA = 100
+
+
+def _paragrafos(texto: str, maximo: int) -> str:
+    texto = textwrap.shorten(" ".join(texto.split()), maximo, placeholder=" …")
+    return textwrap.fill(texto, LARGURA, initial_indent="   ", subsequent_indent="   ")
 
 
 def mostrar(consulta: Consulta, resposta, k: int) -> None:
     print()
-    if resposta.responde:
-        print("Resposta" + (" (LLM)" if resposta.com_llm else " (sem LLM: o primeiro artigo encontrado)") + ":")
-        print(textwrap.indent(resposta.texto.strip(), "  "))
+    if not resposta.responde:
+        print(f"→ Não sei. ({resposta.motivo})")
+    elif resposta.com_llm:
+        print("→ " + textwrap.fill(resposta.texto.strip(), LARGURA, subsequent_indent="  "))
+        for r in resposta.citacoes:
+            print(f"   Fonte: {r.rotulo}")
     else:
-        print(f"Não sei ({resposta.motivo}).")
+        topo = resposta.citacoes[0]
+        print(f"→ {topo.rotulo}")
+        print(_paragrafos(topo.texto, 600))
     for aviso in resposta.avisos:
-        print(f"  ! {aviso}")
+        print(f"   ⚠ {aviso}")
     if consulta.diplomas_em_falta:
-        print(f"  ! Citados e não encontrados no acervo: {', '.join(consulta.diplomas_em_falta)}")
-    print(f"\nArtigos encontrados (data {consulta.data}):")
-    for n, r in enumerate(consulta.resultados[:k], 1):
-        pontos = f" [reranker {r.reranker:.1f}]" if r.reranker is not None else ""
-        print(f"  {n}. {r.rotulo}{pontos}")
-        for aviso in r.avisos:
-            print(f"     ! {aviso}")
-        print(textwrap.indent(textwrap.shorten(r.texto, 240, placeholder=" …"), "     "))
+        print(f"   ⚠ Não está no acervo: {', '.join(consulta.diplomas_em_falta)}")
+    citados = {r.id for r in resposta.citacoes}
+    outros = [r for r in consulta.resultados[:k] if r.id not in citados]
+    if outros:
+        print("\n   Outros artigos encontrados:")
+        for r in outros:
+            print(f"   · {r.rotulo}")
     print()
 
 
@@ -68,14 +84,13 @@ def registar(consulta: Consulta, resposta, anotacao: dict) -> None:
 
 def anotar() -> dict:
     try:
-        certo = input("Certo? [s/n, Enter para saltar] ").strip().lower()
+        certo = input("Está certo? (s/n, Enter salta) ").strip().lower()
+        if certo.startswith("s"):
+            return {"certo": True}
+        if certo.startswith("n"):
+            return {"certo": False, "esperado": input("O que esperavas? (artigo e lei, se souberes) ").strip()}
     except EOFError:
-        return {}
-    if certo.startswith("s"):
-        return {"certo": True}
-    if certo.startswith("n"):
-        esperado = input("Que artigo e diploma esperavas? (p. ex. art. 238.º do Código do Trabalho) ").strip()
-        return {"certo": False, "esperado": esperado}
+        pass
     return {}
 
 
@@ -84,39 +99,48 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("pergunta", nargs="?", help="Sem pergunta, abre o modo interativo.")
     parser.add_argument("--data", default=date.today().isoformat(), help="Data de referência (AAAA-MM-DD; por omissão: hoje).")
     parser.add_argument("--indice", type=Path)
-    parser.add_argument("--reranker", choices=("cruzado", "denso"), help="Reordena os candidatos com um modelo multilingue (extra `rag`).")
-    parser.add_argument("--limiar", type=float, default=None, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto (medido: 3).")
-    parser.add_argument("-k", type=int, default=5, help="Quantos artigos mostrar.")
+    parser.add_argument("--reranker", choices=("cruzado", "denso", "nenhum"), help="Por omissão, cruzado se o extra `rag` estiver instalado.")
+    parser.add_argument("--limiar", type=float, help=f"'Não sei' abaixo desta pontuação do reranker (por omissão: {LIMIAR:g}).")
+    parser.add_argument("-k", type=int, default=4, help="Quantos artigos mostrar.")
     parser.add_argument("--sem-llm", action="store_true")
     args = parser.parse_args(argv)
 
+    tipo = args.reranker or ("cruzado" if importlib.util.find_spec("fastembed") else "nenhum")
     reranker = None
-    if args.reranker:
+    if tipo != "nenhum":
         from rag.modelos import Reranker
 
-        reranker = Reranker(args.reranker)
+        print("A carregar o modelo…", file=sys.stderr, flush=True)
+        reranker = Reranker(tipo)
+    limiar = args.limiar if args.limiar is not None else (LIMIAR if tipo == "cruzado" else None)
     pesquisa = Pesquisa(args.indice, reranker=reranker)
     usar_llm = llm_disponivel() and not args.sem_llm
 
     def uma(pergunta: str, interativo: bool) -> None:
         consulta = pesquisa.pesquisar(pergunta, args.data, k=max(args.k, 10))
-        resposta = responder(consulta, limiar=args.limiar, usar_llm=usar_llm)
+        resposta = responder(consulta, limiar=limiar, usar_llm=usar_llm)
         mostrar(consulta, resposta, args.k)
         registar(consulta, resposta, anotar() if interativo else {})
 
     if args.pergunta:
         uma(args.pergunta, interativo=False)
         return 0
-    print(f"LLM: {'sim' if usar_llm else 'não'}; reranker: {args.reranker or 'não'}. Linha vazia ou Ctrl-D para sair.", file=sys.stderr)
+    print(
+        "\nProtótipo: dá o artigo mais provável, não uma resposta escrita"
+        + (" (com LLM)." if usar_llm else " (sem LLM).")
+        + "\nEscreve a pergunta e carrega Enter. Enter numa linha vazia para sair.\n",
+        file=sys.stderr,
+    )
     while True:
         try:
             pergunta = input("Pergunta: ").strip()
-        except EOFError:
+        except (EOFError, KeyboardInterrupt):
+            print(file=sys.stderr)
             break
         if not pergunta:
             break
         uma(pergunta, interativo=True)
-    print(f"Perguntas guardadas em {REGISTO.relative_to(RAIZ)}", file=sys.stderr)
+    print(f"Obrigado! As perguntas ficaram em {REGISTO.relative_to(RAIZ)}", file=sys.stderr)
     return 0
 
 

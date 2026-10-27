@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+# Fazer perguntas ao protótipo de RAG (rag/README.md).
+#
+# Uso: ./perguntar                     modo interativo
+#      ./perguntar "a pergunta"        uma só pergunta
+#      ./perguntar --reconstruir       volta a fazer o export e o índice
+#
+# Na primeira vez prepara tudo: o ambiente Python (.venv) com o extra `rag`, o export
+# (exports/leis-portugal.sqlite) e o índice (rag/indice/, ~5 min e ~4 GB). Fica tudo fora do git.
+set -euo pipefail
+
+cd "$(dirname "$0")"
+VENV=.venv
+INDICE=rag/indice/indice.sqlite
+EXPORT=exports/leis-portugal.sqlite
+
+if [[ "${1:-}" == "--reconstruir" ]]; then
+  rm -f "$INDICE" "$EXPORT"
+  shift
+fi
+
+if [[ ! -x "$VENV/bin/python" ]]; then
+  echo "A criar o ambiente Python (só da primeira vez)…"
+  python3 -m venv "$VENV"
+fi
+PY="$VENV/bin/python"
+if ! "$PY" -c "import leis_portugal, fastembed" 2>/dev/null; then
+  echo "A instalar o que falta (só da primeira vez)…"
+  "$PY" -m pip install --quiet --upgrade pip
+  "$PY" -m pip install --quiet -e '.[rag]'
+fi
+
+if [[ ! -f "$EXPORT" ]]; then
+  echo "A preparar o export do acervo (só da primeira vez)…"
+  "$VENV/bin/leis-portugal" export
+fi
+if [[ ! -f "$INDICE" ]]; then
+  echo "A construir o índice de pesquisa (só da primeira vez, ~5 minutos)…"
+  PYTHONPATH=src "$PY" -m rag.indice
+elif [[ "$EXPORT" -nt "$INDICE" ]]; then
+  echo "Nota: o export é mais recente do que o índice. Para o atualizar: ./perguntar --reconstruir"
+fi
+
+PYTHONPATH=src exec "$PY" -m rag.perguntar "$@"
