@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:673217:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Dependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos as emissões de acções ou obrigações de quaisquer empresas privadas no ultramar cujo valor exceda, no período de um ano, a importância de 50 milhões de escudos."
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "Fica sujeita a prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos a constituição de quaisquer empresas no ultramar cujo capital seja superior a 100 milhões de escudos; na apreciação dos pedidos serão tidas em conta, além da viabilidade e interesse económico geral do empreendimento, as condições do território onde a empresa se destina a exercer as suas principais actividades."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

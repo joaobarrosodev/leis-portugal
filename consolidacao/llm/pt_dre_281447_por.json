@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:281447:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "O produto da emissão de promissórias de fomento nacional poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimento e institutos públicos, para ser por eles utilizado de harmonia com as aplicações indicadas nos respectivos planos de emissão."
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "Os empréstimos e suprimentos mencionados no artigo anterior, cujas condições gerais ficam sujeitas a aprovação por despacho do Ministro das Finanças, publicado no Diário do Governo, serão titulados por via de escritura assinada pelo director-geral da Fazenda Pública e pelos legais representantes das entidades interessadas nas operações.\n\n§ único. Dos despachos de aprovação deverão constar, além das importâncias dos empréstimos ou suprimentos, as condições de juro e de reembolso, as garantias e a indicação expressa das aplicações reprodutivas a que se destinam os capitais mutuados, bem como as condições de juro ou outras a que os interessados devam obedecer na utilização dos mesmos capitais."
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "As entidades referidas no artigo 17.º não poderão empregar para fins diferentes dos acordados os capitais recebidos nos termos dos artigos precedentes, sob pena de os respectivos empréstimos e suprimentos se considerarem desde logo vencidos, sem prejuízo de outras sanções legais ou contratuais aplicáveis."
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "As entidades referidas no artigo 17.º deverão escriturar nos seus livros e levar aos respectivos balanços os empréstimos ou suprimentos recebidos do Estado, pelo valor do respectivo capital em dívida e sob a designação «Empréstimos e suprimentos do Estado Português - Conta aplicação de promissórias de fomento nacional», indicando nos mesmos balanços, por categorias, as operações resultantes da aplicação dos capitais dos referidos empréstimos e suprimentos."
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "As Direcções-Gerais da Fazenda Pública e da Contabilidade Pública tomarão as providências necessárias para se abrir na escrita do Estado uma conta especial sob a designação «Empréstimos e suprimentos em aplicação do produto da emissão de promissórias de fomento nacional», na qual serão escrituradas todas as operações referidas nos artigos 17.º e 18.º do presente decreto-lei.\n\n§ único. Esta conta especial poderá ser desdobrada por forma a considerarem-se em separado os movimentos de cada uma das aplicações previstas para o produto da emissão das promissórias de fomento nacional."
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "Os juros dos empréstimos e suprimentos concedidos pelo Estado nos termos previstos no presente diploma, tal como os de outras operações de crédito que venham a efectuar-se em aplicação do produto da emissão de promissórias de fomento nacional, serão escriturados em «Operações de tesouraria», numa conta sob a designação «Conta de compensação de juros de créditos», pela qual serão pagos os juros das promissórias em circulação.\n\n§ 1.º Os excedentes que venham a acumular-se na conta referida no corpo do presente artigo poderão ser utilizados pelo Ministro das Finanças para:\n\na) Compensar encargos, de juros ou comissões, relativos a empréstimos obtidos, garantidos ou concedidos pelo Estado, desde que essa compensação seja justificada pela natureza e pelo superior interesse económico das aplicações respectivas;\n\nb) Compensar encargos, de juros ou comissões, relativos a empréstimos aplicados em empreendimentos reconhecidos de superior interesse económico nacional, pelo Conselho de Ministros para os Assuntos Económicos;\n\nc) Aplicações reprodutivas previstas em planos aprovados em Conselho de Ministros, nos termos e condições do presente decreto-lei;\n\nd) Financiamento de despesas de fomento a realizar através do Orçamento Geral do Estado.\n\n§ 2.º Para os efeitos do parágrafo anterior, serão tomadas pelas Direcções-Gerais da Fazenda Pública e da Contabilidade Pública as providências necessárias para a abertura, na escrita do Estado, de uma conta de operações de tesouraria, sob a designação «Aplicação de disponibilidades apuradas na conta de compensação de juros de créditos», com as subcontas que permitam a individualização das aplicações previstas nas alíneas a) a d) do mesmo parágrafo à medida que forem sendo determinadas pelo Secretário de Estado do Tesouro."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

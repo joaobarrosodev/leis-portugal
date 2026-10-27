@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:684579:por",
+  "artigos": [],
+  "nao_aplicavel": "O localizador aponta para outro diploma: o Decreto do Governo 29/83 adita um n.º 4 ao artigo 4.º do Decreto-Lei n.º 80/83, de 9 de Fevereiro (o preâmbulo fala do DL 80/83 e o novo número trata dos 'titulares dos respectivos cursos', que é a matéria do art. 4.º do DL 80/83, nível dos cursos); a menção a '80/73' é gralha. O art. 4.º do DL 80/73 (concessão ferroviária) não é alterado.",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

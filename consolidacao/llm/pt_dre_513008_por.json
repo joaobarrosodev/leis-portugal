@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:513008:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "Os governadores, os directores executivos e os suplentes daqueles e destes, os agentes e os empregados do Fundo Monetário Internacional e do Banco Internacional de Reconstrução e Desenvolvimento beneficiarão em todo o território da República Portuguesa das isenções, imunidades e privilégios designados, respectivamente, no artigo IX do Acordo sobre o Fundo e no artigo VII do Acordo sobre o Banco."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

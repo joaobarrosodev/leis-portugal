@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. Fica o Ministro da Saúde e Assistência autorizado a dispor anualmente da importância de 3000000$00 da verba das apostas mútuas desportivas a que se refere o § 2.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, para a concessão de bolsas de estudo destinadas à formação ou aperfeiçoamento de pessoal médico, de enfermagem, de reabilitação e dos serviços auxiliares de diagnóstico e terapêutica.\n\n2. As verbas que efectivamente se utilizarem, até ao montante indicado, serão suportadas, em partes iguais, pelas alíneas a) e b) do referido artigo.",
+    "depois": "###### Artigo 1.º\n\n1. Fica o Ministro da Saúde e Assistência autorizado a fixar anualmente, por portaria, o quantitativo a retirar da verba a que se refere o § 2.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, e que deva reverter para a concessão de bolsas de estudo destinadas à formação ou aperfeiçoamento de pessoal médico, de enfermagem, de reabilitação e dos serviços auxiliares de diagnóstico e terapêutica.\n\n2. As verbas que efectivamente se utilizarem, até ao montante indicado, serão suportadas, em partes iguais, pelas alíneas a) e b) do referido artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 259/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1973-422457), publicado em 1973-05-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508198:por",
+    "alterador": "pt:dre:422457:por"
+  }
+]

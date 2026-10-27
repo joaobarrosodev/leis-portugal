@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:141005:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::9.º",
+      "epigrafe": "",
+      "texto": "O comando das circunscrições fiscais será exercido por oficiais subalternos com a patente de tenente e o das secções fiscais por chefes de secção do quadro privativo da Guarda Fiscal; o das secções nas sedes das circunscrições fiscais será exercido por um chefe-ajudante.\n\n§ 1.º Se durante o período da comissão referida no corpo do artigo o oficial for promovido ao posto de capitão, poderá continuar na comissão até o seu termo.\n\n§ 2.º Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente as funções de inspecção das secções e postos fiscais, podendo assumir o comando de uma ou mais secções quando se verifiquem as circunstâncias previstas no artigo 3.º e assim lhe seja determinado pelo comando do corpo."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": [
+    "ANEXO::9.º: parágrafo que não está no alterador nem no original: § 2.º Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente "
+  ]
+}

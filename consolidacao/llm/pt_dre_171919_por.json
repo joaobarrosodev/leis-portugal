@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:171919:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "São condições de admissão aos cursos de preparação de técnicos e auxiliares:\n\na) Habilitações literárias, comprovadas documentalmente;\n\nb) Robustez física necessária ao exercício da profissão;\n\nc) Idade mínima de 16 anos completos até ao dia 31 de Dezembro do ano em que sejam admitidos ao curso.\n\nd) Bom comportamento moral."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:580311:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Considera-se residência oficial, para efeitos de abono de ajudas de custo, a periferia da localidade onde o militar tem o seu domicílio necessário.\n\n2 - O domicílio necessário é determinado pelo local onde o militar tomou posse do cargo, se aí ficou a prestar serviço, por aquele onde exercer as respectivas funções, se for colocado noutro local, ou, não havendo local certo, por aquele onde se situe o centro da sua actividade funcional, desde que aí esteja colocado com carácter de permanência, e ainda pelo estabelecido em lei especial.\n\n3 - Para efeitos do n.º 1, a periferia da cidade de Lisboa considera-se limitada por uma linha envolvendo Cascais, Sintra, Granja do Marquês, Loures, Vila Franca de Xira, Alcochete (futuro quartel da GNR), Moita, Montijo, Coina, Monte de Caparica e Cascais, e a do Porto por uma linha envolvendo Perafita, Moreira, Maia, Alfena, Valongo, Gondomar, Avintes, Moura, Granja e Perafita."
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - O abono de ajudas de custo corresponderá ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.\n\n2 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajuda de custo diária:\n\na) Se a deslocação abranger o período compreendido entre as 13 horas e as 14 horas - 25%;\n\nb) Se a deslocação abranger o período compreendido entre as 20 horas e as 21 horas - 25%;\n\nc) Se a deslocação implicar dormida - 50%.\n\n3 - Atendendo a que as percentagens referidas no número anterior correspondem ao pagamento de uma ou duas refeições e dormida, não haverá lugar aos respectivos abonos quando a correspondente prestação seja fornecida em espécie.\n\n4 - Quando se trate de deslocações a unidades ou estabelecimentos com messe constituída, os períodos horários indicados no número anterior são substituídos pelos horários oficialmente fixados para as respectivas refeições.\n\n5 - As despesas de alojamento só poderão ser consideradas nas deslocações diárias quando estas se prolongarem para o dia seguinte.\n\n6 - Nas deslocações por dias sucessivos os abonos são efectuados como segue:\n\na) Dia da partida:\n\nHoras de partida:\n\nAté às 13 horas - 100%;\n\nDepois das 13 horas e até às 21 horas - 75%;\n\nDepois das 21 horas - 50%;\n\nb) Dia do regresso:\n\nHoras de chegada:\n\nAté às 13 horas - 0%;\n\nDepois das 13 horas e até às 20 horas - 25%;\n\nDepois das 20 horas - 50%;\n\nc) Restantes dias - 100%.\n\n7 - Nas deslocações por dias sucessivos em que sejam fornecidos, sem encargos para o militar deslocado, alimentação e alojamento, ou apenas uma destas prestações, abonar-se-ão as ajudas de custo nas seguintes percentagens:\n\nApenas com o fornecimento de uma refeição (almoço ou jantar) - 75%;\n\nCom o fornecimento do almoço e do jantar - 50%;\n\nApenas com o fornecimento do alojamento - 50%;\n\nCom o fornecimento do alojamento e uma refeição (almoço ou jantar) - 25%;\n\nCom o fornecimento do alojamento, do almoço e do jantar - 10%.\n\n8 - Quando as despesas do alojamento e ou alimentação forem suportadas pelo Estado, os respectivos encargos não podem exceder a despesa correspondente ao quantitativo das ajudas de custo a que houver lugar, de acordo com a tabela em vigor, deduzidas as percentagens referidas no número anterior.\n\n9 - Os oficiais que acompanhem os oficiais generais no desempenho de missões de serviço têm direito a ajudas de custo iguais às atribuídas na tabela para oficiais generais."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - Em casos especiais, poderá excepcionar-se o disposto no artigo 6.º pela forma e nas condições seguintes, a apreciar e a despachar pelo comandante-geral:\n\na) Abono para despesas de almoço de uma importância até ao limite de 25% da ajuda de custo diária nas deslocações até 5 km, se o militar não dispuser de transporte que lhe permita almoçar na sua residência ou no quartel;\n\nb) Abono dos quantitativos correspondentes às percentagens previstas no n.º 6 do artigo 7.º para as deslocações entre 5 km e 20 km;\n\nc) Abono dos quantitativos correspondentes às percentagens previstas no n.º 2 do artigo 7.º para deslocações além de 20 km, se o comandante-geral reconhecer, em despacho fundamentado, sob proposta, apenas haver lugar a tais abonos.\n\n2 - Igualmente em casos especiais poderá excepcionar-se o disposto no n.º 3 do artigo 2.º, concedendo o abono de ajudas de custo por deslocação dentro das referidas áreas, mediante despacho fundamentado do comandante-geral, sob proposta apresentada."
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "A mudança de residência do militar que, por motivo de nova colocação, seja transferido para outra localidade dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência, de quantitativo igual a 30 dias de ajudas de custo, com a observância das seguintes regras:\n\n1.ª O direito à percepção de ajudas de custo por mudança de residência verifica-se em relação à data em que se concretize a apresentação do militar na nova situação;\n\n2.ª Não há direito ao abono de ajudas de custo por mudança de residência sem que hajam decorrido 6 meses sobre a data de abono da mesma natureza;\n\n3.ª Aplicam-se ao abono de ajudas de custo por mudança de residência os preceitos estabelecidos no artigo 14.º"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

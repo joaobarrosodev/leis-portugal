@@ -12,6 +12,7 @@ também em maiúsculas (`## ANEXO`), que o `comum.py` não reconhece.
 
 from __future__ import annotations
 
+import json
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -35,6 +36,32 @@ def corpo(markdown: str) -> str:
         if fim != -1:
             return markdown[fim + 5 :]
     return markdown
+
+
+CONSOLIDADO_AQUI = "Versão consolidada pelo leis-portugal"
+_PUBLICADOS: dict[str, str] = {}
+
+
+def publicado(caminho: Path) -> str:
+    """O corpo do registo como foi publicado.
+
+    Os registos que `consolidacao/acervo.py` aplicou ao acervo têm em `data/` o texto em vigor;
+    o publicado é o `texto_original` da entrada da verificação às cegas (a da última ronda em
+    que o diploma esteve), que o `acervo.py` confirmou ser o que estava em `data/`.
+    """
+    markdown = caminho.read_text(encoding="utf-8")
+    meta = front_matter(markdown)
+    if not str((meta.get("version") or {}).get("label") or "").startswith(CONSOLIDADO_AQUI):
+        return corpo(markdown)
+    if not _PUBLICADOS:
+        rondas = (RAIZ / "consolidacao" / "verificacao").glob("entrada-piloto*.jsonl")
+        for entrada in sorted(rondas, key=lambda p: int(re.sub(r"\D", "", p.name) or 1)):
+            for linha in entrada.read_text(encoding="utf-8").splitlines():
+                d = json.loads(linha)
+                _PUBLICADOS[d["id"]] = d["texto_original"]
+    if meta["id"] not in _PUBLICADOS:
+        raise ValueError(f"{caminho}: consolidado pelo leis-portugal sem entrada da verificação às cegas")
+    return _PUBLICADOS[meta["id"]]
 
 
 def front_matter(markdown: str) -> dict:
@@ -198,11 +225,32 @@ def com_titulos(texto: str) -> str | None:
         trocas[i] = novo + (["", primeira] if primeira else [])
         i += 1
     resultado = "\n".join(l for k, linha in enumerate(linhas) for l in trocas.get(k, [linha]))
+    if _artigo_escapado(dividir(resultado)):
+        return None
     esperado = [(a.part, numero_artigo(a.number)) for a in artigos]
     obtido = [(a.parte, a.numero) for a in dividir(resultado).artigos]
     if obtido != esperado or len(set(obtido)) != len(obtido):
         return None
     return resultado
+
+
+_ARTIGO_SOLTO = re.compile(r"^Art(?:igo)?\.?\s*(\d+)\s*[.:]?\s*[º°]?\s*[.:-]?\s+\S")
+
+
+def _artigo_escapado(corpo_: Corpo) -> bool:
+    """Uma linha "Art. 12. …" ou "Art. 220:º …" dentro de outro artigo, com o número que falta
+    entre o artigo e o seguinte: o parser não a reconheceu e o artigo ficaria colado ao anterior."""
+    artigos = corpo_.artigos
+    for atual, seguinte in zip(artigos, artigos[1:] + [None]):
+        de = int(re.match(r"\d+", atual.numero).group()) if re.match(r"\d+", atual.numero) else None
+        ate = int(re.match(r"\d+", seguinte.numero).group()) if seguinte and re.match(r"\d+", seguinte.numero) else None
+        if de is None:
+            continue
+        for linha in atual.linhas[1:]:
+            m = _ARTIGO_SOLTO.match(linha.strip())
+            if m and int(m.group(1)) > de and (ate is None or int(m.group(1)) < ate):
+                return True
+    return False
 
 
 # --- Referências a um diploma ---------------------------------------------------------------

@@ -10,13 +10,13 @@
       }
     },
     "para LLM": {
-      "total": 72,
+      "total": 73,
       "motivos": {
-        "redação nova sem aspas «»": 21,
         "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)": 19,
+        "redação nova sem aspas «»": 19,
         "revogação com exceções ou só em parte": 8,
+        "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 7,
         "revogação condicional": 4,
-        "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 4,
         "o texto a retificar não aparece uma única vez no original": 3,
         "instrução de outro tipo": 3,
         "anexo do original não identificado": 2,
@@ -51,11 +51,10 @@
       }
     },
     "falhou a verificação": {
-      "total": 5,
+      "total": 4,
       "motivos": {
         "parágrafo do alterador com o original e um verbo de alteração sem instrução lida: O Decreto-Lei n.º 49040, de 4 de Junho de 1969, reformulou o sistema prisional, visando a extinção das cadeias comarcãs ": 1,
         "9.º: parágrafo que não está nem no alterador nem no original: 1 - Com vista à reapreciação da aplicação casuística dos critérios legais estipu": 1,
-        "parágrafo do alterador com o original e um verbo de alteração sem instrução lida: Há, por isso, necessidade de introduzir algumas alterações ao Decreto n.º 47657, de 28 de Abril de 1967, que promulgou a": 1,
         "parágrafo do alterador com o original e um verbo de alteração sem instrução lida: Considerando ainda que são contraditórias as disposições previstas no Decreto Regulamentar n.º 27/77, de 13 de Maio, e n": 1,
         "4.º: ficou uma marca editorial ([...], [Anterior …]) no texto": 1
       }
@@ -108,23 +107,23 @@
     }
   ],
   "titulos_pelo_parser_da_fase_3": {
-    "sem alteração textual": 136,
-    "para LLM": 33,
+    "sem alteração textual": 129,
+    "para LLM": 31,
     "aplicado por regra": 8,
-    "falhou a verificação": 5,
+    "falhou a verificação": 4,
     "revogado por inteiro": 3
   },
   "llm": {
     "pedidos_feitos": 0,
     "tokens_usados": 0,
-    "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto; a entrada para uma sessão do Claude está em llm/entrada-sessao.jsonl",
+    "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto; os pendentes foram feitos numa sessão do Claude (llm/entrada-sessao.jsonl)",
     "estimativa_para_os_pendentes": {
       "pedidos": 77,
-      "tokens_entrada_estimados": 246898,
-      "tokens_saida_estimados": 179955,
+      "tokens_entrada_estimados": 313499,
+      "tokens_saida_estimados": 179294,
       "custo_estimado_usd": {
-        "claude-opus-5-5": 4.59,
-        "claude-sonnet-5-5": 2.29
+        "claude-opus-5-5": 4.84,
+        "claude-sonnet-5-5": 2.42
       },
       "motivos": {
         "revogação com exceções ou só em parte": 13,
@@ -132,9 +131,10 @@
         "revogação do que o original aprovou em anexo": 1,
         "redação nova sem aspas «»": 34,
         "o texto a retificar não aparece uma única vez no original": 3,
-        "falhou a verificação": 8,
+        "falhou a verificação": 7,
         "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)": 1,
         "instrução de outro tipo": 7,
+        "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 1,
         "revogação com alvo que a regra não lê": 3,
         "revogação de anexo ou parte sem artigo": 2,
         "anexo do original não identificado": 9,
@@ -142,6 +142,17 @@
         "localizador de outro diploma («portaria supracitada»)": 1,
         "o texto do acervo já tem o que deve ler-se": 1,
         "retificação sem «» que a regra leia": 1
+      }
+    },
+    "sessao": {
+      "importar": {
+        "aprovada": 46,
+        "não aplicável": 24,
+        "com problemas": 7
+      },
+      "juntar": {
+        "não junto": 20,
+        "aplicado com LLM": 26
       }
     }
   }

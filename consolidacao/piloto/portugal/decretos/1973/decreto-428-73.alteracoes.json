@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "75.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 75.º\n\nO Instituto procederá, com carácter regular e em todo o território nacional, à realização dos seguintes recenseamentos básicos:\n\na) Da população, nos anos terminados em zero;\n\nb) Da agricultura, nos anos terminados em dois;\n\nc) Das indústrias extractivas e transformadoras, nos anos terminados em quatro;\n\nd) Da habitação, nos anos terminados em cinco;\n\ne) Da distribuição e prestação de serviços, nos anos terminados em sete;\n\nf) Dos transportes, nos anos terminados em nove.",
+    "depois": "###### Artigo 75.º\n\nO programa das operações estatísticas básicas será aprovado por resolução do Conselho Nacional de Estatística, a homologar, nos termos do artigo 4.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto, pelo Primeiro-Ministro.\n\n> Alterado pelo/a [Decreto-Lei n.º 349/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1977-255994), publicado em 1977-08-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419803:por",
+    "alterador": "pt:dre:255994:por"
+  }
+]

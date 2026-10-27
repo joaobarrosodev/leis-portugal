@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:185371591:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Nos termos do disposto no n.º 2 do artigo 3.º, nos n.os 1 e 3 do artigo 9.º e na alínea a) do n.º 4, n.º 7 e n.º 9 do artigo 13.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, que aprova o regime da organização e funcionamento do XXIII Governo Constitucional, e nos artigos 44.º a 50.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, delego no Secretário de Estado da Presidência do Conselho de Ministros, André Moz Caldas, com faculdade de subdelegação, os poderes relativos aos seguintes serviços, organismos e projetos:\n\na) O poder de direção sobre a Secretaria-Geral da Presidência do Conselho de Ministros, sem prejuízo das competências do Ministro da Cultura na área da comunicação social;\n\nb) O poder de superintendência e tutela sobre a atividade da Imprensa Nacional-Casa da Moeda, S. A., nos termos do disposto no n.º 7 do artigo 13.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio;\n\nc) O poder de superintendência e tutela sobre a Entidade de Serviços Partilhados da Administração Pública, I. P., nos termos do disposto no n.º 9 do artigo 13.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, com exceção das competências especificamente delegadas na Secretária de Estado Administração Pública.\n\nd) O poder de direção sobre o grupo de projeto para a Jornada Mundial da Juventude 2023 no que respeita ao projeto de recuperação de edificado da área da Manutenção Militar Norte."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}
