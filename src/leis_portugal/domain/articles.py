@@ -253,7 +253,7 @@ def parse_articles(markdown: str) -> list[Article]:
     """Os artigos do corpo de um registo, pela ordem em que aparecem."""
     text = body(markdown)
     lines = text.splitlines()
-    if any(_HEADING_ARTICLE.match(line) for line in lines):
+    if any(_HEADING_ARTICLE.match(line) or _HEADING_POINT.match(line) for line in lines):
         articles = _parse_headings(lines)
     else:
         articles = _parse_plain(lines)

@@ -578,3 +578,10 @@ def test_amending_acts_listed_after_the_repealed_one_are_not_repealed():
     )
     found = {(item.target, item.scope) for item in repeals_in(parse_articles(text), text, source="pt:dre:9:por")}
     assert found == {("pt:dre:1:por", "parcial"), ("pt:dre:4:por", "total")}
+
+
+def test_numbered_headings_without_articles():
+    # Portaria n.º 55-C/86: os números do dispositivo vêm como títulos (`###### 1.º`).
+    text = "# Portaria n.º 55-C/86\n\n###### 1.º\n\nOs quadros de pessoal docente.\n\n###### 2.º\n\nSão criadas as seguintes escolas.\n"
+    articles = parse_articles(text)
+    assert [(article.anchor, article.method) for article in articles] == [("n-1", "titulo"), ("n-2", "titulo")]
