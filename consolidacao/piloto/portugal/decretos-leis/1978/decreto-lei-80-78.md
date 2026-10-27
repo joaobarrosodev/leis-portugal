@@ -40,6 +40,8 @@ Todos os estabelecimentos do ensino secundário passam a ter a designação gen�
 
 > Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17.
 
+Mário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.
+
 Promulgado em 14 de Abril de 1978.
 
 Publique-se.

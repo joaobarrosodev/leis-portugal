@@ -225,11 +225,32 @@ def com_titulos(texto: str) -> str | None:
         trocas[i] = novo + (["", primeira] if primeira else [])
         i += 1
     resultado = "\n".join(l for k, linha in enumerate(linhas) for l in trocas.get(k, [linha]))
+    if _artigo_escapado(dividir(resultado)):
+        return None
     esperado = [(a.part, numero_artigo(a.number)) for a in artigos]
     obtido = [(a.parte, a.numero) for a in dividir(resultado).artigos]
     if obtido != esperado or len(set(obtido)) != len(obtido):
         return None
     return resultado
+
+
+_ARTIGO_SOLTO = re.compile(r"^Art(?:igo)?\.?\s*(\d+)\s*[.:]?\s*[º°]?\s*[.:-]?\s+\S")
+
+
+def _artigo_escapado(corpo_: Corpo) -> bool:
+    """Uma linha "Art. 12. …" ou "Art. 220:º …" dentro de outro artigo, com o número que falta
+    entre o artigo e o seguinte: o parser não a reconheceu e o artigo ficaria colado ao anterior."""
+    artigos = corpo_.artigos
+    for atual, seguinte in zip(artigos, artigos[1:] + [None]):
+        de = int(re.match(r"\d+", atual.numero).group()) if re.match(r"\d+", atual.numero) else None
+        ate = int(re.match(r"\d+", seguinte.numero).group()) if seguinte and re.match(r"\d+", seguinte.numero) else None
+        if de is None:
+            continue
+        for linha in atual.linhas[1:]:
+            m = _ARTIGO_SOLTO.match(linha.strip())
+            if m and int(m.group(1)) > de and (ate is None or int(m.group(1)) < ate):
+                return True
+    return False
 
 
 # --- Referências a um diploma ---------------------------------------------------------------

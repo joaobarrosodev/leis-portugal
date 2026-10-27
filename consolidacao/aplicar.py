@@ -250,15 +250,35 @@ def _fim(artigo: Artigo) -> list[str]:
     return [""] * n
 
 
+_ROMANO = re.compile(r"^[IVXLC]+\.?$")
+_NOME = r"[A-ZÁÂÉÍÓÚ][\w'’.-]*(?: (?:de|da|do|dos|das|e|[A-ZÁÂÉÍÓÚ][\w'’.-]*))+"
+_NOMES = re.compile(rf"^{_NOME}(?: - {_NOME})*\.?$")
+
+
 def _formulas_finais(artigo: Artigo) -> list[str]:
-    """As fórmulas finais ("Visto e aprovado…", assinaturas) que ficaram no bloco do último
-    artigo, até ao fim do bloco. Não são do artigo: ficam quando o artigo é reescrito."""
+    """O que ficou no fim do bloco do artigo e não é do artigo: as fórmulas finais ("Visto e
+    aprovado…", "Promulgado…", com a linha dos nomes que as precede) e os títulos de capítulo
+    em texto corrido ("III" e o título na linha seguinte). Ficam quando o artigo é reescrito."""
     from leis_portugal.domain.articles import _signature
 
-    for i, linha in enumerate(artigo.linhas[1:], 1):
-        if _signature(linha.strip()):
-            return artigo.linhas[i:]
-    return []
+    linhas = artigo.linhas
+    cheias = [i for i in range(1, len(linhas)) if linhas[i].strip()]
+    inicio = next((i for i in cheias if _signature(linhas[i].strip())), None)
+    if inicio is not None:
+        antes = [i for i in cheias if i < inicio]
+        if antes and _NOMES.match(linhas[antes[-1]].strip()):
+            inicio = antes[-1]
+    else:
+        # Título de capítulo no fim do bloco: o numeral romano (ou "CAPÍTULO …") e até duas
+        # linhas curtas a seguir, sem nada depois.
+        for k in range(len(cheias) - 1, max(len(cheias) - 4, 0) - 1, -1):
+            linha = linhas[cheias[k]].strip()
+            if (_ROMANO.match(linha) or (_TITULOS_ESTRUTURA.match(linha) and len(linha) < 120)) and k > 0 and all(
+                len(linhas[i].strip()) < 120 and not linhas[i].strip().endswith((";", ",")) for i in cheias[k + 1 :]
+            ):
+                inicio = cheias[k]
+                break
+    return linhas[inicio:] if inicio is not None else []
 
 
 def _reescrever(artigo: Artigo, epigrafe: str, paragrafos: list[str], nota: str) -> None:

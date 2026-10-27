@@ -18,7 +18,7 @@
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 3.º\n\nO Ministro da Educação e Cultura procederá, mediante portaria, às alterações de designação das escolas secundárias tornadas necessárias por força do disposto no presente decreto-lei.\n\nMário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 14 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
-    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17.\n\nPromulgado em 14 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), publicado em 1979-07-17.\n\nMário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 14 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

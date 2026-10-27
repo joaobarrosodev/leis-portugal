@@ -270,6 +270,10 @@ Dos cereais
 
 > Revogado pelo/a [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), publicado em 1974-08-19.
 
+III
+
+Das farinhas
+
 ###### Artigo 13.º
 
 (Revogado.)
@@ -305,6 +309,10 @@ Dos cereais
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), publicado em 1974-08-19.
+
+IV
+
+Do pão e produtos afins
 
 ###### Artigo 19.º
 
@@ -383,6 +391,10 @@ Dos cereais
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), publicado em 1974-08-19.
+
+V
+
+Disposições diversas
 
 ###### Artigo 32.º
 
