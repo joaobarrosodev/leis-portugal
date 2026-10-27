@@ -12,6 +12,7 @@ também em maiúsculas (`## ANEXO`), que o `comum.py` não reconhece.
 
 from __future__ import annotations
 
+import json
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -35,6 +36,32 @@ def corpo(markdown: str) -> str:
         if fim != -1:
             return markdown[fim + 5 :]
     return markdown
+
+
+CONSOLIDADO_AQUI = "Versão consolidada pelo leis-portugal"
+_PUBLICADOS: dict[str, str] = {}
+
+
+def publicado(caminho: Path) -> str:
+    """O corpo do registo como foi publicado.
+
+    Os registos que `consolidacao/acervo.py` aplicou ao acervo têm em `data/` o texto em vigor;
+    o publicado é o `texto_original` da entrada da verificação às cegas (a da última ronda em
+    que o diploma esteve), que o `acervo.py` confirmou ser o que estava em `data/`.
+    """
+    markdown = caminho.read_text(encoding="utf-8")
+    meta = front_matter(markdown)
+    if not str((meta.get("version") or {}).get("label") or "").startswith(CONSOLIDADO_AQUI):
+        return corpo(markdown)
+    if not _PUBLICADOS:
+        rondas = (RAIZ / "consolidacao" / "verificacao").glob("entrada-piloto*.jsonl")
+        for entrada in sorted(rondas, key=lambda p: int(re.sub(r"\D", "", p.name) or 1)):
+            for linha in entrada.read_text(encoding="utf-8").splitlines():
+                d = json.loads(linha)
+                _PUBLICADOS[d["id"]] = d["texto_original"]
+    if meta["id"] not in _PUBLICADOS:
+        raise ValueError(f"{caminho}: consolidado pelo leis-portugal sem entrada da verificação às cegas")
+    return _PUBLICADOS[meta["id"]]
 
 
 def front_matter(markdown: str) -> dict:

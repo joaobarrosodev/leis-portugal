@@ -29,7 +29,7 @@ import yaml
 
 from alteracoes import ler, paragrafos
 from aplicar import Fonte, aplicar
-from texto import RAIZ, Corpo, com_titulos, corpo, dividir, front_matter, normalizar, sem_ligacoes
+from texto import RAIZ, Corpo, com_titulos, dividir, front_matter, normalizar, publicado, sem_ligacoes
 from verificar import republicacao, verificar
 
 PASTA = RAIZ / "consolidacao"
@@ -65,9 +65,8 @@ def processar(registo: dict, escrever: bool = True) -> dict:
     if alterador_meta.get("text_quality") != "texto":
         return estado | {"estado": "sem texto", "motivo": f"o diploma que altera só tem {alterador_meta.get('text_quality')}"}
 
-    markdown_original = (RAIZ / registo["path"]).read_text(encoding="utf-8")
-    markdown_alterador = (RAIZ / alterador_meta["path"]).read_text(encoding="utf-8")
-    texto_original, texto_alterador = corpo(markdown_original), corpo(markdown_alterador)
+    # Os registos que o `acervo.py` já consolidou têm em `data/` o texto em vigor: aqui conta o publicado.
+    texto_original, texto_alterador = publicado(RAIZ / registo["path"]), publicado(RAIZ / alterador_meta["path"])
     original = dividir(texto_original)
     if not original.artigos and (normalizado := com_titulos(texto_original)) is not None:
         # Artigos em texto corrido: os títulos vêm do parser da fase 3 (ver `com_titulos`).
@@ -96,7 +95,7 @@ def processar(registo: dict, escrever: bool = True) -> dict:
         motivo = _sem_artigos(texto_original)
         return estado | {"estado": "para LLM", "motivo": motivo, "pendentes": _pendentes(registo, original, leitura, None, motivo)}
 
-    meta = front_matter(markdown_alterador)
+    meta = front_matter((RAIZ / alterador_meta["path"]).read_text(encoding="utf-8"))
     fonte = Fonte(alterador_meta["title"], (meta.get("source") or {}).get("official_url") or "", alterador_meta.get("publication_date") or "")
     consolidado = dividir(texto_original)
     resultado = aplicar(consolidado, leitura.instrucoes, fonte)

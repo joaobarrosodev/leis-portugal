@@ -28,7 +28,7 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-from texto import RAIZ, corpo
+from texto import RAIZ, corpo, publicado
 
 PASTA = RAIZ / "consolidacao"
 SAIDA = PASTA / "llm"
@@ -87,7 +87,7 @@ def pedido(diploma: dict, selecao: dict) -> str:
         partes += [f"### {chave}\n{texto}\n" for chave, texto in artigos.items()]
     else:
         # Original sem artigos identificados: vai o texto inteiro.
-        partes += ["## Texto do original", corpo((RAIZ / selecao["path"]).read_text(encoding="utf-8"))]
+        partes += ["## Texto do original", publicado(RAIZ / selecao["path"])]
     partes.append("## Instruções do diploma que altera")
     partes += [f"### Instrução {i}\n{item['excerto']}\n" for i, item in enumerate(diploma["itens"], 1)]
     return "\n".join(partes)
@@ -97,8 +97,8 @@ def verificar_resposta(resultado: dict, diploma: dict, selecao: dict) -> list[st
     """Cada parágrafo devolvido vem, letra a letra, do diploma que altera ou do original."""
     from verificar import _REVOGADO, _plano
 
-    alterador = _plano(corpo((RAIZ / selecao["alterador"]["path"]).read_text(encoding="utf-8")))
-    original = _plano(corpo((RAIZ / selecao["path"]).read_text(encoding="utf-8")))
+    alterador = _plano(publicado(RAIZ / selecao["alterador"]["path"]))
+    original = _plano(publicado(RAIZ / selecao["path"]))
     problemas = []
     for artigo in resultado.get("artigos", []):
         for p in (x.strip() for x in artigo["texto"].split("\n\n") if x.strip()):

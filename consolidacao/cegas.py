@@ -25,7 +25,7 @@ import argparse
 import json
 import re
 
-from texto import RAIZ, artigos_alteradores, com_titulos, corpo
+from texto import RAIZ, artigos_alteradores, com_titulos, corpo, publicado
 
 PASTA = RAIZ / "consolidacao"
 
@@ -57,13 +57,13 @@ def main() -> int:
             if anteriores.get(r["id"]) == consolidado:
                 continue
             alterador = registo["alterador"]
-            texto_alterador = corpo((RAIZ / alterador["path"]).read_text(encoding="utf-8"))
+            texto_alterador = publicado(RAIZ / alterador["path"])
             completo = len(texto_alterador) <= LIMITE
             if not completo:
                 texto_alterador = "\n\n".join(
                     "\n".join(a.linhas).strip() for a in artigos_alteradores(texto_alterador, registo["title"])
                 )
-            original = corpo((RAIZ / registo["path"]).read_text(encoding="utf-8"))
+            original = publicado(RAIZ / registo["path"])
             linha = {
                 "id": r["id"],
                 "titulo": registo["title"],
