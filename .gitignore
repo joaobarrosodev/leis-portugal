@@ -228,3 +228,7 @@ exports/
 .cache/
 # Perguntas tiradas de FAQs oficiais sem licença clara de reutilização (ver avaliacao/README.md)
 avaliacao/privado/
+# Índices do protótipo de RAG e pacotes opcionais instalados à parte (ver rag/README.md)
+rag/indice/
+rag/resultados/privado/
+.rag-deps/

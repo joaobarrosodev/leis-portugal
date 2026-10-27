@@ -37,6 +37,11 @@ dev = [
 export = [
   "pyarrow>=14"
 ]
+# Protótipo de RAG (rag/): radical Snowball, reranker e embeddings locais, e o LLM (opcional)
+rag = [
+  "fastembed>=0.9",
+  "anthropic>=0.70"
+]
 
 [project.scripts]
 leis-portugal = "leis_portugal.cli:main"
